@@ -1,0 +1,2845 @@
+{{External|vc=Unlocks}}
+[[File:Unlocks menu.jpg|thumb|400px|Unlocks menu, with all base game achievements unlocked.]]
+'''Achievements''', displayed as '''Unlocks''' in-game, unlock new [[item]]s, [[character]]s, [[stage]]s, [[Relics|gameplay features]], or [[Gold Coin (currency)|gold coins]] when completed. When they are completed, the corresponding achievement will also be unlocked on the gaming platform if it supports an achievement system. For the Steam version in particular, the achievements from the base game, as well as the [[Legacy of the Moonspell]] and [[Tides of the Foscari]] DLC, are required to achieve 100% completion. This makes a total number of '''243''' required achievements.
+
+While collab [[DLC]]s have their own unlocks, due to licensing deals that can expire and stop the distribution of collaboration DLCs, the achievements may be unobtainable in the future for some people. This concern prevented the development team to implement achievement support for these DLCs on any platforms.
+
+With the release of [[Ante Chamber]], the total number of achievements is '''449'''.
+
+==Base Game==
+{|class="wikitable lighttable"
+|+List of achievements
+!Icon
+!Achievement
+!Description
+!Unlocks
+!Notes
+|-
+|[[File:Achieve-Wings.jpg|64px|center]]
+|Wings
+|Reach Level 5.
+|[[Wings]]
+|
+|-
+|[[File:Achieve-Crown.jpg|64px|center]]
+|Crown
+|Reach Level 10.
+|[[Crown]]
+|
+|-
+|[[File:Achieve-Inlaid Library.jpg|64px|center]]
+|Inlaid Library
+|Reach Level 20 in [[Mad Forest]].
+|[[Inlaid Library]]
+|
+|-
+|[[File:Achieve-Dairy Plant.jpg|64px|center]]
+|Dairy Plant
+|Reach Level 40 in [[Inlaid Library]].
+|[[Dairy Plant]]
+|
+|-
+|[[File:Achieve-Gallo Tower.jpg|64px|center]]
+|Gallo Tower
+|Reach Level 60 in [[Dairy Plant]].
+|[[Gallo Tower]]
+|
+|-
+|[[File:Achieve-Cappella Magna.jpg|64px|center]]
+|Cappella Magna
+|Reach Level 80 in [[Gallo Tower]].
+|[[Cappella Magna]]
+|
+|-
+|[[File:Achieve-Bat Country.jpg|64px|center]]
+|EXTRA: Bat Country
+|Reach Level 80 in [[Inverse mode|Inverse]] Mad Forest.
+|[[Bat Country|Hyper Bat Country]]
+|
+|-
+|[[File:Achieve-Astral Stair.jpg|64px|center]]
+|EXTRA: Astral Stair
+|Reach Level 80 in Inverse Inlaid Library.
+|[[Astral Stair|Hyper Astral Stair]]
+|
+|-
+|[[File:Achieve-Mazerella.jpg|64px|center]]
+|EXTRA: Mazerella
+|Reach Level 80 in Inverse Dairy Plant.
+|[[Mazerella|Hyper Mazerella]]
+|
+|-
+|[[File:Achieve-Tiny Bridge.jpg|64px|center]]
+|EXTRA: Tiny Bridge
+|Reach Level 80 in Inverse Gallo Tower.
+|[[Tiny Bridge|Hyper Tiny Bridge]]
+|
+|-
+|[[File:Achieve-Hollow Heart.jpg|64px|center]]
+|Hollow Heart
+|Survive 1 minute with any [[character]].
+|[[Hollow Heart]]
+|
+|-
+|[[File:Achieve-Runetracer.jpg|64px|center]]
+|Runetracer
+|Survive 5 minutes with [[Pasqualina Belpaese|Pasqualina]].
+|[[Runetracer]]
+|
+|-
+|[[File:Achieve-Pummarola.jpg|64px|center]]
+|Pummarola
+|Survive 5 minutes with [[Gennaro Belpaese|Gennaro]].
+|[[Pummarola]]
+|
+|-
+|[[File:Achieve-Peachone.jpg|64px|center]]
+|Peachone
+|Survive 10 minutes with any character.
+|[[Peachone]]
+|
+|-
+|[[File:Achieve-Phiera Der Tuphello.jpg|64px|center]]
+|Phiera Der Tuphello
+|Survive 10 minutes with [[Pugnala Provola|Pugnala]].
+|[[Phiera Der Tuphello]]
+|
+|-
+|[[File:Achieve-Eight The Sparrow.jpg|64px|center]]
+|Eight The Sparrow
+|Survive 15 minutes with Pugnala.
+|[[Eight The Sparrow]]
+|
+|-
+|[[File:Achieve-Gatti Amari.jpg|64px|center]]
+|Gatti Amari
+|Survive 15 minutes with [[Giovanna Grana|Giovanna]].
+|[[Gatti Amari]]
+|
+|-
+|[[File:Achieve-Song Of Mana.jpg|64px|center]]
+|Song Of Mana
+|Survive 15 minutes with [[Poppea Pecorina|Poppea]].
+|[[Song of Mana]]
+|
+|-
+|[[File:Achieve-Shadow Pinion.jpg|64px|center]]
+|Shadow Pinion
+|Survive 15 minutes with [[Concetta Caciotta|Concetta]].
+|[[Shadow Pinion]]
+|
+|-
+|[[File:Achieve-Vento Sacro.jpg|64px|center]]
+|Vento Sacro
+|Survive 15 minutes with [[Zi'Assunta Belpaese|Zi'Assunta]].
+|[[Vento Sacro]]
+|
+|-
+|[[File:Achieve-Pentagram.jpg|64px|center]]
+|Pentagram
+|Survive 20 minutes with any character.
+|[[Pentagram]]
+|
+|-
+|[[File:Achieve-Tiragisú.jpg|64px|center]]
+|Tiragisú
+|Survive 20 minutes with [[Krochi Freetto|Krochi]].
+|[[Tiragisú]]
+|
+|-
+|[[File:Achieve-Lama.jpg|64px|center]]
+|Lama
+|Survive 20 minutes with at least +10% [[Curse]].
+|[[Lama Ladonna|Lama]]
+|The actual unlock condition is to have any amount of Curse higher than the base value at the end of a 20+ minute run.
+|-
+|[[File:Achieve-She-Moon.jpg|64px|center]]
+|EXTRA: She-Moon Eeta
+|Survive 20 minutes in [[Whiteout]]. 
+|[[She-Moon Eeta]]
+|
+|-
+|[[File:Achieve-Santa.jpg|64px|center]]
+|EXTRA: Santa Ladonna
+|Survive 20 minutes in [[Laborratory]].
+|[[Santa Ladonna]]
+|
+|-
+|[[File:Achieve-Gazebo.jpg|64px|center]]
+|EXTRA: Gazebo
+|Survive 20 minutes in [[The Coop]].
+|[[Gazebo]]
+|Used to be unlocked by evolving [[Gaze of Gaea]] into [[Embrace of Gaea]].
+|-
+|[[File:Achieve-Chula-Reh.jpg|64px|center]]
+|EXTRA: Chula-Reh
+|Survive 20 minutes in [[Westwoods]].
+|[[Chula-Reh]]
+|
+|-
+|[[File:Achieve-Space Dude.jpg|64px|center]]
+|EXTRA: Space Dude
+|Survive 20 minutes in [[Space 54]].
+|[[Space Dude]]
+|
+|-
+|[[File:Achieve-Skull O'Maniac.jpg|64px|center]]
+|Skull O'Maniac
+|Survive 30 minutes with [[Lama Ladonna|Lama]].
+|[[Skull O'Maniac]]
+|
+|-
+|[[File:Achieve-Bracer.jpg|64px|center]]
+|Bracer
+|Get [[King Bible]] to Level 4.
+|[[Bracer]]
+|
+|-
+|[[File:Achieve-Candelabrador.jpg|64px|center]]
+|Candelabrador
+|Get [[Santa Water]] to Level 4.
+|[[Candelabrador]]
+|
+|-
+|[[File:Achieve-Arca.jpg|64px|center]]
+|Arca
+|Get [[Fire Wand]] to Level 4.
+|[[Arca Ladonna|Arca]]
+|
+|-
+|[[File:Achieve-Porta.jpg|64px|center]]
+|Porta
+|Get [[Lightning Ring]] to Level 4.
+|[[Porta Ladonna|Porta]]
+|
+|-
+|[[File:Achieve-Duplicator.jpg|64px|center]]
+|Duplicator
+|Get [[Magic Wand]] to Level 7.
+|[[Duplicator]]
+|
+|-
+|[[File:Achieve-Ebony Wings.jpg|64px|center]]
+|Ebony Wings
+|Get [[Peachone]] to Level 7.
+|[[Ebony Wings]]
+|
+|-
+|[[File:Achieve-Spellbinder.jpg|64px|center]]
+|Spellbinder
+|Get [[Runetracer]] to Level 7.
+|[[Spellbinder]]
+|
+|-
+|[[File:Achieve-Poe.jpg|64px|center]]
+|Poe Ratcho
+|Get [[Garlic]] to level 7.
+|[[Poe Ratcho|Poe]]
+|
+|-
+|[[File:Achieve-Christine.jpg|64px|center]]
+|Christine
+|Get [[Pentagram]] to level 7.
+|[[Christine Davain|Christine]]
+|
+|-
+|[[File:Achieve-Glass Fandango.jpg|64px|center]]
+|EXTRA: Glass Fandango 
+|Get [[Glass Fandango]] to Level 7.
+|[[Glass Fandango]]
+|
+|-
+|[[File:Achieve-Santa Javelin.jpg|64px|center]]
+|EXTRA: Santa Javelin
+|Get [[Santa Javelin]] to level 7.
+|[[Santa Javelin]]
+|
+|-
+|[[File:Achieve-Magi-Stone.jpg|64px|center]]
+|EXTRA: Magi-Stone
+|Get [[Magi-Stone]] to Level 7.
+|[[Magi-Stone]]
+|
+|-
+|[[File:Achieve-Phas3r.jpg|64px|center]] 
+|EXTRA: Phas3r
+|Get [[Phas3r]] to level 7.
+|[[Phas3r]] 
+|
+|-
+|[[File:Achieve-Omni.jpg|64px|center]]
+|Omni
+|Get [[Torrona's Box]] to Level 9.
+|[[Omni]]
+|
+|-
+|[[File:Achieve-Torrona's Box.jpg|64px|center]]
+|Torrona's Box
+|Hold 6 different [[Evolution|weapon evolutions]] at once.
+|[[Torrona's Box]]
+|
+|-
+|[[File:Achieve-Empty Tome.jpg|64px|center]]
+|Empty Tome
+|Hold 6 different [[weapons]] at once.
+|[[Empty Tome]]
+|
+|-
+|[[File:Achieve-Clerici.jpg|64px|center]]
+|Suor Clerici
+|Recover a lifetime total of 1000 [[Max Health|HP]].
+|[[Suor Clerici]]
+|
+|-
+|[[File:Achieve-Dommario.jpg|64px|center]]
+|Dommario
+|Earn 5000 [[Gold Coin (currency)|coins]] in a single run.
+|[[Dommario]]
+|
+|-
+|[[File:Achieve-Bracelet.jpg|64px|center]]
+|Bracelet
+|Survive 30 minutes with either [[Iguana Gallo Valletto|Gallo]] or [[Divano Thelma|Divano]].
+|[[Bracelet]]
+|
+|-
+|[[File:Achieve-Fire Wand.jpg|64px|center]]
+|Fire Wand
+|Destroy 20 [[light source]]s.
+|[[Fire Wand]]
+|
+|-
+|[[File:Achieve-Garlic.jpg|64px|center]]
+|Garlic
+|Find 5 [[Floor Chicken]]s.
+|[[Garlic]]
+|
+|-
+|[[File:Achieve-Clover.jpg|64px|center]]
+|Clover
+|Find a [[Little Clover]].
+|[[Clover]]
+|
+|-
+|[[File:Achieve-Magnet.jpg|64px|center]]
+|Magnet
+|Find a [[Vacuum]].
+|[[Attractorb]]
+|
+|-
+|[[File:Achieve-Clock Lancet.jpg|64px|center]]
+|Lancet
+|Find an [[Orologion]].
+|[[Clock Lancet]]
+|
+|-
+|[[File:Achieve-Cross.jpg|64px|center]]
+|Cross
+|Find a [[Rosary]].
+|[[Cross]]
+|
+|-
+|[[File:Achieve-Stone Mask.jpg|64px|center]]
+|Stone Mask
+|Find a [[Stone Mask]].
+|[[Stone Mask]]
+|
+|-
+|[[File:Achieve-Arma Dio.jpg|64px|center]]
+|EXTRA: Arma Dio
+|Find an [[Arma Dio]].
+|[[Arma Dio]]
+|
+|-
+|[[File:Achieve-Parm Aegis.jpg|64px|center]]
+|EXTRA: Parm Aegis
+|Find a [[Parm Aegis]] in [[The Coop]].
+|[[Parm Aegis]]
+|Parm Aegis can also be unlocked by finding it as a stage item in any other stage besides The Coop.
+|-
+|[[File:Achieve-Karoma's Mana.jpg|64px|center]]
+|EXTRA: Karoma's Mana
+|Find a [[Karoma's Mana]] in [[Westwoods]].
+|[[Karoma's Mana]]
+|Karoma's Mana can also be unlocked by finding it as a stage item in any other stage besides Westwoods.
+|-
+|[[File:Achieve-Whiteout.jpg|64px|center]]
+|EXTRA: Whiteout
+|Find 20 [[Orologion]]s. 
+|[[Whiteout|Hyper Whiteout]]
+|
+|-
+|[[File:Achieve-Laborratory.jpg|64px|center]] 
+|EXTRA: Laborratory
+|Find 33 [[Rosary|Rosaries]].
+|[[Laborratory|Hyper Laborratory]]
+|
+|-
+|[[File:Achieve-The Coop.jpg|64px|center]]
+|EXTRA: The Coop
+|Find 500 [[Floor Chicken]]s.
+|[[The Coop|Hyper The Coop]]
+|
+|-
+|[[File:Achieve-Westwoods.jpg|64px|center]]
+|EXTRA: Westwoods
+|Find 23 [[Little Clover]]s.
+|[[Westwoods|Hyper Westwoods]]
+|
+|-
+|[[File:Achieve-Space 54.jpg|64px|center]]
+|EXTRA: Space 54
+|Find 5 [[Gold Finger]]s.
+|[[Space 54|Hyper Space 54]]
+|
+|-
+|[[File:Achieve-Carlo Cart.jpg|64px|center]] 
+|EXTRA: Carlo Cart
+|Deal a total of 25120 damage with the [[Take Us Away|Laborratory Train]].
+|[[Carlo Cart|Hyper Carlo Cart]]
+|
+|-
+|[[File:Achieve-Grim Grimoire.jpg|64px|center]]
+|Grim Grimoire
+|Find the [[Grim Grimoire]].
+|[[Grim Grimoire|Evolution list]]
+|
+|-
+|[[File:Achieve-Magic Banger.jpg|64px|center]]
+|Magic Banger
+|Find the [[Magic Banger]].
+|[[Magic Banger|Music selection]]
+|
+|-
+|[[File:Achieve-Milky Way Map.jpg|64px|center]]
+|Milky Way Map
+|Find the [[Milky Way Map]].
+|[[Milky Way Map|Pause menu map]]
+|
+|-
+|[[File:Achieve-Ars Gouda.jpg|64px|center]]
+|Ars Gouda
+|Find the [[Ars Gouda]].
+|[[Enemy|Bestiary]]
+|
+|-
+|[[File:Achieve-Sorceress' Tears.jpg|64px|center]]
+|Sorceress' Tears
+|Find the [[Sorceress' Tears]].
+|[[Hurry mode]]
+|
+|-
+|[[File:Achieve-Randomazzzo.jpg|64px|center]]
+|Randomazzo
+|Find the [[Randomazzo]].
+|[[Arcana]]s
+|Until Randomazzo has been found, other Arcana-related achievements are not visible.
+|-
+|[[File:Achieve-Glass Vizard.jpg|64px|center]]
+|Glass Vizard
+|Find and buy the [[Glass Vizard]].
+|[[Merchant]]
+|
+|-
+|[[File:Achieve-Yellow Sign.jpg|64px|center]]
+|I can't see anything...
+|Find the [[Yellow Sign]].
+|Hidden [[Passive item#Stage items|stage items]]
+|
+|-
+|[[File:Achieve-Forbidden Scrolls.jpg|64px|center]]
+|Forbidden Scrolls
+|Find the [[Forbidden Scrolls of Morbane]].
+|???
+|Unlocks [[Secrets|secrets]] and [[Spells|spell]]s
+|-
+|[[File:Achieve-Great Gospel.jpg|64px|center]]
+|Great Gospel
+|Find the [[Great Gospel]].
+|[[Limit Break]]
+|
+|-
+|[[File:Achieve-The Eudaimonia Machine.jpg|64px|center]]
+|The Eudaimonia Machine
+|Obtain all standard [[relic]]s from all [[stage]]s.
+|[[Eudaimonia Machine|Eudaimonia M.]]
+|
+|-
+|[[File:Achieve-Gracia's Mirror.jpg|64px|center]]
+|Gracia's Mirror
+|Find the [[Gracia's Mirror]].
+|[[Inverse mode]]
+|
+|-
+|[[File:Achieve-Seventh Trumpet.jpg|64px|center]]
+|Seventh Trumpet
+|Find the [[Seventh Trumpet]].
+|[[Endless mode]]
+|
+|-
+|[[File:Achieve-Atlas Gate.jpg|64px|center]]
+|EXTRA: Adventures 
+|Obtain the [[Atlas Gate]] in [[Boss Rash]].
+|[[Adventures|Base game Adventures]]
+|
+|-
+|[[File:Achieve-Apoplexy.jpg|64px|center]]
+|EXTRA: Apoplexy
+|Find the [[Apoplexy]] at minute 9:00 in [[Bat Country]].
+|[[Charm]] [[PowerUp]]
+|(outdated image)
+|-
+|[[File:Achieve-Antidote.jpg|64px|center]]
+|EXTRA: Antidote
+|Find the [[Antidote]] in [[Whiteout]].
+|[[Defang]] [[PowerUp]]
+|
+|-
+|[[File:Achieve-Trisection.jpg|64px|center]]
+|EXTRA: Trisection
+|Find the [[Trisection]] in [[Astral Stair]].
+|[[Random Events]]
+|
+|-
+|[[File:Achieve-Brave Story.jpg|64px|center]]
+|EXTRA: Brave Story
+|Find the [[Brave Story]] at minute 18 in [[Space 54]].
+|[[Random LevelUp]]
+|
+|-
+|[[File:Achieve-Roast Chicken with a Clock in the Middle.jpg|64px|center]]
+|EXTRA: Game Speed Modifier
+|Find the [[Roast Chicken with a Clock in the Middle|Roast chicken with a clock in the middle]] at the end of [[The Coop]].
+|[[Roast Chicken with a Clock in the Middle|Game Speed Modifier]]
+|
+|-
+|[[File:Achieve-Masquerade.jpg|64px|center]]
+|EXTRA: Masquerade
+|Find the [[Masquerade]] Relic in [[Westwoods]].
+|[[Party Mode]]
+|
+|-
+|[[File:Achieve-Wax Fetish.jpg|64px|center]]
+|EXTRA: Preserve
+|Find the [[Wax Fetish]] in [[Mazerella]].
+|[[Preserve]] [[PowerUp]]
+|
+|-
+|[[File:Achieve-Chaos Malachite.jpg|64px|center]]
+|EXTRA: Chaos Malachite
+|Find the [[Chaos Malachite]] at minute 18:00 in [[Bat Country]].
+|[[Anima of Mortaccio]]
+|
+|-
+|[[File:Achieve-Chaos Rosalia.jpg|64px|center]]
+|EXTRA: Chaos Rosalia
+|Find the [[Chaos Rosalia]] in [[Astral Stair]].
+|[[Yatta Daikarin]]
+|
+|-
+|[[File:Achieve-Chaos Lazulia.jpg|64px|center]]
+|EXTRA: Chaos Lazulia
+|Find the [[Chaos Lazulia]] in [[Mazerella]].
+|[[Carozza!]]
+|
+|-
+|[[File:Achieve-Chaos Altemanna.jpg|64px|center]]
+|EXTRA: Chaos Altemanna
+|Find the [[Chaos Altemanna]] in [[Tiny Bridge]].
+|[[Profusione D'Amore]]
+|
+|-
+|[[File:Achieve-Astral Stair Map.jpg|64px|center]]
+|EXTRA: Astral Stair Map
+|Find the [[Astral Stair Map]].
+|[[Astral Stair Map]]
+|
+|-
+|[[File:Achieve-Coffin.jpg|64px|center]]
+|Coffin: Mad Forest
+|Find and open the [[coffin]] in the [[Mad Forest]].
+|[[Pugnala Provola|Pugnala]]
+|
+|-
+|[[File:Achieve-Coffin.jpg|64px|center]]
+|Coffin: Inlaid Library
+|Find and open the [[coffin]] in the [[Inlaid Library]].
+|[[Giovanna Grana|Giovanna]]
+|
+|-
+|[[File:Achieve-Coffin.jpg|64px|center]]
+|Coffin: Dairy Plant
+|Find and open the [[coffin]] in the [[Dairy Plant]].
+|[[Poppea Pecorina|Poppea]]
+|
+|-
+|[[File:Achieve-Coffin.jpg|64px|center]]
+|Coffin: Gallo Tower
+|Find and open the [[coffin]] in the [[Gallo Tower]].
+|[[Concetta Caciotta|Concetta]]
+|
+|-
+|[[File:Achieve-Coffin.jpg|64px|center]]
+|Coffin: Cappella Magna
+|Find and open the [[coffin]] in the [[Cappella Magna]].
+|[[Zi'Assunta Belpaese|Zi'Assunta]]
+|
+|-
+|[[File:Achieve-Gaze of Gaea.jpg|64px|center]]
+|EXTRA: Gaze of Gaea
+|Defeat 0 enemies in [[The Coop]].
+|[[Gaze of Gaea]]
+|
+|-
+|[[File:Achieve-Mortaccio.jpg|64px|center]]
+|Mortaccio
+|Defeat a total of 3000 Skeletons.
+|[[Mortaccio]]
+|Only [[Skeleton]]s count towards the defeated enemy total.
+Other skeleton-like enemies do not count.
+|-
+|[[File:Achieve-Cavallo.jpg|64px|center]]
+|Yatta Cavallo
+|Defeat a total of 3000 Lion Heads.
+|[[Yatta Cavallo]]
+|Only [[Lionhead]]s, count towards defeated enemy total.
+The boss version of the enemy, [[Colossal Lionhead]], does not count.
+|-
+|[[File:Achieve-Ramba.jpg|64px|center]]
+|Bianca Ramba
+|Defeat a total of 3000 [[Milk Elemental]]s.
+|[[Bianca Ramba]]
+|
+|-
+|[[File:Achieve-O'Sole Meeo.jpg|64px|center]]
+|O'Sole Meeo
+|Defeat a total of 3000 Dragon Shrimps.
+|[[O'Sole Meeo|O'Sole]]
+|Only [[Dragon Shrimp]], [[Flame Dragon Shrimp]], [[Serpentine Dragon Shrimp]], [[Serpentine Flame Dragon Shrimp]] count toward the defeated enemy total.
+The boss versions of these enemies, [[Colossal Bone Dragon]] and [[Colossal Flame Dragon]], and [[Serpentine Skeleton Dragon]], appearing in [[The Bone Zone]], do not count.
+|-
+|[[File:Achieve-Sir Ambrojoe.jpg|64px|center]]
+|Sir Ambrojoe
+|Defeat a total of 6000 Stage Killers.
+|[[Sir Ambrojoe]]
+|Only [[Stagekiller|Stage Killer]] and [[Elite Stagekiller|Elite Stage Killer]] count toward the defeated enemy total.
+|-
+|[[File:Achieve-Lightning Ring.jpg|64px|center]]
+|Lightning Ring
+|Defeat a total of 5000 [[enemies]].
+|[[Lightning Ring]]
+|
+|-
+|[[File:Achieve-Krochi.jpg|64px|center]]
+|Krochi
+|Defeat a total of 100000 enemies.
+|[[Krochi Freeto|Krochi]]
+|
+|-
+|[[File:Achieve-Pako Battiliar.jpg|64px|center]]
+|EXTRA: Pako Battiliar
+|Defeat a total of 161616 bats.
+|[[Pako Battiliar]]
+|
+|-
+|[[File:Achieve-Ammo Appalate.jpg|64px|center]]
+|EXTRA: Ammo Appalate
+|Defeat a total of 251096 Shooting Enemies.
+|[[Ammo Appalate]]
+|
+|-
+|[[File:Achieve-Victory Sword.jpg|64px|center]] 
+|Victory Sword
+|Defeat 100000 enemies in a single run with [[Queen Sigma]].
+|[[Victory Sword]]
+|
+|-
+|[[File:Achieve-Hyper Mad Forest.jpg|64px|center]]
+|Hyper Mad Forest
+|Defeat the giant Blue Venus in the Mad Forest.
+|[[Mad Forest|Hyper Mad Forest]]
+|Killing the [[Giant Blue Venus]] in a stage other than Mad Forest does not count.
+|-
+|[[File:Achieve-Hyper Inlaid Library.jpg|64px|center]]
+|Hyper Inlaid Library
+|Defeat the Hag in the Inlaid Library.
+|[[Inlaid Library|Hyper Inlaid Library]]
+|Killing the [[Hag]] in a stage other than Inlaid Library does not count.
+|-
+|[[File:Achieve-Hyper Dairy Plant.jpg|64px|center]]
+|Hyper Dairy Plant
+|Defeat the Sword Guardian in the Dairy Plant.
+|[[Dairy Plant|Hyper Dairy Plant]]
+|Killing the [[Sword Guardian]] in a stage other than Dairy Plant does not count.
+|-
+|[[File:Achieve-Hyper Gallo Tower.jpg|64px|center]]
+|Hyper Gallo Tower
+|Defeat the Giant Enemy Crab in the Gallo Tower.
+|[[Gallo Tower|Hyper Gallo Tower]]
+|Killing the [[Giant Enemy Crab]] in a stage other than Gallo Tower does not count.
+|-
+|[[File:Achieve-Hyper Cappella Magna.jpg|64px|center]]
+|Hyper Cappella Magna
+|Defeat the Trinacria in the Cappella Magna.
+|[[Cappella Magna|Hyper Cappella Magna]]
+|Killing the [[Trinacria]] in a stage other than Cappella Magna does not count.
+|-
+|[[File:Achieve-Il Molise.jpg|64px|center]]
+|Il Molise
+|Unlock [[Stage#Hyper Mode|Hyper mode]] any normal stages.
+|[[Il Molise|Hyper Il Molise]]
+|
+|-
+|[[File:Achieve-Green Acres.jpg|64px|center]]
+|Green Acres
+|Unlock Hyper mode for 2 normal stages.
+|[[Green Acres|Hyper Green Acres]]
+|
+|-
+|[[File:Achieve-The Bone Zone.jpg|64px|center]]
+|The Bone Zone
+|Unlock Hyper mode for 3 normal stages.
+|[[The Bone Zone|Hyper The Bone Zone]]
+|
+|-
+|[[File:Achieve-Moongolow.jpg|64px|center]]
+|Moongolow
+|Unlock Hyper mode for 4 normal stages.
+|[[Moongolow|Hyper Moongolow]]
+|
+|-
+|[[File:Achieve-Boss Rash.jpg|64px|center]]
+|Boss Rash
+|Unlock Hyper mode for all 5 normal stages.
+|[[Boss Rash|Hyper Boss Rash]]
+|
+|-
+|[[File:Achieve-Game Killer.jpg|64px|center]]
+|Game Killer
+|Defeat the final enemy in the Cappella Magna.
+|[[Game Killer (0)|Game Killer]]
+|
+|-
+|[[File:Achieve-Gemini.jpg|64px|center]]
+|I - Gemini
+|Reach Level 50 with [[Pugnala Provola|Pugnala]].
+|[[Gemini (I)|I - Gemini]]
+|
+|-
+|[[File:Achieve-Twilight Requiem.jpg|64px|center]]
+|II - Twilight Requiem
+|Reach Level 50 with [[Dommario]].
+|[[Twilight Requiem (II)|II - Twilight Requiem]]
+|
+|-
+|[[File:Achieve-Tragic Princess.jpg|64px|center]]
+|III - Tragic Princess
+|Reach Level 50 with [[Porta Ladonna|Porta]].
+|[[Tragic Princess (III)|III - Tragic Princess]]
+|
+|-
+|[[File:Achieve-Awake.jpg|64px|center]]
+|IV - Awake
+|Reach Level 50 with [[Krochi Freetto|Krochi]].
+|[[Awake (IV)|IV - Awake]]
+|
+|-
+|[[File:Achieve-Chaos in the Dark Night.jpg|64px|center]]
+|V - Chaos in the Dark Night
+|Reach Level 50 with [[Giovanna Grana|Giovanna]].
+|[[Chaos in the Dark Night (V)|V - Chaos in the Dark Night]]
+|
+|-
+|[[File:Achieve-Sarabande of Healing.jpg|64px|center]]
+|VI - Sarabande of Healing
+|Find the [[Randomazzo]].
+|[[Sarabande of Healing (VI)|VI - Sarabande of Healing]]
+|
+|-
+|[[File:Achieve-Iron Blue Will.jpg|64px|center]]
+|VII - Iron Blue Will
+|Reach Level 50 with [[Gennaro Belpaese|Gennaro]].
+|[[Iron Blue Will (VII)|VII - Iron Blue Will]]
+|
+|-
+|[[File:Achieve-Mad Groove.jpg|64px|center]]
+|VIII - Mad Groove
+|Reach minute 31 in the [[Mad Forest]].
+|[[Mad Groove (VIII)|VIII - Mad Groove]]
+|Can also be achieved by defeating [[The Reaper]].
+|-
+|[[File:Achieve-Divine Bloodline.jpg|64px|center]]
+|IX - Divine Bloodline
+|Reach Level 50 with [[Suor Clerici]].
+|[[Divine Bloodline (IX)|IX - Divine Bloodline]]
+|
+|-
+|[[File:Achieve-Beginning.jpg|64px|center]]
+|X - Beginning
+|Reach Level 50 with [[Antonio Belpaese|Antonio]].
+|[[Beginning (X)|X - Beginning]]
+|
+|-
+|[[File:Achieve-Waltz of Pearls.jpg|64px|center]]
+|XI - Waltz of Pearls
+|Reach Level 50 with [[Imelda Belpaese|Imelda]].
+|[[Waltz of Pearls (XI)|XI - Waltz of Pearls]]
+|
+|-
+|[[File:Achieve-Out of Bounds.jpg|64px|center]]
+|XII - Out of Bounds
+|Reach minute 31 in the [[Gallo Tower]].
+|[[Out of Bounds (XII)|XII - Out of Bounds]]
+|Can also be achieved by defeating [[The Reaper]].
+|-
+|[[File:Achieve-Wicked Season.jpg|64px|center]]
+|XIII - Wicked Season
+|Reach Level 50 with [[Christine Davain|Christine]].
+|[[Wicked Season (XIII)|XIII - Wicked Season]]
+|
+|-
+|[[File:Achieve-Jail of Crystal.jpg|64px|center]]
+|XIV - Jail of Crystal
+|Reach Level 50 with [[Pasqualina Belpaese|Pasqualina]].
+|[[Jail of Crystal (XIV)|XIV - Jail of Crystal]]
+|
+|-
+|[[File:Achieve-Disco of Gold.jpg|64px|center]]
+|XV - Disco of Gold
+|Reach minute 31 in the [[Inlaid Library]].
+|[[Disco of Gold (XV)|XV - Disco of Gold]]
+|Can also be achieved by defeating [[The Reaper]].
+|-
+|[[File:Achieve-Slash.jpg|64px|center]]
+|XVI - Slash
+|Reach Level 50 with [[Lama Ladonna|Lama]].
+|[[Slash (XVI)|XVI - Slash]]
+|
+|-
+|[[File:Achieve-Lost & Found Painting.jpg|64px|center]]
+|XVII - Lost & Found Painting
+|Reach Level 50 with [[Poppea Pecorina|Poppea]].
+|[[Lost & Found Painting (XVII)|XVII - Lost & Found Painting]]
+|
+|-
+|[[File:Achieve-Boogaloo of Illusions.jpg|64px|center]]
+|XVIII - Boogaloo of Illusions
+|Reach Level 50 with [[Concetta Caciotta|Concetta]].
+|[[Boogaloo of Illusions (XVIII)|XVIII - Boogaloo of Illusions]]
+|
+|-
+|[[File:Achieve-Heart of Fire.jpg|64px|center]]
+|XIX - Heart of Fire
+|Reach Level 50 with [[Arca Ladonna|Arca]].
+|[[Heart of Fire (XIX)|XIX - Heart of Fire]]
+|
+|-
+|[[File:Achieve-Silent Old Sanctuary.jpg|64px|center]]
+|XX - Silent Old Sanctuary
+|Reach minute 31 in the [[Dairy Plant]].
+|[[Silent Old Sanctuary (XX)|XX - Silent Old Sanctuary]]
+|Can also be achieved by defeating [[The Reaper]].
+|-
+|[[File:Achieve-Blood Astronomia.jpg|64px|center]]
+|XXI - Blood Astronomia
+|Reach Level 50 with [[Poe Ratcho|Poe]].
+|[[Blood Astronomia (XXI)|XXI - Blood Astronomia]]
+|
+|-
+|[[File:Achieve-Reroll.jpg|64px|center]]
+|Reroll 1
+|Reach Level 80 with [[Mortaccio]].
+|[[Reroll]]
+|
+|-
+|[[File:Achieve-Reroll.jpg|64px|center]]
+|Reroll 2
+|Reach Level 80 with [[Yatta Cavallo]].
+|Reroll
+|
+|-
+|[[File:Achieve-Reroll.jpg|64px|center]]
+|Reroll 3
+|Reach Level 80 with [[Bianca Ramba]].
+|Reroll
+|
+|-
+|[[File:Achieve-Reroll.jpg|64px|center]]
+|Reroll 4
+|Reach Level 80 with [[O'Sole Meeo]].
+|Reroll
+|
+|-
+|[[File:Achieve-Reroll.jpg|64px|center]]
+|Reroll 5
+|Reach Level 80 with [[Sir Ambrojoe]].
+|Reroll
+|
+|-
+|[[File:Achieve-Skip.jpg|64px|center]]
+|Skip 1
+|Survive 15 minutes in [[Il Molise|Molise]].
+|[[Skip]]
+|
+|-
+|[[File:Achieve-Skip.jpg|64px|center]]
+|Skip 4
+|Survive 15 minutes in [[Moongolow]].
+|Skip
+|
+|-
+|[[File:Achieve-Skip.jpg|64px|center]]
+|Skip 2
+|Survive 30 minutes in [[Green Acres]].
+|Skip
+|
+|-
+|[[File:Achieve-Skip.jpg|64px|center]]
+|Skip 3
+|Survive 30 minutes in [[The Bone Zone]].
+|Skip
+|
+|-
+|[[File:Achieve-Skip.jpg|64px|center]]
+|Skip 5
+|Survive 15 minutes in [[Boss Rash]].
+|Skip
+|
+|-
+|[[File:Achieve-Mindbender.jpg|64px|center]]
+|Mindbender
+|Fill 50 entries in the Collection.
+|[[Mindbender|Character customization]]
+|
+|-
+|[[File:Achieve-Banish.jpg|64px|center]]
+|Banish 1
+|Fill 60 entries in the [[Collection]].
+|[[Banish]]
+|
+|-
+|[[File:Achieve-Banish.jpg|64px|center]]
+|Banish 2
+|Fill 70 entries in the Collection.
+|Banish
+|
+|-
+|[[File:Achieve-Banish.jpg|64px|center]]
+|Banish 3
+|Fill 80 entries in the Collection.
+|Banish
+|
+|-
+|[[File:Achieve-Banish.jpg|64px|center]]
+|Banish 4
+|Fill 90 entries in the Collection.
+|Banish
+|
+|-
+|[[File:Achieve-Banish.jpg|64px|center]]
+|Banish 5
+|Fill 100 entries in the Collection.
+|Banish
+|
+|-
+|[[File:Achieve-Seal.jpg|64px|center]]
+|EXTRA: Seal I
+|Banish 10 or more [[weapons]] in a single run.
+|[[Seal|Seal I]]
+|You can satisfy this by banishing [[passive items]] as well.
+|-
+|[[File:Achieve-Seal.jpg|64px|center]]
+|EXTRA: Seal II
+|Banish 20 or more weapons in a single run. 
+|Seal II
+|You can satisfy this by banishing [[passive items]] as well.
+(outdated image)
+|-
+|[[File:Achieve-Seal.jpg|64px|center]]
+|EXTRA: Seal III
+|Banish 40 or more weapons in a single run. 
+|Seal III
+|You can satisfy this by banishing [[passive items]] as well.
+
+(outdated image)
+|-
+|[[File:Achieve-Seal All.jpg|64px|center]]
+|EXTRA: Seal All
+|Banish 80 or more weapons in a single run.
+|Seal All
+|You can satisfy this by banishing [[passive items]] as well.
+|-
+|[[File:Achieve-Queen Sigma.jpg|64px|center]]
+|Queen Sigma
+|Complete the Collection 1.0.
+|[[Queen Sigma]]
+|Does not include the [[Victory Sword]] or [[Sole Solution]].
+|-
+|[[File:Achieve-Greatest Jubilee.jpg|64px|center]]
+|Greatest Jubilee
+|See the final fireworks.
+|[[Greatest Jubilee]]
+|
+|-
+|[[File:Achieve-Infinite Corridor.jpg|64px|center]]
+|Seeker of the Infinite Corridor
+|Obtain the [[Infinite Corridor]].
+|[[Iguana Gallo Valletto|Iguana Gallo]]
+|
+|-
+|[[File:Achieve-Crimson Shroud.jpg|64px|center]]
+|Seeker of the Crimson Shroud
+|Obtain the [[Crimson Shroud]].
+|[[Divano Thelma|Divano]]
+|
+|-
+|[[File:Achieve-Robbert.jpg|64px|center]]
+|EXTRA: Bat Robbert
+|Evolve the [[Pako Battiliar]].
+|[[Bat Robbert|Robbert]]
+|
+|-
+|[[File:Achieve-Zi'Appunta.jpg|64px|center]]
+|EXTRA: Zi'Appunta Belpaese
+|Evolve the [[Ammo Appalate]].
+|[[Zi'Appunta Belpaese|Zi'Appunta]]
+|
+|-
+|[[File:Achieve-Bloody Tear.jpg|64px|center]]
+|Bloody Tear
+|Evolve the [[Whip]].
+|500 [[Gold Coin (currency)|gold coins]]
+|
+|-
+|[[File:Achieve-Holy Wand.jpg|64px|center]]
+|Holy Wand
+|Evolve the [[Magic Wand]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-Thousand Edge.jpg|64px|center]]
+|Thousand Edge
+|Evolve the [[Knife]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-Death Spiral.jpg|64px|center]]
+|Death Spiral
+|Evolve the [[Axe]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-La Borra.jpg|64px|center]]
+|La Borra
+|Evolve the [[Santa Water]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-Thunder Loop.jpg|64px|center]]
+|Thunder Loop
+|Evolve the [[Lightning Ring]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-Unholy Vespers.jpg|64px|center]]
+|Unholy Vespers
+|Evolve the [[King Bible]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-Heaven Sword.jpg|64px|center]]
+|Heaven Sword
+|Evolve the [[Cross]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-Hellfire.jpg|64px|center]]
+|Hellfire
+|Evolve the [[Fire Wand]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-Soul Eater.jpg|64px|center]]
+|Soul Eater
+|Evolve the [[Garlic]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-NO FUTURE.jpg|64px|center]]
+|NO FUTURE
+|Evolve the [[Runetracer]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-Gorgeous Moon.jpg|64px|center]]
+|Gorgeous Moon
+|Evolve the [[Pentagram]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-Vandalier.jpg|64px|center]]
+|Vandalier
+|Unite [[Ebony Wings]] and [[Peachone]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-Phieraggi.jpg|64px|center]]
+|Phieraggi
+|Evolve and unite the [[Phiera Der Tuphello]] and [[Eight The Sparrow]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-Vicious Hunger.jpg|64px|center]]
+|Vicious Hunger
+|Evolve the [[Gatti Amari]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-Mannajja.jpg|64px|center]]
+|Mannajja
+|Evolve the [[Song of Mana]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-Valkyrie Turner.jpg|64px|center]]
+|Valkyrie Turner
+|Evolve the [[Shadow Pinion]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-Fuwalafuwaloo.jpg|64px|center]]
+|Fuwalafuwaloo
+|Unite [[Vento Sacro]] and [[Bloody Tear]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-Tri-Bracelet.jpg|64px|center]]
+|Tri-Bracelet
+|Evolve the [[Bracelet]] and then the [[Bi-Bracelet]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-Celestial Voulge.jpg|64px|center]]
+|EXTRA: Celestial Voulge
+|Evolve the [[Glass Fandango]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-Seraphic Cry.jpg|64px|center]]
+|EXTRA: Seraphic Cry
+|Evolve the [[Santa Javelin]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-Embrace of Gaea.jpg|64px|center]]
+|EXTRA: Embrace of Gaea
+|Evolve the [[Gaze of Gaea]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-Kyra-Stones.jpg|64px|center]]
+|EXTRA: Kyra-Stones
+|Evolve the [[Magi-Stone]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-Photonstorm.jpg|64px|center]]
+|EXTRA: Photonstorm
+|Evolve the [[Phas3r]].
+|500 gold coins
+|
+|-
+|[[File:Achieve-Candybox.jpg|64px|center]]
+|Candybox
+|Discover every standard [[evolution]] and [[union]].
+|[[Candybox]]
+|
+|-
+|[[File:Achieve-Room 1665.jpg|64px|center]]
+|EXTRA: Room 1665
+|Dare to cast the [[Spells|spell]] "forbiddenbox".
+|[[Room 1665]]
+|
+|-
+|[[File:Achieve-Darkasso.jpg|64px|center]]
+|EXTRA: Darkasso
+|Be embraced by the [[Darkasso]].
+|[[Darkanas]]
+|
+|-
+|[[File:Achieve-Sapphire Mist.jpg|64px|center]]
+|EXTRA: I - Sapphire Mist
+|Reach a [[Cooldown]] bonus of -85% with [[Space Dude]].
+|[[Sapphire Mist (I)|I - Sapphire Mist]]
+|
+|-
+|[[File:Achieve-Hidden Anathema.jpg|64px|center]]
+|EXTRA: III - Hidden Anathema
+|Eat as much as possible with [[Gazebo]].
+|[[Hidden Anathema (III)|III - Hidden Anathema]]
+|
+|-
+|[[File:Achieve-Pale Diamond Incursion.jpg|64px|center]]
+|EXTRA: V - Pale Diamond Incursion
+|Find 10 [[Treasure Chest|Golden Treasure Chests]] in a single run with [[Zi'Appunta Belpaese|Zi'Appunta]].
+|[[Pale Diamond Incursion (V)|V - Pale Diamond Incursion]]
+|
+|-
+|[[File:Achieve-Moonlight Bolero.jpg|64px|center]]
+|EXTRA: VI - Moonlight Bolero
+|Be embraced by the [[Darkasso]].
+|[[Moonlight Bolero (VI)|VI - Moonlight Bolero]]
+|
+|-
+|[[File:Achieve-Hail from the Future.jpg|64px|center]]
+|EXTRA: X - Hail from the Future
+|Trigger a [[Seraphic Cry|Weird Souls Purifier]] with [[Santa Ladonna]].
+|[[Hail from the Future (X)|X - Hail from the Future]]
+|
+|-
+|[[File:Achieve-Crystal Cries.jpg|64px|center]]
+|EXTRA: XII - Crystal Cries
+|Trigger a [[Celestial Voulge|Starry Heavens]] with [[She-Moon Eeta]].
+|[[Crystal Cries (XII)|XII - Crystal Cries]]
+|
+|-
+|[[File:Achieve-Call of a Mad Moon.jpg|64px|center]]
+|EXTRA: XIII - Call of a Mad Moon
+|Reach +999% [[Luck]] with [[Chula-Reh]].
+|[[Call of a Mad Moon (XIII)|XIII - Call of a Mad Moon]]
+|
+|-
+|[[File:Achieve-Victorian Horror.jpg|64px|center]]
+|EXTRA: XVIII - Victorian Horror
+|Survive 30 minutes with no weapons in [[Inverse]] [[Green Acres]].
+|[[Victorian Horror (XVIII)|XVIII - Victorian Horror]]
+|
+|-
+|[[File:Achieve-Wandering the Jet Black.jpg|64px|center]]
+|EXTRA: XXI - Wandering the Jet Black
+|Reach 665 [[Max Health]] with [[Bat Robbert]].
+|[[Wandering the Jet Black (XXI)|XXI - Wandering the Jet Black]]
+|
+|-
+|[[File:Achieve-Unblinded Imelda.jpg|64px|center]]
+|EXTRA: World of Light and Dark
+|Complete once the adventure [[Adventures#World of Light and Dark|World of Light and Dark]].
+|New starting weapon for [[Imelda Belpaese]]
+|Unlocks the skin [[Imelda Belpaese|Unblinded Imelda Belpaese]] that allows Imelda to have a new starting weapon: Level 5 [[Empty Tome|Empty Tomes]].
+|-
+|[[File:Achieve-Retired Poe.jpg|64px|center]]
+|EXTRA: A Garlic Paradise
+|Complete once the adventure [[Adventures#A Garlic Paradise|A Garlic Paradise]].
+|New starting weapon for [[Poe Ratcho]]
+|Unlocks the skin [[Poe Ratcho|Retired Poe Ratcho]] that allows Poe to have a new starting weapon: Level 5 [[Pummarola|Pummarolas]].
+|-
+|[[File:Achieve-Reborn She-Moon.jpg|64px|center]]
+|EXTRA: To End An Ice Age
+|Complete once the adventure [[Adventures#To End An Ice Age|To End An Ice Age]].
+|New starting weapon for [[She-Moon Eeta]]
+|Unlocks the skin [[She-Moon Eeta|Reborn She-Moon Eeta]] that allows She-Moon to have new starting weapons: Level 5 [[Wings]] and a hidden [[Valkyrie Turner]].
+|}
+
+===Legacy of the Moonspell===
+{{Main|Legacy of the Moonspell}}
+{|class="wikitable lighttable"
+|+List of achievements
+!Icon
+!Achievement
+!Description
+!Unlocks
+!Notes
+|-
+|[[File:Achieve-Miang.jpg|64px|center]]
+|Miang
+|Find and open the [[coffin]] in [[Mt.Moonspell]].
+|[[Miang Moonspell|Miang]]
+|
+|-
+|[[File:Achieve-Silver Wind.jpg|64px|center]]
+|Silver Wind
+|Survive 15 minutes with [[Miang Moonspell]].
+|[[Silver Wind]]
+|
+|-
+|[[File:Achieve-Menya.jpg|64px|center]]
+|Menya
+|Evolve the [[Silver Wind]].
+|[[Menya Moonspell|Menya]]
+|
+|-
+|[[File:Achieve-Four Seasons.jpg|64px|center]]
+|Four Seasons
+|Survive 15 minutes with [[Menya Moonspell]].
+|[[Four Seasons]]
+|
+|-
+|[[File:Achieve-Syuuto.jpg|64px|center]]
+|Syuuto
+|Evolve the [[Four Seasons]].
+|[[Syuuto Moonspell|Syuuto]]
+|
+|-
+|[[File:Achieve-Summon Night.jpg|64px|center]]
+|Summon Night
+|Survive 15 minutes with [[Syuuto Moonspell]].
+|[[Summon Night]]
+|
+|-
+|[[File:Achieve-Babi-Onna.jpg|64px|center]]
+|Babi-Onna
+|Evolve the [[Summon Night]].
+|[[Babi-Onna]]
+|
+|-
+|[[File:Achieve-Mirage Robe.jpg|64px|center]]
+|Mirage Robe
+|Survive 15 minutes with [[Babi-Onna]].
+|[[Mirage Robe]]
+|
+|-
+|[[File:Achieve-McCoy-Oni.jpg|64px|center]]
+|McCoy-Oni
+|Evolve the [[Mirage Robe]].
+|[[McCoy-Oni]]
+|
+|-
+|[[File:Achieve-108 Bocce.jpg|64px|center]]
+|108 Bocce
+|Survive 15 minutes with [[McCoy-Oni]].
+|[[108 Bocce]]
+|
+|-
+|[[File:Achieve-Megalo Menya.jpg|64px|center]]
+|Megalo Menya
+|Defeat 100000 enemies in a single run with [[Menya Moonspell]].
+|[[Megalo Menya Moonspell|Menya]]
+|
+|-
+|[[File:Achieve-Megalo Syuuto.jpg|64px|center]]
+|Megalo Syuuto
+|Defeat 100000 enemies in a single run with [[Syuuto Moonspell]].
+|[[Megalo Syuuto Moonspell|Syuuto]]
+|
+|-
+|[[File:Achieve-Gav'Et-Oni.jpg|64px|center]]
+|Gav'Et-Oni
+|Defeat 6000 [[Kappa]].
+|[[Gav'Et-Oni]]
+|
+|-
+|[[File:Achieve-Night Sword.jpg|64px|center]]
+|Night Sword
+|Find a [[Night Sword]].
+|[[Night Sword]]
+|
+|-
+|[[File:Achieve-Muramasa.jpg|64px|center]]
+|Muramasa
+|Evolve the [[Night Sword]].
+|50000 gold coins
+|
+|-
+|[[File:Achieve-Boo Roo Boolle.jpg|64px|center]]
+|Boo Roo Boolle
+|Evolve the [[Mille Bolle Blu]].
+|50000 gold coins
+|
+|-
+|[[File:Achieve-Hyper Mt.Moonspell.jpg|64px|center]]
+|Hyper Mt.Moonspell
+|Defeat the [[Orochimario]] in [[Mt.Moonspell]].
+|[[Mt.Moonspell|Hyper Mt.Moonspell]]
+|
+|-
+|[[File:Achieve-Mt.Moonspell Map.jpg|64px|center]]
+|Mt.Moonspell Map
+|Find the [[Mt.Moonspell Map]].
+|[[Mt.Moonspell Map]]
+|
+|}
+
+===Tides of the Foscari===
+{{Main|Tides of the Foscari}}
+{|class="wikitable lighttable"
+|+List of achievements
+!Icon
+!Achievement
+!Description
+!Unlocks
+!Notes
+|-
+|[[File:Achieve-Eleanor.jpg|64px|center]]
+|Eleanor Uziron
+|Find and open the [[coffin]] in [[Lake Foscari]].
+|[[Eleanor Uziron|Eleanor]]
+|
+|-
+|[[File:Achieve-SpellString.jpg|64px|center]]
+|SpellString
+|Survive 15 minutes with [[Eleanor Uziron]].
+|[[SpellString]]
+|
+|-
+|[[File:Achieve-SpellStream.jpg|64px|center]]
+|SpellStream
+|Get [[SpellStream]] to Level 6.
+|[[SpellStream]]
+|
+|-
+|[[File:Achieve-SpellStrike.jpg|64px|center]]
+|SpellStrike
+|Get [[SpellStrike]] to Level 6.
+|[[SpellStrike]]
+|
+|-
+|[[File:Achieve-Maruto.jpg|64px|center]]
+|Maruto Cuts
+|Unite [[SpellString]], [[SpellStream]], and [[SpellStrike]].
+|[[Maruto Cuts|Maruto]]
+|
+|-
+|[[File:Achieve-Eskizzibur.jpg|64px|center]]
+|Eskizzibur
+|Survive 15 minutes with [[Maruto Cuts]].
+|[[Eskizzibur]]
+|
+|-
+|[[File:Achieve-Keitha.jpg|64px|center]]
+|Keitha Muort
+|Evolve the [[Eskizzibur]].
+|[[Keitha Muort|Keitha]]
+|
+|-
+|[[File:Achieve-Flash Arrow.jpg|64px|center]]
+|Flash Arrow
+|Survive 15 minutes with [[Keitha Muort]].
+|[[Flash Arrow]]
+|
+|-
+|[[File:Achieve-Millionaire.jpg|64px|center]]
+|Millionaire
+|Evolve the [[Flash Arrow]].
+|50000 gold coins
+|
+|-
+|[[File:Achieve-Abyss Foscari.jpg|64px|center]]
+|Abyss Foscari
+|With [[Keitha Muort|Keitha]], break the Seal of the Lake.
+|[[Abyss Foscari]]
+|
+|-
+|[[File:Achieve-Luminaire Foscari.jpg|64px|center]]
+|Luminaire Foscari
+|With [[Maruto Cuts|Maruto]], break the Seal of the Abyss.
+|[[Luminaire Foscari|Luminaire]]
+|
+|-
+|[[File:Achieve-Genevieve.jpg|64px|center]]
+|Genevieve Gruyère
+|With [[Eleanor Uziron|Eleanor]], break the Seal of the Banished.
+|[[Genevieve Gruyère|Genevieve]]
+|
+|-
+|[[File:Achieve-Prismatic Missile.jpg|64px|center]]
+|Prismatic Missile
+|Survive 15 minutes with [[Luminaire Foscari]].
+|[[Prismatic Missile]]
+|
+|-
+|[[File:Achieve-Luminaire.jpg|64px|center]]
+|Luminaire
+|Evolve the [[Prismatic Missile]].
+|50000 gold coins
+|
+|-
+|[[File:Achieve-Shadow Servant.jpg|64px|center]]
+|Shadow Servant
+|Survive 15 minutes with [[Genevieve Gruyère]].
+|[[Shadow Servant]]
+|
+|-
+|[[File:Achieve-Ophion.jpg|64px|center]]
+|Ophion
+|Evolve the [[Shadow Servant]].
+|50000 gold coins
+|
+|-
+|[[File:Achieve-Je-Ne-Viv.jpg|64px|center]]
+|Je-Ne-Viv
+|Defeat 100000 enemies in a single run with [[Genevieve Gruyère]].
+|[[Je-Ne-Viv]]
+|
+|-
+|[[File:Achieve-Sammy.jpg|64px|center]]
+|Happy Birthday
+|Defeat a total of 6000 [[Sammy the Caterpillar|Sammies]].
+|[[Sammy]]
+|
+|-
+|[[File:Achieve-Rottin'Ghoul.jpg|64px|center]]
+|Rottin'Ghoul
+|Defeat a total of 6000 [[Rotting Ghoul]]s.
+|[[Rottin'Ghoul]]
+|
+|-
+|[[File:Achieve-Hyper Lake Foscari.jpg|64px|center]]
+|Hyper Lake Foscari
+|Defeat the [[Avatar of Gaea]] in Lake Foscari.
+|[[Lake Foscari|Hyper Lake Foscari]]
+|
+|-
+|[[File:Achieve-Hyper Abyss Foscari.jpg|64px|center]]
+|Hyper Abyss Foscari
+|Defeat [[Je-Ne-Viv (enemy)|Je-Ne-Viv]] in [[Abyss Foscari]].
+|[[Abyss Foscari|Hyper Abyss Foscari]]
+|
+|-
+|[[File:Achieve-Lake Foscari Map.jpg|64px|center]]
+|Lake Foscari Map
+|Find the [[Lake Foscari Map]].
+|[[Lake Foscari Map]]
+|
+|}
+
+===Emergency Meeting===
+{{Main|Emergency Meeting}}
+{|class="wikitable lighttable"
+|+List of achievements
+!Icon
+!Achievement
+!Description
+!Unlocks
+!Notes
+|-
+|[[File:Achieve-Crewmate.png|32px|center]]
+|Crewmate Dino
+|Find and open the [[coffin]] in [[Polus Replica]].
+|[[Crewmate Dino|Crewmate]]
+|
+|-
+|[[File:Sprite-Report!.png|32px|center]]
+|Report!
+|Survive 15 minutes with [[Crewmate Dino]].
+|[[Report!]]
+|
+|-
+|[[File:Achieve-Impostor.png|32px|center]]
+|Impostor Rina
+|Evolve the [[Report!]].
+|[[Impostor Rina|Impostor]]
+|
+|-
+|[[File:Sprite-Sharp Tongue.png|32px|center]]
+|Sharp Tongue
+|Survive 15 minutes with [[Impostor Rina]].
+|[[Sharp Tongue]]
+|
+|-
+|[[File:Achieve-Engineer.png|32px|center]]
+|Engineer Gino
+|Evolve the [[Sharp Tongue]].
+|[[Engineer Gino|Engineer]]
+|
+|-
+|[[File:Sprite-Lucky Swipe.png|32px|center]]
+|Lucky Swipe
+|Survive 15 minutes with [[Engineer Gino]].
+|[[Lucky Swipe]]
+|
+|-
+|[[File:Achieve-Scientist.png|32px|center]]
+|Scientist Mina
+|Evolve the [[Lucky Swipe]].
+|[[Scientist Mina|Scientist]]
+|
+|-
+|[[File:Sprite-Science Rocks.png|32px|center]]
+|Science Rocks
+|Reach level 50 with [[Scientist Mina]].
+|[[Science Rocks]]
+|
+|-
+|[[File:Achieve-Shapeshifter.png|32px|center]]
+|Shapeshifter Nino
+|Evolve the [[Science Rocks]].
+|[[Shapeshifter Nino|Shapeshifter]]
+|
+|-
+|[[File:Sprite-Just Vent.png|32px|center]]
+|Just Vent
+|Survive 15 minutes with [[Shapeshifter Nino]].
+|[[Just Vent]]
+|
+|-
+|[[File:Sprite-Unjust Ejection.png|32px|center]]
+|Unjust Ejection
+|Evolve the [[Just Vent]].
+|50000 gold coins
+|
+|-
+|[[File:Sprite-Lifesign Scan.png|32px|center]]
+|Lifesign Scan
+|Get [[Lifesign Scan]] to Level 7.
+|[[Lifesign Scan]]
+|
+|-
+|[[File:Achieve-Ghost.png|32px|center]]
+|Ghost Lino
+|Evolve the [[Lifesign Scan]].
+|[[Ghost Lino|Ghost]]
+|
+|-
+|[[File:Achieve-Guardian.png|32px|center]]
+|Guardian Pina
+|Defeat 1 enemy with [[Ghost Lino]]?!
+|[[Guardian Pina|Guardian]]
+|
+|-
+|[[File:Sprite-Clear Debris.png|32px|center]]
+|Clear Debris
+|Reach level 50 with [[Guardian Pina]].
+|[[Clear Debris]]
+|
+|-
+|[[File:Sprite-Clear Asteroids.png|32px|center]]
+|Clear Asteroids
+|Evolve the [[Clear Debris]].
+|50000 gold coins
+|
+|-
+|[[File:Achieve-Horse.png|32px|center]]
+|Horse
+|Defeat a total of 6000 suspicious looking enemies.
+|[[Horse]]
+|Suspicious looking enemies are [[Pinthot & Coldellini]], [[Space Apparition]], and [[Suspicio]].
+|-
+|[[File:Achieve-Megalo Impostor.png|32px|center]]
+|Megalo Impostor Rina
+|Defeat 100000 enemies in a single run with [[Impostor Rina]].
+|[[Megalo Impostor Rina|Impostor]]
+|
+|-
+|[[File:Achieve-Hyper Polus Replica.png|32px|center]]
+|Hyper Polus Replica
+|Defeat the [[Suspicious Eyes]] in [[Polus Replica]].
+|[[Polus Replica|Hyper Polus Replica]]
+|
+|-
+|[[File:Sprite-Polus Replica Map.png|32px|center]]
+|Polus Replica Map
+|Find the [[Polus Replica Map]].
+|[[Polus Replica Map]]
+|
+|}
+<nowiki>*</nowiki>Note: Achievement names are not official, and are based on the naming convention of other achievements.
+
+===Operation Guns===
+{{Main|Operation Guns}}
+{|class="wikitable lighttable"
+|+List of achievements
+!Icon
+!Achievement
+!Description
+!Unlocks
+!Notes
+|-
+|[[File:Achieve-Bill.png|32px|center]]
+|Bill Rizer
+|Find and open the [[coffin]] in [[Neo Galuga]].
+|[[Bill Rizer|Bill]]
+|
+|-
+|[[File:Sprite-Long Gun.png|32px|center]]
+|Long Gun
+|Survive 15 minutes with [[Bill Rizer]].
+|[[Long Gun]]
+|
+|-
+|[[File:Achieve-Lance.png|32px|center]]
+|Lance Bean
+|Evolve the [[Long Gun]].
+|[[Lance Bean|Lance]]
+|
+|-
+|[[File:Sprite-Short Gun.png|32px|center]]
+|Short Gun
+|Survive 15 minutes with [[Lance Bean]].
+|[[Short Gun]]
+|
+|-
+|[[File:Achieve-Ariana.png|32px|center]]
+|Ariana
+|Evolve the [[Short Gun]].
+|[[Ariana]]
+|
+|-
+|[[File:Sprite-Spread Shot.png|32px|center]]
+|Spread Shot
+|Survive 15 minutes with [[Ariana]].
+|[[Spread Shot]]
+|
+|-
+|[[File:Achieve-Lucia.png|32px|center]]
+|Lucia Zero
+|Evolve the [[Spread Shot]].
+|[[Lucia Zero|Lucia]]
+|
+|-
+|[[File:Sprite-C-U-Laser.png|32px|center]]
+|C-U-Laser
+|Survive 15 minutes with [[Lucia Zero]].
+|[[C-U-Laser]]
+|
+|-
+|[[File:Achieve-Hectic Highway.png|32px|center]]
+|Hectic Highway
+|Evolve the [[C-U-Laser]].
+|[[Hectic Highway|Hyper Hectic Highway]]
+|
+|-
+|[[File:Achieve-Brad.png|32px|center]]
+|Brad Fang
+|Find and open the [[coffin]] in [[Hectic Highway]].
+|[[Brad Fang|Brad]]
+|
+|-
+|[[File:Sprite-Firearm.png|32px|center]]
+|Firearm
+|Survive 15 minutes with [[Brad Fang]].
+|[[Firearm]]
+|
+|-
+|[[File:Achieve-Browny.png|32px|center]]
+|Browny
+|Evolve the [[Firearm]].
+|[[Browny]]
+|
+|-
+|[[File:Sprite-Sonic Bloom.png|32px|center]]
+|Sonic Bloom
+|Survive 15 minutes with [[Browny]].
+|[[Sonic Bloom]]
+|
+|-
+|[[File:Achieve-Sheena.png|32px|center]]
+|Sheena Etranzi
+|Evolve the [[Sonic Bloom]].
+|[[Sheena Etranzi|Sheena]]
+|
+|-
+|[[File:Sprite-Blade Crossbow.png|32px|center]]
+|Blade Crossbow
+|Survive 15 minutes with [[Sheena Etranzi]].
+|[[Blade Crossbow]]
+|
+|-
+|[[File:Sprite-BFC2000-AD.png|32px|center]]
+|BFC2000-AD
+|Evolve the [[Blade Crossbow]].
+|50000 gold coins
+|
+|-
+|[[File:Achieve-Probotector.png|32px|center]]
+|Probotector
+|Find 7 [[Barrier]]s.
+|[[Probotector]]
+|
+|-
+|[[File:Sprite-Prism Lass.png|32px|center]]
+|Prism Lass
+|Survive 15 minutes with [[Probotector]].
+|[[Prism Lass]]
+|
+|-
+|[[File:Sprite-Time Warp.png|32px|center]]
+|Time Warp
+|Evolve the [[Prism Lass]].
+|50000 gold coins
+|
+|-
+|[[File:Achieve-Stanley.png|32px|center]]
+|Stanley
+|Find 14 [[Rapid Fire]]s.
+|[[Stanley]]
+|
+|-
+|[[File:Sprite-Homing Miss.png|32px|center]]
+|Homing Miss
+|Survive 15 minutes with [[Stanley]].
+|[[Homing Miss]]
+|
+|-
+|[[File:Sprite-Multistage Missiles.png|32px|center]]
+|Multistage Missiles
+|Evolve the [[Homing Miss]].
+|50000 gold coins
+|
+|-
+|[[File:Achieve-Newt.png|32px|center]]
+|Newt Plissken
+|Find 21 [[Grenade]]s.
+|[[Newt Plissken|Newt]]
+|
+|-
+|[[File:Sprite-Diver Mines.png|32px|center]]
+|Diver Mines
+|Survive 15 minutes with [[Newt Plissken]].
+|[[Diver Mines]]
+|
+|-
+|[[File:Achieve-Simondo.png|32px|center]]
+|Simondo Belmont
+|Evolve the [[Diver Mines]].
+|[[Simondo Belmont|Simondo]]
+|
+|-
+|[[File:Achieve-Bahamut.png|32px|center]]
+|Colonel Bahamut
+|Defeat [[Big Fuzz]] in [[Neo Galuga]].
+|[[Colonel Bahamut|Bahamut]]
+|
+|-
+|[[File:Sprite-Metal Claw.png|32px|center]]
+|Metal Claw
+|Survive 15 minutes with [[Colonel Bahamut]].
+|[[Metal Claw]]
+|
+|-
+|[[File:Sprite-Big Fuzzy Fist.png|32px|center]]
+|Big Fuzzy Fist
+|Evolve the [[Metal Claw]].
+|50000 gold coins
+|
+|-
+|[[File:Achieve-Hyper Neo Galuga.png|32px|center]]
+|Hyper Neo Galuga
+|Defeat [[Taka]] in [[Neo Galuga]].
+|[[Neo Galuga|Hyper Neo Galuga]]
+|
+|-
+|[[File:Sprite-Neo Galuga Map.png|32px|center]]
+|Neo Galuga Map
+|Find the [[Neo Galuga Map]].
+|[[Neo Galuga Map]]
+|
+|}
+<nowiki>*</nowiki>Note: Achievement names are not official, and are based on the naming convention of other achievements.
+
+===Ode to Castlevania===
+{{Main|Ode to Castlevania}}
+{|class="wikitable lighttable"
+|+List of achievements
+!Icon
+!Achievement
+!Description
+!Unlocks
+!Notes
+|-
+|[[File:Sprite-Leon Belmont.png|64px|center]]
+|Leon Belmont
+|Find and open the first [[coffin]] in [[Ode_to_Castlevania_(stage) |Ode to Castlevania]].
+|[[Leon_Belmont|Leon]]
+|
+|-
+|[[File:Sprite-Sonia Belmont.png|64px|center]]
+|Sonia Belmont
+|Find 7 [[Heart Refresh]] after opening the [[Stallion Gate]].
+|[[Sonia_Belmont|Sonia]]
+|
+|-
+|[[File:Sprite-Trevor Belmont.png|64px|center]]
+|Trevor Belmont
+|Defeat the [[Giant Medusa Head]] with [[Leon Belmont]].
+|[[Trevor_Belmont|Trevor]]
+|
+|-
+|[[File:Sprite-Sypha Belnades.png|64px|center]]
+|Sypha Belnades
+|Defeat [[Slogra]] and [[Gaibon]] with [[Grant Danasty]].
+|[[Sypha_Belnades|Sypha]]
+|
+|-
+|[[File:Sprite-Grant Danasty.png|64px|center]]
+|Grant Danasty
+|Evolve the [[Dragon Water Whip]].
+|[[Grant_Danasty|Grant]]
+|
+|-
+|[[File:Sprite-Alucard.png|64px|center]]
+|Alucard
+|Defeat the [[Doppelganger]] with [[Trevor Belmont]].
+|[[Alucard]]
+|
+|-
+|[[File:Sprite-Hector.png|64px|center]]
+|Hector
+|Find 7 [[Karma_Coin|Karma Coins]] after opening the [[Scorpion Gate]].
+|[[Hector]]
+|
+|-
+|[[File:Sprite-Christopher Belmont.png|64px|center]]
+|Christopher Belmont
+|Evolve the [[Alucart Sworb]].
+|[[Christopher_Belmont|Christopher]]
+|
+|-
+|[[File:Sprite-Simon Belmont.png|64px|center]]
+|Simon Belmont
+|Evolve the [[Jet Black Whip]].
+|[[Simon_Belmont|Simon]]
+|
+|-
+|[[File:Sprite-Juste Belmont.png|64px|center]]
+|Juste Belmont
+|Evolve the [[Wind Whip]].
+|[[Juste_Belmont|Juste]]
+|
+|-
+|[[File:Sprite-Julius Belmont.png|64px|center]]
+|Julius Belmont
+|Find and open the second [[coffin]] in [[Ode_to_Castlevania_(stage)|Ode to Castlevania]].
+|[[Julius_Belmont|Julius]]
+|
+|-
+|[[File:Sprite-Yoko Belnades.png|64px|center]]
+|Yoko Belnades
+|Defeat [[Abaddon]] with [[Soma Cruz]].
+|[[Yoko_Belnades|Yoko]]
+|
+|-
+|[[File:Sprite-Soma Cruz.png|64px|center]]
+|Soma Cruz
+|Defeat [[Gergoth]] with [[Julius Belmont]].
+|[[Soma_Cruz|Soma]]
+|
+|-
+|[[File:Sprite-Jonathan Morris.png|64px|center]]
+|Jonathan Morris
+|Evolve the [[Hand Grenade]].
+|[[Jonathan_Morris|Jonathan]]
+|
+|-
+|[[File:Sprite-Charlotte Aulin.png|64px|center]]
+|Charlotte Aulin
+|Find 7 [[Mirror_of_Truth|Mirrors of Truth]] after opening the [[Capra Gate]].
+|[[Charlotte_Aulin|Charlotte]]
+|
+|-
+|[[File:Sprite-John Morris.png|64px|center]]
+|John Morris
+|Evolve [[Raging Fire]], [[Ice Fang]], [[Gale Force]], and [[Rock Riot]] across any amount of runs.
+|[[John_Morris|John]]
+|
+|-
+|[[File:Sprite-Eric Lecarde.png|64px|center]]
+|Eric Lecarde
+|Evolve the [[Javelin]].
+|[[Eric_Lecarde|Eric]]
+|
+|-
+|[[File:Sprite-Shanoa.png|64px|center]]
+|Shanoa
+|Evolve the [[Iron Ball]] and the [[Alucard Spear]].
+|[[Shanoa]]
+|
+|-
+|[[File:Sprite-Maria Renard.png|64px|center]]
+|Maria Renard
+|Complete any stage with [[Shanoa]] and [[Juste Belmont]].
+|[[Maria_Renard|Maria]]
+|
+|-
+|[[File:Sprite-Richter Belmont.png|64px|center]]
+|Richter Belmont
+|Evolve the [[Guardian's Targe]].
+|[[Richter_Belmont|Richter]]
+|
+|-
+|[[File:Sprite-Stallion_Gate.png|32px|center]]
+|Stallion Gate
+|Obtain the [[Stallion Gate]] after defeating the [[Giant Bat]].
+|[[Heart_Refresh|Heart Refreshes]], further access to Dracula's Castle, and a teleporter for Dracula's Castle.
+|
+|-
+|[[File:Sprite-Scorpion_Gate.png|32px|center]]
+|Scorpion Gate
+|Obtain the [[Scorpion Gate]] after defeating the [[Puppet Master]].
+|[[Karma_Coin|Karma Coins]], further access to Dracula's Castle, and a new teleporter for Dracula's Castle.
+|
+|-
+|[[File:Sprite-Capra_Gate.png|32px|center]]
+|Capra Gate
+|Obtain the [[Capra Gate]] after defeating [[Paranoia]].
+|[[Mirror_of_Truth|Mirrors of Truth]], further access to Dracula's Castle, and a new teleporter for Dracula's Castle.
+|
+|-
+|[[File:Sprite-King's_Gate.png|32px|center]]
+|King's Gate
+|Obtain the [[King's Gate]] after defeating [[Abaddon]].
+|[[Neutron_Bomb|Neutron Bombs]], further access to Dracula's Castle, and a new teleporter for Dracula's Castle.
+|
+|-
+|[[File:Sprite-Black_Disk.png|32px|center]]
+|Black Disk
+|With [[Richter Belmont]], survive the showdown in the [[Ode to Castlevania (stage)|Throne Room]].
+|[[Black Disk]] and 20 new unlockable characters
+|
+|-
+|[[File:Sprite-Castlevania_Map.png|32px|center]]
+|Castlevania Map
+|Find the [[Castlevania Map]].
+|[[Castlevania Map]]
+|
+|-
+|[[File:Sprite-Malphas.png|64px|center]]
+|Hyper Ode to Castlevania
+|Defeat [[Malphas]] in [[Ode to Castlevania (stage)|Ode to Castlevania]].
+|[[Ode_to_Castlevania_(stage)#Hyper_Mode|Hyper Ode to Castlevania]]
+|
+|-
+|[[File:Sprite-Alchemy Whip.png|32px|center]]
+|Alchemy Whip
+|Survive 6 minutes with [[Leon Belmont]].
+|[[Alchemy Whip]]
+|
+|-
+|[[File:Sprite-Sonic Whip.png|32px|center]]
+|Sonic Whip
+|Survive 8 minutes with [[Sonia Belmont]].
+|[[Sonic Whip]]
+|
+|-
+|[[File:Sprite-Dragon Water Whip.png|32px|center]]
+|Dragon Water Whip
+|Survive 10 minutes with [[Trevor Belmont]].
+|[[Dragon Water Whip]]
+|
+|-
+|[[File:Sprite-Wind Whip.png|32px|center]]
+|Wind Whip
+|Survive 12 minutes with [[Simon Belmont]].
+|[[Wind Whip]]
+|
+|-
+|[[File:Sprite-Jet Black Whip.png|32px|center]]
+|Jet Black Whip
+|Survive 14 minutes with [[Christopher Belmont]].
+|[[Jet Black Whip]]
+|
+|-
+|[[File:Sprite-Vibhuti Whip.png|32px|center]]
+|Vibhuti Whip
+|Survive 16 minutes with [[Juste Belmont]].
+|[[Vibhuti Whip]]
+|
+|-
+|[[File:Sprite-Platinum Whip.png|32px|center]]
+|Platinum Whip
+|Survive 18 minutes with [[Richter Belmont]].
+|[[Platinum Whip]]
+|
+|-
+|[[File:Sprite-Vanitas Whip.png|32px|center]]
+|Vanitas Whip
+|Survive 20 minutes with [[Julius Belmont]].
+|[[Vanitas Whip]]
+|
+|-
+|[[File:Sprite-Curved Knife.png|32px|center]]
+|Curved Knife
+|Get the [[Curved Knife]] to Level 1.
+|[[Curved Knife]]
+|
+|-
+|[[File:Sprite-Shuriken.png|32px|center]]
+|Shuriken
+|Get the [[Shuriken]] to Level 2.
+|[[Shuriken]]
+|
+|-
+|[[File:Sprite-Javelin.png|32px|center]]
+|Javelin
+|Get the [[Javelin]] to Level 3.
+|[[Javelin]]
+|
+|-
+|[[File:Sprite-Iron Ball.png|32px|center]]
+|Iron Ball
+|Get the [[Iron Ball]] to Level 4.
+|[[Iron Ball]]
+|
+|-
+|[[File:Sprite-Discus.png|32px|center]]
+|Discus
+|Get the [[Discus]] to Level 5.
+|[[Discus]]
+|
+|-
+|[[File:Sprite-Hand Grenade.png|32px|center]]
+|Hand Grenade
+|Get the [[Hand Grenade]] to Level 7.
+|[[Hand Grenade]]
+|
+|-
+|[[File:Sprite-Raging Fire.png|32px|center]]
+|Raging Fire
+|Evolve the [[Raging Fire]].
+|[[Raging Fire]]
+|
+|-
+|[[File:Sprite-Ice Fang.png|32px|center]]
+|Ice Fang
+|Evolve the [[Ice Fang]].
+|[[Ice Fang]]
+|
+|-
+|[[File:Sprite-Gale Force.png|32px|center]]
+|Gale Force
+|Evolve the [[Gale Force]].
+|[[Gale Force]]
+|
+|-
+|[[File:Sprite-Rock Riot.png|32px|center]]
+|Rock Riot
+|Evolve the [[Rock Riot]].
+|[[Rock Riot]]
+|
+|-
+|[[File:Sprite-Fulgur.png|32px|center]]
+|Fulgur
+|Evolve the [[Fulgur]].
+|[[Fulgur]]
+|
+|-
+|[[File:Sprite-Alucart Sworb.png|32px|center]]
+|Alucart Sworb
+|Inflict a total of 10000 damage with the [[Alucart Sworb]].
+|[[Alucart Sworb]]
+|
+|-
+|[[File:Sprite-Alucard Spear.png|32px|center]]
+|Alucard Spear
+|Inflict a total of 30000 damage with the [[Alucard Spear]].
+|[[Alucard Spear]]
+|
+|-
+|[[File:Sprite-Mace.png|32px|center]]
+|Mace
+|Inflict a total of 50000 damage with the [[Mace]].
+|[[Mace]]
+|
+|-
+|[[File:Sprite-Guardian's Targe.png|32px|center]]
+|Guardian's Targe
+|Inflict a total of 80000 damage with the [[Guardian's Targe]].
+|[[Guardian's Targe]]
+|
+|-
+|[[File:Sprite-Confodere.png|32px|center]]
+|Confodere
+|Defeat 1000 enemies with [[Shanoa]].
+|[[Confodere]]
+|
+|-
+|[[File:Sprite-Dextro Custos.png|32px|center]]
+|Dextro Custos
+|Get [[Dextro Custos]] to Level 6.
+|[[Dextro Custos]]
+|
+|-
+|[[File:Sprite-Sinestro Custos.png|32px|center]]
+|Sinestro Custos
+|Get [[Sinestro Custos]] to Level 6.
+|[[Sinestro Custos]]
+|
+|-
+|[[File:Sprite-Dominus Anger.png|32px|center]]
+|Dominus Anger
+|Get [[Dominus Anger]] to Level 6.
+|[[Dominus Anger]]
+|
+|-
+|[[File:Sprite-Dominus Hatred.png|32px|center]]
+|Dominus Hatred
+|Get [[Dominus Hatred]] to Level 6.
+|[[Dominus Hatred]]
+|
+|-
+|[[File:Sprite-Familiar Forge.png|32px|center]]
+|Familiar Forge
+|Find a [[Familiar Forge]].
+|[[Familiar Forge]]
+|
+|-
+|[[File:Sprite-Morning Star.png|32px|center]]
+|Morning Star
+|Evolve all 8 magic whip lines.
+|[[Morning Star]] and Morning Star start skins
+|
+|-
+|[[File:Sprite-Spectral Sword.png|32px|center]]
+|Spectral Sword
+|Evolve all 8 magic weapon lines.
+|[[Spectral Sword]] and Spectral Sword start skins
+|
+|-
+|[[File:Sprite-Belnades' Spellbook.png|32px|center]]
+|Belnades' Spellbook
+|Evolve all 8 spell lines.
+|[[Belnades' Spellbook]] and Belnades' Spellbook start skins
+|
+|-
+|[[File:Sprite-Ebony Diabologue.png|32px|center]]
+|Ebony Diabologue
+|Evolve all 8 glyph lines.
+|[[Ebony Diabologue]] and Ebony Diabologue start skins
+|
+|-
+|[[File:Sprite-Coat of Arms.png|32px|center]]
+|Coat of Arms
+|Evolve all 16 vampire killing tool lines.
+|[[Coat of Arms]] and Coat of Arms start skins
+|
+|-
+|[[File:Sprite-Candybox.png|32px|center]]
+|Selector
+|Unlock [[Morning Star]], [[Belnades' Spellbook]], [[Coat of Arms]], [[Ebony Diabologue]], and [[Spectral Sword]].
+|[[Candybox]] start skins
+|
+|-
+|[[File:Sprite-Serpent_Gate.png|32px|center]]
+|Serpent Gate
+|Obtain the [[Serpent Gate]] after defeating [[Menace]].
+|[[Clockwork|Clockwork weapons]], further access to Dracula's Castle, and a new teleporter for Dracula's Castle.
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Beast_Gate.png|32px|center]]
+|Beast Gate
+|Obtain the [[Beast Gate]] after defeating [[Eligor]].
+|Secret weapons, further access to Dracula's Castle, and a new teleporter for Dracula's Castle.
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Wood_Carving_Score.png|32px|center]]
+|Wood Carving Score
+|Find the [[Wood Carving Score]].
+|[[Master Librarian (Merchant)]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Pile_of_Secrets.png|32px|center]]
+|Pile of Secrets
+|Find the [[Pile of Secrets]].
+|New [[Secrets]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Ebony_and_Crimson_Stones.png|32px|center]]
+|Ebony and Crimson Stones
+|Find the [[Ebony and Crimson Stones]].
+|Morph ability for [[Elizabeth Bartley]], [[Count Olrox]], [[Vlad Tepes Dracula]] and [[Death (character)|Death]]
+|Requires the [[Pile of Secrets]]
+|-
+|[[File:Sprite-Vlad Tepes Dracula.png|64px|center]]
+|Vlad Tepes Dracula
+|Find and open the third [[coffin]] in [[Ode to Castlevania (stage)|Ode to Castlevania]].
+|[[Dracula]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Lisa Tepes.png|64px|center]]
+|Lisa Tepes
+|Evolve the [[Wine Glass]].
+|[[Lisa Tepes|Lisa]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Shaft.png|64px|center]]
+|Shaft
+|Evolve the [[Luminatio]].
+|[[Shaft]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Elizabeth Bartley.png|64px|center]]
+|Elizabeth Bartley
+|Evolve the [[Umbra]].
+|[[Elizabeth Bartley|Elizabeth]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Vincent Dorin.png|64px|center]]
+|Vincent Dorin
+|Evolve [[Fulgur]] and [[Keremet Bubbles]] across any amount of runs.
+|[[Vincent Dorin|Vincent]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Mina Hakuba.png|64px|center]]
+|Mina Hakuba
+|Evolve the [[Iron Shield]].
+|[[Mina Hakuba|Mina]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Albus.png|64px|center]]
+|Albus
+|Fully evolve the [[Confodere]].
+|[[Albus]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Barlowe.png|64px|center]]
+|Barlowe
+|Evolve the [[Optical Shot]].
+|[[Barlowe]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Isaac.png|64px|center]]
+|Isaac
+|Evolve the [[Mace]].
+|[[Isaac]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Saint_Germain.png|64px|center]]
+|Saint Germain
+|Evolve the [[Trident]].
+|[[Saint Germain]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Julia Laforeze.png|64px|center]]
+|Julia Laforeze
+|Evolve the [[Globus]].
+|[[Julia Laforeze|Julia]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Sara Trantoul.png|64px|center]]
+|Sara Trantoul
+|Evolve the [[Alchemy Whip]].
+|[[Sara Trantoul|Sara]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Rinaldo Gandolfi.png|64px|center]]
+|Rinaldo Gandolfi
+|Evolve the [[Star Flail]].
+|[[Rinaldo Gandolfi|Rinaldo]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Quincy Morris.png|64px|center]]
+|Quincy Morris
+|Evolve the [[Platinum Whip]].
+|[[Quincy Morris|Quincy]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Maxim Kischine.png|64px|center]]
+|Maxim Kischine
+|Evolve the [[Vibhuti Whip]].
+|[[Maxim Kischine|Maxim]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Nathan Graves.png|64px|center]]
+|Nathan Graves
+|Evolve the [[Sonic Whip]].
+|[[Nathan Graves|Nathan]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Reinhardt Schneider.png|64px|center]]
+|Reinhardt Schneider
+|Find and open the fourth [[coffin]] in [[Ode to Castlevania (stage)|Ode to Castlevania]].
+|[[Reinhardt Schneider|Reinhardt]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Henry.png|64px|center]]
+|Henry
+|Evolve the [[Tyrfing]].
+|[[Henry]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Cornell.png|64px|center]]
+|Cornell
+|Evolve the [[Silver Revolver]].
+|[[Cornell]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Carrie Fernandez.png|64px|center]]
+|Carrie Fernandez
+|Fully evolve the [[Custos]] glyphs.
+|[[Carrie Fernandez|Carrie]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Silver Revolver.png|32px|center]]
+|Silver Revolver
+|Get the [[Silver Revolver]] to Level 6.
+|[[Silver Revolver]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Wine Glass.png|16px|center]]
+|Wine Glass
+|Get the [[Wine Glass]] to Level 8.
+|[[Wine Glass]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Keremet Bubbles.png|32px|center]]
+|Keremet Bubbles
+|Evolve the [[Keremet Bubbles]].
+|[[Keremet Bubbles]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Refectio.png|32px|center]]
+|Refectio
+|Evolve the [[Refectio]].
+|[[Refectio]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Hex.png|32px|center]]
+|Hex
+|Evolve the [[Hex]].
+|[[Hex]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Tyrfing.png|32px|center]]
+|Tyrfing
+|Inflict a total of 20000 damage with the [[Tyrfing]].
+|[[Tyrfing]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Trident.png|32px|center]]
+|Trident
+|Inflict a total of 40000 damage with the [[Trident]].
+|[[Trident]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Star Flail.png|32px|center]]
+|Star Flail
+|Inflict a total of 60000 damage with the [[Star Flail]].
+|[[Star Flail]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Iron Shield.png|32px|center]]
+|Iron Shield
+|Inflict a total of 70000 damage with the [[Iron Shield]].
+|[[Iron Shield]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Optical Shot.png|32px|center]]
+|Optical Shot
+|Defeat 2000 enemies with [[Albus]].
+|[[Optical Shot]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Luminatio.png|32px|center]]
+|Luminatio
+|Defeat 3000 enemies with [[Lisa Tepes]].
+|[[Luminatio]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Umbra.png|32px|center]]
+|Umbra
+|Defeat 4000 enemies with [[Shaft]].
+|[[Umbra]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Globus.png|32px|center]]
+|Globus
+|Defeat 5000 enemies with [[Saint Germain]].
+|[[Globus]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Sonic Dash.png|32px|center]]
+|Sonic Dash
+|Defeat 6000 enemies with [[Nathan Graves]].
+|[[Sonic Dash]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Centralis Custos.png|32px|center]]
+|Centralis Custos
+|Defeat 7000 enemies with [[Cornell]].
+|[[Centralis Custos]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Dominus Agony.png|32px|center]]
+|Dominus Agony
+|Defeat 8000 enemies with [[Barlowe]].
+|[[Dominus Agony]]
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Soma Cruz.png|64px|center]]
+|Skins for Soma, Shanoa, Alucard
+|Unlock and use Morning Star, Belnades Spellbook, Coat of Arms, Ebony Diabologue, and Spectral Sword.
+|New starting weapon for Soma Crus, Shanoa, Alucard
+|Requires the [[Black Disk]]
+|-
+|[[File:Sprite-Dark Lord Soma Cruz.png|64px|center]]
+|Dark Lord Soma Cruz
+|Complete once the adventure Ode to Castlevania.
+|New starting weapon for Soma Crus
+|Requires the [[Black Disk]]
+|}
+<nowiki>*</nowiki>Note: Achievement names are not official, and are based on the naming convention of other achievements.
+
+===Emerald Diorama===
+{{Main|Emerald Diorama}}
+{| class="wikitable lighttable"
+|+
+!Icon
+!Achievement
+!Description
+!Unlocks
+!Notes
+|-
+|[[File:Sprite-Emerald Disk.png|32px|center]]
+|Emerald Diorama
+|Find and buy the [[Emerald Disk]].
+|[[Emerald Diorama (stage)|Emerald Diorama]]
+|
+|-
+|[[File:Sprite-Tsunanori Mido.png|64px|center]]
+|Tsunanori
+|Find and open the first [[coffin]] in [[Emerald Diorama (stage)|Emerald Diorama]].
+|[[Tsunanori Mido|Tsunanori]]
+|
+|-
+|[[File:Sprite-Fleuret.png|32px|center]]
+|Fleuret
+|Get the [[Fleuret]] to level 6.
+|[[Fleuret]]
+|
+|-
+|[[File:Sprite-Tsunanori Mido (Splashers).png|64px|center]]
+|Espada Ropera
+|Fully evolve the [[Fleuret]].
+|[[Splashers]] starting weapon and solo skins for [[Tsunanori Mido]]
+|
+|-
+|[[File:Sprite-Splashers.png|32px|center]]
+|Splashers
+|Get [[Splashers]] to level 6.
+|[[Splashers]]
+|
+|-
+|[[File:Sprite-Bonnie Blair.png|64px|center]]
+|Bonnie
+|Fully evolve the [[Splashers]].
+|[[Bonnie Blair]]
+|
+|-
+|[[File:Sprite-Punch.png|32px|center]]
+|Punch
+|Get [[Punch]] to level 6.
+|[[Punch]]
+|
+|-
+|[[File:Sprite-Bonnie Blair.png|64px|center]]
+|Gilded Hand
+|Fully evolve the [[Punch]].
+|[[Kick]] starting weapon and solo skins for [[Bonnie Blair]]
+|
+|-
+|[[File:Sprite-Kick.png|32px|center]]
+|Kick
+|Get [[Kick]] to level 6.
+|[[Kick]]
+|
+|-
+|[[File:Sprite-Formina Franklyn.png|64px|center]]
+|Formina
+|Fully evolve the [[Kick]].
+|[[Formina Franklyn]]
+|
+|-
+|[[File:Sprite-Saber Machine Gun.png|32px|center]]
+|Saber Machine Gun
+|Get [[Saber Machine Gun]] to level 6.
+|[[Saber Machine Gun]]
+|
+|-
+|[[File:Sprite-Formina Franklyn (Eagle Gun).png|64px|center]]
+|Divergence
+|Fully evolve the [[Saber Machine Gun]].
+|[[Eagle Gun]] starting weapon and solo skins for [[Formina Franklyn]]
+|
+|-
+|[[File:Sprite-Eagle Gun.png|32px|center]]
+|Eagle Gun
+|Get [[Eagle Gun]] to level 6.
+|[[Eagle Gun]]
+|
+|-
+|[[File:Sprite-Diva No. 5.png|64px|center]]
+|Diva No. 5
+|Fully evolve the [[Eagle Gun]].
+|[[Diva No. 5]]
+|
+|-
+|[[File:Sprite-Super Missile.png|32px|center]]
+|Super Missile
+|Get [[Super Missile]] to level 6.
+|[[Super Missile]]
+|
+|-
+|[[File:Sprite-Diva No. 5 (Virginia).png|64px|center]]
+|Hyperion Bazooka
+|Fully evolve the [[Super Missile]].
+|Virginia skin for [[Diva No. 5]]
+|
+|-
+|[[File:Sprite-Twin Dragon.png|32px|center]]
+|Twin Dragon
+|Get [[Twin Dragon]] to level 6.
+|[[Twin Dragon]]
+|
+|-
+|[[File:Sprite-Ameya Aisling.png|64px|center]]
+|Ameya
+|Fully evolve the [[Twin Dragon]].
+|[[Ameya Aisling]]
+|
+|-
+|[[File:Sprite-Spirit_Rings.png|32px|center]]
+|Spirit Rings
+|Get [[Spirit Rings]] to level 6.
+|[[Spirit Rings]]
+|
+|-
+|[[File:Sprite-Ameya Aisling.png|64px|center]]
+|Rings of Calamity
+|Fully evolve the [[Spirit Rings]].
+|[[Intuition]] skin for [[Ameya Aisling]]
+|
+|-
+|[[File:Sprite-Glaive.png|32px|center]]
+|Glaive
+|Find and fully evolve the [[Glaive]].
+|[[Glaive]]
+|
+|-
+|[[File:Sprite-Flamberge.png|32px|center]]
+|Flamberge
+|Find and fully evolve the [[Flamberge]].
+|[[Flamberge]]
+|
+|-
+|[[File:Sprite-Khukuri.png|32px|center]]
+|Khukuri
+|Find and fully evolve the [[Khukuri]].
+|[[Khukuri]]
+|
+|-
+|[[File:Sprite-Bullova.png|32px|center]]
+|Bullova
+|Find and fully evolve the [[Bullova]].
+|[[Bullova]]
+|
+|-
+|[[File:Sprite-Siugnas.png|64px|center]]
+|Siugnas
+|Find and open the second [[coffin]] in [[Emerald Diorama (stage)|Emerald Diorama]].
+|[[Siugnas]]
+|
+|-
+|[[File:Sprite-Town Sword.png|32px|center]]
+|Town Sword
+|Get [[Town Sword]] to level 6.
+|[[Town Sword]]
+|
+|-
+|[[File:Sprite-Siugnas (Sanguine Star).png|64px|center]]
+|Dayblade
+|Fully evolve the [[Town Sword]].
+|[[Sanguine Star]] skin for [[Siugnas]]
+|
+|-
+|[[File:Sprite-Sanguine Star.png|32px|center]]
+|Sanguine Star
+|Get [[Sanguine Star]] to level 6.
+|[[Sanguine Star]]
+|
+|-
+|[[File:Sprite-Intuition.png|32px|center]]
+|Intuition
+|Fully evolve the [[Sanguine Star]] and all other glimmer weapons.
+|[[Intuition]]
+|
+|-
+|[[File:Sprite-Kugutsu.png|64px|center]]
+|Kugutsu
+|Defeat the [[Divine Wood Spirit]] in [[Inverse]] [[Emerald Diorama (stage)|Emerald Diorama]], Miyako City.
+|[[Kugutsu]]
+|
+|-
+|[[File:Sprite-Lita Caryx.png|64px|center]]
+|Lita
+|With Tsunanori, defeat the Earth Dragon in Inverse Emerald Diorama, Pulchra.
+|[[Lita Caryx]]
+|
+|-
+|[[File:Sprite-Final Emperor.png|64px|center]]
+|Final Emperor
+|With Bonnie or Formina, defeat the Final Emperor's demon form in Inverse Emerald Diorama, Grelon.
+|[[Final Emperor]]
+|
+|-
+|[[File:Sprite-Macha Alter Ego.png|64px|center]]
+|Macha
+|With Ameya, defeat the Spectre in Inverse Emerald Diorama, Avalon.
+|[[Macha Alter Ego]]
+|
+|-
+|[[File:Sprite-Dolores.png|64px|center]]
+|Dolores
+|With Siugnas, defeat the Iron Maiden in Inverse Emerald Diorama, Yomi.
+|[[Dolores]]
+|
+|-
+|[[File:Sprite-Mr. S.png|32px|center]]
+|Mr. S
+|With Diva No.5, defeat Living Anguish in Inverse Emerald Diorama.
+|[[Mr. S]]
+|
+|-
+|[[File:Sprite-Diva No. 5 (Mover).png|64px|center]]
+|Mover
+|With Diva No.5 "Retro Pod", glimmer at least 7 techs.
+|Mover skin for [[Diva No. 5]]
+|
+|-
+|[[File:Sprite-Diva No. 5 (Battle Tank).png|64px|center]]
+|Battle Tank
+|With Diva No.5 "Virginia, glimmer at least 11 techs.
+|Battle Tank skin for [[Diva No. 5]]
+|
+|-
+|[[File:Sprite-Diva No. 5 (Shanks).png|64px|center]]
+|Shanks
+|With Diva No.5, defeat all bosses in Emerald Diorama in a single run.
+|Shanks skin for [[Diva No. 5]]
+|
+|-
+|[[File:Sprite-Diva No. 5 (Paradox).png|64px|center]]
+|Paradox
+|With Diva No.5, defeat all bosses in Inverse Emerald Diorama in a single run.
+|Paradox skin for [[Diva No. 5]]
+|
+|-
+|[[File:Sprite-Emerald Rapture.png|32px|center]]
+|Emerald Rapture
+|Find and Evolve the [[Emerald Rapture]].
+|[[Emerald Rapture]]
+|
+|-
+|[[File:Sprite-Cursed Monarch.png|64px|center]]
+|Hyper Emerald Diorama
+|Defeat the [[Cursed Monarch]] in [[Emerald Diorama (stage)|Emerald Diorama]]
+|[[Hyper]] [[Emerald Diorama (stage)|Emerald Diorama]]
+|
+|}
+<nowiki>*</nowiki>Note: Achievement names are not official, and are based on the naming convention of other achievements.
+
+===Ante Chamber===
+{{Main|Ante Chamber}}
+{| class="wikitable lighttable"
+|+
+!Icon
+!Achievement
+!Description
+!Unlocks
+!Notes
+|-
+|[[File:Sprite-Joker Disk.png|32px|center]]
+|Ante Chamber
+|Find and buy the [[Joker Disk]].
+|[[Ante Chamber (stage)|Ante Chamber]]
+|
+|-
+|[[File:Sprite-Jimbo.png|64px|center]]
+|Jimbo
+|Find and open the coffin in the Ante Chamber.
+|[[Jimbo]]
+|
+|-
+|[[File:Sprite-Infernolatro.png|32px|center]]
+|Infernolatro
+|Get Infernolatro to Level 6.
+|[[Infernolatro]]
+|
+|-
+|[[File:Sprite-Canio.png|64px|center]]
+|Canio
+|Evolve Infernolatro.
+|[[Canio]]
+|
+|-
+|[[File:Sprite-Fibonacci Spritz.png|32px|center]]
+|Fibonacci Spritz
+|Get Fibonacci Spritz To Level 6.
+|[[Fibonacci Spritz]]
+|
+|-
+|[[File:Sprite-Chicot.png|64px|center]]
+|Chicot
+|Evolve Fibonacci Spritz.
+|[[Chicot]]
+|
+|-
+|[[File:Sprite-Gros Michel.png|32px|center]]
+|Gros Michel
+|Get Gros Michel To Level 6.
+|[[Gros Michel]]
+|
+|-
+|[[File:Sprite-Perkeo.png|64px|center]]
+|Perkeo
+|Evolve the Gros Michel.
+|[[Perkeo]]
+|
+|-
+|[[File:Sprite-Celestial Booster.png|32px|center]]
+|Celestial Booster
+|Get Celestial Booster To Level 6.
+|[[Celestial Booster]]
+|
+|-
+|
+|77777 gold coins
+|Evolve the Celestial Booster.
+|77777 gold coins
+|
+|-
+|
+|Hyper Ante Chamber
+|Defeat the Crimson Heart in the Ante Chamber.
+|Hyper [[Ante Chamber (stage)|Ante Chamber]]
+|
+|}
+
+==Update history==
+{{UH|
+* {{UL|type=beta|update=Public-Beta has been updated (Steam PC Only)|date=16 April 2026}}
+** Fix Evolve Penshin Fatcha achievement not unlocking after equipping Miracle of Multiplication
+** Added page up and page down navigation on unlocks screen
+** Fixed character filter toggles on the character select screen and unlock groups on the unlocks screen not showing in release order
+
+* {{UL|type=beta|update=Public-Beta has been updated to 1.15.100 (Steam Only)|date=1 April 2026}}
+** Unlocks Menu filters
+** Fixed Moonspell achievements being duplicated in the unlocks screen
+** Fixed the "Fully Evolve the Super Missile" and "Get the twin dragon to level 6" unlocks not unlocking properly in the menu
+** Fixed Stanley achievement text
+** Fixed the Collection, Power Up, and Unlocks buttons on the online Adventure character select screen not opening their respective menus
+
+* {{UL|update=v1.14 Patch 2 Patch Notes|date=1 December 2025}}
+** Fixed evolutions hidden by Alucard Shield not being taken into account when checking for achievements at the end of a run
+
+* {{UL|update=v1.6.0 patch notes|date=17 August 2023}}
+** Unlocks Menu UI:
+*** Fixed incorrect frames used for arcanas.
+*** Coin prizes now display correctly.
+*** Fixed broken language key on coin prizes.
+*** Fixed incorrect panel icons for unlocks.
+*** Corrected text sizing.
+*** Fixed navigation.
+*** Fix for scale of character rewards.
+*** Unlock, description and icons updated.
+*** Text available size and space updated to fix resizing.
+
+* {{UL|update=Patch 0.8.0|date=7 July 2022}}
+** Obtained unlocks can be filtered out from the list
+
+* {{UL|update=There exists tales that don't exist.|date=27 October 2021}}
+** Added to game.
+}}
+
+==Trivia==
+* In [[Adventures]], the "Unlocks" button is labelled as the "Progress" button instead.
+
+{{MechanicNav}}

@@ -10,7 +10,11 @@
   "scripts": {
     "build": "npm run --workspace @survivors-helper/shared build && npm run --workspace @survivors-helper/backend build && npm run --workspace @survivors-helper/frontend build",
     "test": "npm run --workspaces test",
-    "lint": "npm run --workspaces lint"
+    "lint": "npm run --workspaces lint",
+    "data:fetch": "node scripts/fetch-wiki-data.mjs",
+    "data:normalize": "node scripts/normalize-wiki-data.mjs",
+    "data:build-seed": "node scripts/build-seed-from-import.mjs",
+    "data:refresh": "npm run data:fetch && npm run data:normalize && npm run data:build-seed"
   },
   "devDependencies": {
     "@types/node": "^22.10.2",

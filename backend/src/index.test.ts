@@ -77,3 +77,91 @@ test("GET /api/recommendations parses query params and respects limit", async (t
   }
   assert.equal(body.totalCandidates >= body.recommendations.length, true);
 });
+
+test("GET /api/recommendations handles malformed booleans with fallback", async (t) => {
+  await new Promise<void>((resolveListen) => {
+    server.listen(0, "127.0.0.1", () => resolveListen());
+  });
+
+  t.after(() => {
+    server.close();
+  });
+
+  const address = server.address();
+  if (!address || typeof address === "string") {
+    throw new Error("Server address unavailable");
+  }
+
+  const url = new URL(`http://127.0.0.1:${address.port}/api/recommendations`);
+  url.searchParams.set("includeSecrets", "not-bool");
+
+  const response = await fetch(url);
+  assert.equal(response.status, 200);
+
+  const body = (await response.json()) as {
+    params: { includeSecrets: boolean };
+  };
+
+  assert.equal(body.params.includeSecrets, true);
+});
+
+test("GET /api/recommendations ignores invalid numeric weights", async (t) => {
+  await new Promise<void>((resolveListen) => {
+    server.listen(0, "127.0.0.1", () => resolveListen());
+  });
+
+  t.after(() => {
+    server.close();
+  });
+
+  const address = server.address();
+  if (!address || typeof address === "string") {
+    throw new Error("Server address unavailable");
+  }
+
+  const url = new URL(`http://127.0.0.1:${address.port}/api/recommendations`);
+  url.searchParams.set("weightUtility", "abc");
+  url.searchParams.set("utility_power", "NaN");
+
+  const response = await fetch(url);
+  assert.equal(response.status, 200);
+
+  const body = (await response.json()) as {
+    params: {
+      weights: { utility?: number };
+      utilityPreference: { power?: number };
+    };
+  };
+
+  assert.equal(body.params.weights.utility, undefined);
+  assert.equal(body.params.utilityPreference.power, undefined);
+});
+
+test("GET /api/recommendations clamps limit overflow to max", async (t) => {
+  await new Promise<void>((resolveListen) => {
+    server.listen(0, "127.0.0.1", () => resolveListen());
+  });
+
+  t.after(() => {
+    server.close();
+  });
+
+  const address = server.address();
+  if (!address || typeof address === "string") {
+    throw new Error("Server address unavailable");
+  }
+
+  const url = new URL(`http://127.0.0.1:${address.port}/api/recommendations`);
+  url.searchParams.set("limit", "9999");
+
+  const response = await fetch(url);
+  assert.equal(response.status, 200);
+
+  const body = (await response.json()) as {
+    params: { limit: number };
+    recommendations: unknown[];
+  };
+
+  assert.equal(body.params.limit, 100);
+  assert.equal(body.recommendations.length <= 100, true);
+});

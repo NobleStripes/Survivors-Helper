@@ -1,0 +1,27 @@
+{
+  "source": "vampire.survivors.wiki",
+  "fetchedAt": "2026-04-22T06:01:41.652Z",
+  "pages": [
+    {
+      "key": "achievements",
+      "title": "Achievements",
+      "file": "data/raw/wiki/achievements.wikitext",
+      "byteLength": 68348,
+      "inferredLastEdited": null
+    },
+    {
+      "key": "secrets",
+      "title": "Secrets",
+      "file": "data/raw/wiki/secrets.wikitext",
+      "byteLength": 15302,
+      "inferredLastEdited": null
+    },
+    {
+      "key": "characters",
+      "title": "Characters",
+      "file": "data/raw/wiki/characters.wikitext",
+      "byteLength": 16948,
+      "inferredLastEdited": null
+    }
+  ]
+}

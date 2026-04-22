@@ -1,0 +1,373 @@
+{{External|vc}}
+{{HasCalculator|Characters/Search|advanced character search}}
+[[File:Character selection.jpg|thumb|400px|Character selection menu, which is accessed after the player presses the "START" button in the [[main menu]].]]
+'''Characters''' are what the player can control to move around in a [[stage]]. Each character starts with its own unique [[weapon|weapon(s)]] and passive bonus.
+
+There are currently 207 official playable characters. The base game has 54 characters, 22 can be obtained by discovering [[Secrets|secrets]]. The DLCs have a combined roster of 153 characters, 56 of them being secret ones. All non-secret characters need to be purchased using [[Gold Coin (currency)|gold]], increased by 10% additively per characters purchased, with the exception of [[Antonio]], being the first basic character a new player uses; [[Queen Sigma]], who requires an achievement but costs 0 [[Gold Coin (currency)|gold]] to purchase; and [[Dracula]], who is immediately unlocked upon obtaining the [[Black Disk]] and does not require a purchase. Some of these characters require an achievement to unlock for purchase. Certain characters have alternate unlocking method unlisted.    
+
+Certain characters are duo, which means a secondary character will follow the main character. Both characters get their leveling up by turns, and shares the same '''upgrade pool''' (which means if both of them takes the same weapon or passive item, both of them will not be able to [[Evolution|evolve]] it). Passive items can be shared between both of them for evolution. [[Stage item|Stage items]] will only be added to the main character's inventory. Secondary character will not take damage normally.    
+
+[[File:Difference between bought, unlocked, and locked characters.png|thumb|Here, {{slink|Antonio Belpaese|txt=Antonio}} is bought, {{slink|Arca Ladonna|txt=Arca}} is locked, and {{slink|Suor Clerici|txt=Clerici}} is unlocked but not bought.]]
+The unlock conditions for each character can be found in the [[Unlocks]] menu. It should be noted that if a new player unlocks at least one new character, the character selection menu will start to show silhouettes of other locked characters, instead of just showing the character select icons of {{slink|Antonio Belpaese}}, {{slink|Imelda Belpaese}}, {{slink|Pasqualina Belpaese}}, and {{slink|Gennaro Belpaese}}.
+*Characters that are unlocked and bought will have a gray selection icon shown with their character and starting weapon, with their name marked in white;
+*Characters that are unlocked but not bought will also have a gray selection icon and their starting weapon shown, but the characters themselves will have a black silhouette and their name is marked in gray;
+*Characters that are locked have their selection icon entirely colored blue-gray, with the character silhouette, character name, and starting weapon being translucent.
+
+==Standard characters==
+===Base game===
+There are 32 standard characters available in the base game<span class="beta-content"> (34 in beta)</span>.
+{{CharacterSelectListHead}}
+{{CharacterSelect|Antonio Belpaese}}
+{{CharacterSelect|Imelda Belpaese}}
+{{CharacterSelect|Pasqualina Belpaese}}
+{{CharacterSelect|Gennaro Belpaese}}
+{{CharacterSelect|Arca Ladonna}}
+{{CharacterSelect|Porta Ladonna}}
+{{CharacterSelect|Lama Ladonna}}
+{{CharacterSelect|Poe Ratcho}}
+{{CharacterSelect|Suor Clerici}}
+{{CharacterSelect|Dommario}}
+{{CharacterSelect|Krochi Freetto}}
+{{CharacterSelect|Christine Davain}}
+{{CharacterSelect|Pugnala Provola}}
+{{CharacterSelect|Giovanna Grana}}
+{{CharacterSelect|Poppea Pecorina}}
+{{CharacterSelect|Concetta Caciotta}}
+{{CharacterSelect|Mortaccio}}
+{{CharacterSelect|Yatta Cavallo}}
+{{CharacterSelect|Bianca Ramba}}
+{{CharacterSelect|O'Sole Meeo}}
+{{CharacterSelect|Sir Ambrojoe}}
+{{CharacterSelect|Iguana Gallo Valletto}}
+{{CharacterSelect|Divano Thelma}}
+{{CharacterSelect|Zi'Assunta Belpaese}}
+{{CharacterSelect|Queen Sigma}}
+{{CharacterSelect|Bat Robbert}}
+{{CharacterSelect|Zi'Appunta Belpaese}}
+<span class="beta-content">{{CharacterSelect|Big Troubler}}</span>
+{{CharacterSelect|She-Moon Eeta}}
+<span class="beta-content">{{CharacterSelect|Para Kooleo}}</span>
+{{CharacterSelect|Santa Ladonna}}
+{{CharacterSelect|Gazebo}}
+{{CharacterSelect|Chula-Reh}}
+{{CharacterSelect|Space Dude}}
+{{CharacterSelectListBottom}}
+
+===''Legacy of the Moonspell''===
+{{Main|Legacy of the Moonspell}}
+This DLC introduces 8 more characters.
+{{CharacterSelectListHead}}
+{{CharacterSelect|Miang Moonspell}}
+{{CharacterSelect|Menya Moonspell}}
+{{CharacterSelect|Syuuto Moonspell}}
+{{CharacterSelect|Babi-Onna}}
+{{CharacterSelect|McCoy-Oni}}
+{{CharacterSelect|Megalo Menya Moonspell}}
+{{CharacterSelect|Megalo Syuuto Moonspell}}
+{{CharacterSelect|Gav'Et-Oni}}
+{{CharacterSelectListBottom}}
+
+===''Tides of the Foscari''===
+{{Main|Tides of the Foscari}}
+This DLC introduces 8 more characters.
+{{CharacterSelectListHead}}
+{{CharacterSelect|Eleanor Uziron}}
+{{CharacterSelect|Maruto Cuts}}
+{{CharacterSelect|Keitha Muort}}
+{{CharacterSelect|Luminaire Foscari}}
+{{CharacterSelect|Genevieve Gruyère}}
+{{CharacterSelect|Je-Ne-Viv}}
+{{CharacterSelect|Sammy}}
+{{CharacterSelect|Rottin'Ghoul}}
+{{CharacterSelectListBottom}}
+
+===''Emergency Meeting''===
+{{Main|Emergency Meeting}}
+This DLC introduces 9 more characters.
+{{CharacterSelectListHead}}
+{{CharacterSelect|Crewmate Dino}}
+{{CharacterSelect|Engineer Gino}}
+{{CharacterSelect|Ghost Lino}}
+{{CharacterSelect|Shapeshifter Nino}}
+{{CharacterSelect|Guardian Pina}}
+{{CharacterSelect|Impostor Rina}}
+{{CharacterSelect|Scientist Mina}}
+{{CharacterSelect|Horse}}
+{{CharacterSelect|Megalo Impostor Rina}}
+{{CharacterSelectListBottom}}
+
+===''Operation Guns''===
+{{Main|Operation Guns}}
+This DLC introduces 12 more characters.
+{{CharacterSelectListHead}}
+{{CharacterSelect|Bill Rizer}}
+{{CharacterSelect|Lance Bean}}
+{{CharacterSelect|Ariana}}
+{{CharacterSelect|Lucia Zero}}
+{{CharacterSelect|Brad Fang}}
+{{CharacterSelect|Browny}}
+{{CharacterSelect|Sheena Etranzi}}
+{{CharacterSelect|Probotector}}
+{{CharacterSelect|Stanley}}
+{{CharacterSelect|Newt Plissken}}
+{{CharacterSelect|Colonel Bahamut}}
+{{CharacterSelect|Simondo Belmont}}
+{{CharacterSelectListBottom}}
+
+===''Ode to Castlevania''===
+{{Main|Ode to Castlevania}}
+This DLC introduces 96 more characters, making it nearly double the character roster of the rest of the game (including the characters from the base game and all the other DLCs before OtC).
+
+20 of those characters are visible in the character selection screen, 20 more are [[#Hidden|hidden]], and the 56 other characters are [[#Ode_to_Castlevania_2|secret characters]].
+
+====Visible====
+There are 20 visible characters introduced from ''Ode to Castlevania''.
+{{CharacterSelectListHead}}
+{{CharacterSelect|Leon Belmont}}
+{{CharacterSelect|Sonia Belmont}}
+{{CharacterSelect|Trevor Belmont}}
+{{CharacterSelect|Christopher Belmont}}
+{{CharacterSelect|Simon Belmont}}
+{{CharacterSelect|Juste Belmont}}
+{{CharacterSelect|Richter Belmont}}
+{{CharacterSelect|Julius Belmont}}
+{{CharacterSelect|Grant Danasty}}
+{{CharacterSelect|John Morris}}
+{{CharacterSelect|Jonathan Morris}}
+{{CharacterSelect|Soma Cruz}}
+{{CharacterSelect|Charlotte Aulin}}
+{{CharacterSelect|Sypha Belnades}}
+{{CharacterSelect|Yoko Belnades}}
+{{CharacterSelect|Alucard}}
+{{CharacterSelect|Eric Lecarde}}
+{{CharacterSelect|Hector}}
+{{CharacterSelect|Maria Renard}}
+{{CharacterSelect|Shanoa}}
+{{CharacterSelectListBottom}}
+
+====Hidden====
+There are 20 hidden characters introduced from ''Ode to Castlevania''.
+
+These characters become accessible after completing a specific event within the DLC. They are not classified as secret characters as they can be unlocked by fulfilling standard achievements tied to normal gameplay progression.
+{{CharacterSelectListHead}}
+{{CharacterSelect|Quincy Morris}}
+{{CharacterSelect|Maxim Kischine}}
+{{CharacterSelect|Henry}}
+{{CharacterSelect|Vlad Tepes Dracula}}
+{{CharacterSelect|Julia Laforeze}}
+{{CharacterSelect|Carrie Fernandez}}
+{{CharacterSelect|Rinaldo Gandolfi}}
+{{CharacterSelect|Mina Hakuba}}
+{{CharacterSelect|Elizabeth Bartley}}
+{{CharacterSelect|Reinhardt Schneider}}
+{{CharacterSelect|Isaac}}
+{{CharacterSelect|Sara Trantoul}}
+{{CharacterSelect|Vincent Dorin}}
+{{CharacterSelect|Albus}}
+{{CharacterSelect|Lisa Tepes}}
+{{CharacterSelect|Shaft}}
+{{CharacterSelect|Saint Germain}}
+{{CharacterSelect|Nathan Graves}}
+{{CharacterSelect|Cornell}}
+{{CharacterSelect|Barlowe}}
+{{CharacterSelectListBottom}}
+
+===''Emerald Diorama''===
+{{Main|Emerald Diorama}}
+This expansion introduces 12 more regular characters.
+{{CharacterSelectListHead}}
+{{CharacterSelect|Tsunanori Mido}}
+{{CharacterSelect|Bonnie Blair}}
+{{CharacterSelect|Formina Franklyn}}
+{{CharacterSelect|Diva No. 5}}
+{{CharacterSelect|Ameya Aisling}}
+{{CharacterSelect|Siugnas}}
+{{CharacterSelect|Final Emperor}}
+{{CharacterSelect|Dolores}}
+{{CharacterSelect|Macha Alter Ego}}
+{{CharacterSelect|Lita Caryx}}
+{{CharacterSelect|Kugutsu}}
+{{CharacterSelect|Mr. S}}
+{{CharacterSelectListBottom}}
+
+===''Ante Chamber''===
+{{Main|Ante Chamber}}
+This expansion introduces 4 more regular characters.
+{{CharacterSelectListHead}}
+{{CharacterSelect|Jimbo}}
+{{CharacterSelect|Canio}}
+{{CharacterSelect|Chicot}}
+{{CharacterSelect|Perkeo}}
+{{CharacterSelectListBottom}}
+
+==Secret characters==
+Secret characters are "secret" in that their unlock conditions are only present in the [[Secrets|secret menu]], and said menu only gives somewhat ambiguous hints. The unlock methods include killing certain (hidden) [[Enemy|enemies]] and finding Easter eggs in reference to other video game franchises.
+
+===Base game===
+Base game includes 22 secret characters.
+{{CharacterSelectListHead}}
+{{CharacterSelect|Exdash Exiviiq}}
+{{CharacterSelect|Toastie}}
+{{CharacterSelect|Smith IV}}
+{{CharacterSelect|Random}}
+{{CharacterSelect|Boon Marrabbio}}
+{{CharacterSelect|Avatar Infernas}}
+{{CharacterSelect|Minnah Mannarah}}
+{{CharacterSelect|Leda}}
+{{CharacterSelect|Cosmo Pavone}}
+{{CharacterSelect|Peppino}}
+{{CharacterSelect|Big Trouser}}
+{{CharacterSelect|missingN▯}}
+{{CharacterSelect|Gains Boros}}
+{{CharacterSelect|Gyorunton}}
+{{CharacterSelect|Mask of the Red Death}}
+{{CharacterSelect|Bats Bats Bats}}
+{{CharacterSelect|Rose De Infernas}}
+{{CharacterSelect|Torino}}
+{{CharacterSelect|Scorej-Oni}}
+{{CharacterSelect|Gyoruntin}}
+{{CharacterSelect|Secretino Dagsson}}
+{{CharacterSelect|Space Dette}}
+{{CharacterSelectListBottom}}
+
+===''Ode to Castlevania''===
+{{Main|Ode to Castlevania}}
+''Ode to Castlevania'' introduces an additional 56 secret characters, 40 of which were introduced in the original release of ''Ode to Castlevania'' and 16 of which were introduced nearly a year later. The secrets related to the following characters become available once the player finds the [[Pile of Secrets]].
+{{CharacterSelectListHead}}
+{{CharacterSelect|Young Maria Renard}}
+{{CharacterSelect|Familiar}}
+{{CharacterSelect|Innocent Devil}}
+{{CharacterSelect|Blue Crescent Moon Cornell}}
+{{CharacterSelect|Ferryman}}
+{{CharacterSelect|Master Librarian}}
+{{CharacterSelect|Hammer}}
+{{CharacterSelect|Wind}}
+{{CharacterSelect|Hugh Baldwin}}
+{{CharacterSelect|Morris Baldwin}}
+{{CharacterSelect|Annette}}
+{{CharacterSelect|Tera}}
+{{CharacterSelect|Jonathan & Charlotte}}
+{{CharacterSelect|Charlotte & Jonathan}}
+{{CharacterSelect|Stella & Loretta Lecarde}}
+{{CharacterSelect|Loretta & Stella Lecarde}}
+{{CharacterSelect|Stella Lecarde}}
+{{CharacterSelect|Loretta Lecarde}}
+{{CharacterSelect|Brauner}}
+{{CharacterSelect|Soleil Belmont}}
+{{CharacterSelect|Dario Bossi}}
+{{CharacterSelect|Dmitrii Blinov}}
+{{CharacterSelect|Celia Fortner}}
+{{CharacterSelect|Graham Jones}}
+{{CharacterSelect|Genya Arikado}}
+{{CharacterSelect|Joachim Armster}}
+{{CharacterSelect|Walter Bernhard}}
+{{CharacterSelect|Carmilla}}
+{{CharacterSelect|Cave Troll}}
+{{CharacterSelect|Fleaman}}
+{{CharacterSelect|Axe Armor}}
+{{CharacterSelect|Frozenshade}}
+{{CharacterSelect|Alamaric Sniper}}
+{{CharacterSelect|Stone Skull}}
+{{CharacterSelect|Ruler Sword}}
+{{CharacterSelect|Persephone}}
+{{CharacterSelect|Keremet}}
+{{CharacterSelect|Astarte}}
+{{CharacterSelect|Drolta Tzuentes}}
+{{CharacterSelect|Witch Actrise}}
+{{CharacterSelect|Atlantis Shrine Wizard}}
+{{CharacterSelect|Succubus}}
+{{CharacterSelect|Fake Trio|Fake Grant|Fake Trio}}
+{{CharacterSelect|Slogra and Gaibon}}
+{{CharacterSelect|Zephyr}}
+{{CharacterSelect|Jiangshi}}
+{{CharacterSelect|Blackmore}}
+{{CharacterSelect|Count Olrox}}
+{{CharacterSelect|Malphas}}
+{{CharacterSelect|Death (character)|Death|Death}}
+{{CharacterSelect|Galamoth}}
+{{CharacterSelect|Megalo Elizabeth Bartley}}
+{{CharacterSelect|Megalo Olrox}}
+{{CharacterSelect|Megalo Death}}
+{{CharacterSelect|Megalo Dracula}}
+{{CharacterSelect|Chaos}}
+{{CharacterSelectListBottom}}
+
+===''Emerald Diorama''===
+{{Main|Emerald Diorama}}
+This expansion introduced 4 new secret characters.
+{{CharacterSelectListHead}}
+{{CharacterSelect|Lolo, Hiss, Meow, and Purr}}
+{{CharacterSelect|Kina}}
+{{CharacterSelect|Imakoo}}
+{{CharacterSelect|Malevolent Door Spirit}}
+{{CharacterSelectListBottom}}
+
+==Non-player characters==
+The following is a list of non-player characters that appear in ''Vampire Survivors'' (not counting all of the merchants that are also player characters, any [[enemy]], or any of the [[Characters/Unused|unused characters]]):
+*'''{{slink|Eggman}}:''' a merchant in [[Moongolow]] who only sells {{slink|Golden Egg|txt=Golden Eggs}}.
+*'''{{slink|Healer}}:''' a merchant in [[Moongolow]] who can remove {{slink|Golden Egg|txt=Golden Eggs}}.
+*'''{{slink|Xanthia}}:''' a merchant who appears in [[Planar Bazaar]] where they sell the {{slink|Victory Sword}} and the {{slink|Phas3r}}. They also sell the {{slink|Emerald Disk}} and the {{slink|Joker Disk}} in [[Moongolow]].
+*'''{{slink|Giocare}}:''' a merchant in [[Westwoods]] who asks for the player to spin the wheel in exchange for some {{slink|Gold Coin|link=Gold Coin (currency)|txt=Gold Coins}}. Winning the "Spin the Wheel!" minigame would allow for the player to gain access to more parts of this stage.
+
+==Unused characters==
+{{Main|/Unused}}
+Unused characters are those which have been teased in some form, but have not yet been released. Some of them may never be released and were only visible in a development version of the game.
+
+==Update history==
+{{UH|
+* {{UL|type=beta|update=Public-Beta has been updated (Steam PC Only)|date=16 April 2026}}
+** Added Survarots expansion popup in Character Selection
+** Fixed submit button input being blocked on character select screen
+** Fixed character filter toggles on the character select screen and unlock groups on the unlocks screen not showing in release order
+
+* {{UL|type=beta|update=Public-Beta has been updated to 1.15.100 (Steam Only)|date=1 April 2026}}
+** Character Selection filters
+** Character Setup panel for skins, egg selection etc.
+** Fixed an issue where clients could get stuck in the online character select UI if the host backed out while the client was on the unlock screen
+
+* {{UL|update=v1.14 Patch 4 (Steam) Patch Notes|date=5 March 2026}}
+** Multiplayer character descriptions now update with skins
+
+* {{UL|update=Vampire Survivors but it's in Virtual Reality (VSVR) v1.0.717 Patch Notes|date=10 December 2025|platform=quest}}
+** Fixes bug where some characters' health bar is partially obstructed by character sprite
+
+* {{UL|type=hotfix|update=1.14.105 - hotfixes|date=31 October 2025}}
+** Checked all the characters for the achievement unlock conditions
+
+* {{UL|update=v1.6.0 patch notes|date=17 August 2023}}
+** Fixed some missing translations in Character Selection.
+** Character Select UI:
+*** Fixed bug with scale of price.
+*** Sizing updates.
+*** Tweaked ront size/alignment.
+
+* {{UL|update=Patch 1.3.0|date=9 February 2023}}
+** The game should remember the skins you've been using for each character
+
+* {{UL|update=1.0.114 - Bugfixes & tweaks|date=30 October 2022}}
+** Fixed bounding box of a couple of characters
+
+* {{UL|update=Patch 1.0|date=20 October 2022}}
+** Reduced level requirements for character achievements (reach LV 100 is now LV80, reach LV99 is now reach LV50)
+** New UI to show what stages have been cleared for each character (plus option to turn it off)
+
+* {{UL|update=Patch 0.8.0|date=7 July 2022}}
+** Added a visual indicator of how many skins are available per character
+
+* {{UL|update=0.5.107|date=29 April 2022}}
+** Hotfix for character moving automatically when using certain controllers
+
+* {{UL|update=Patch 0.2.8 - Cloud Saves, Volume Sliders, Stats Display|date=16 January 2022}}
+** after unlocking a couple of characters, a stats panel becomes visible on the character selection screen
+
+* {{UL|update=v0.2.2 now available|date=12 December 2021}}
+** walking animations for the playable characters
+
+* {{UL|update=There exists tales that don't exist.|date=27 October 2021}}
+** Added to game.
+}}
+
+==External links== 
+*[https://mozzarellathicc.github.io/vs-build-planner Build Planner]
+
+[[Category:Characters| ]]

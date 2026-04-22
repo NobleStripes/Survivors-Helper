@@ -38,6 +38,139 @@
       "sortOrder": 1
     },
     {
+      "id": "base-inlaid-library",
+      "name": "Inlaid Library",
+      "description": "Reach Level 20 in Mad Forest.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "stage",
+      "rewardTargets": ["Inlaid Library"],
+      "rewardValues": [
+        {
+          "rewardType": "stage",
+          "utilityTags": ["progression", "access"],
+          "baseUtility": 78
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-inlaid-library-1",
+          "type": "level",
+          "subject": "mad_forest",
+          "operator": "gte",
+          "value": 20,
+          "scope": "run",
+          "sourceUnlockId": "base-inlaid-library"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 2
+    },
+    {
+      "id": "base-dairy-plant",
+      "name": "Dairy Plant",
+      "description": "Reach Level 40 in Inlaid Library.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "stage",
+      "rewardTargets": ["Dairy Plant"],
+      "rewardValues": [
+        {
+          "rewardType": "stage",
+          "utilityTags": ["progression", "access"],
+          "baseUtility": 80
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-dairy-plant-1",
+          "type": "level",
+          "subject": "inlaid_library",
+          "operator": "gte",
+          "value": 40,
+          "scope": "run",
+          "sourceUnlockId": "base-dairy-plant"
+        },
+        {
+          "id": "pre-base-dairy-plant-2",
+          "type": "unlock",
+          "subject": "base-inlaid-library",
+          "operator": "eq",
+          "value": "complete",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-dairy-plant"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 3
+    },
+    {
+      "id": "moonspell-miang",
+      "name": "Miang",
+      "description": "Find and open the coffin in Mt.Moonspell.",
+      "unlockCategory": "standard",
+      "sourceGroup": "moonspell",
+      "rewardType": "character",
+      "rewardTargets": ["Miang Moonspell"],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": ["power", "progression"],
+          "baseUtility": 74
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-moonspell-miang-1",
+          "type": "stage_clear",
+          "subject": "mt_moonspell_coffin",
+          "operator": "eq",
+          "value": "opened",
+          "scope": "lifetime",
+          "sourceUnlockId": "moonspell-miang"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": ["Requires Legacy of the Moonspell DLC"],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 4
+    },
+    {
+      "id": "foscari-eleanor",
+      "name": "Eleanor",
+      "description": "Find and open the coffin in Lake Foscari.",
+      "unlockCategory": "standard",
+      "sourceGroup": "foscari",
+      "rewardType": "character",
+      "rewardTargets": ["Eleanor Uziron"],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": ["power", "meta"],
+          "baseUtility": 76
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-foscari-eleanor-1",
+          "type": "stage_clear",
+          "subject": "lake_foscari_coffin",
+          "operator": "eq",
+          "value": "opened",
+          "scope": "lifetime",
+          "sourceUnlockId": "foscari-eleanor"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": ["Requires Tides of the Foscari DLC"],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 5
+    },
+    {
       "id": "secret-marrabbio",
       "name": "Marrabbio",
       "description": "Follow the trail after pillaging Pummarola and Skull O'Maniac from the Mad Forest.",
@@ -68,14 +201,78 @@
         "From the secrets menu hint list"
       ],
       "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
-      "sortOrder": 2
+      "sortOrder": 6
+    },
+    {
+      "id": "secret-leda",
+      "name": "Leda",
+      "description": "Investigate the bottom of Gallo Tower.",
+      "unlockCategory": "secret",
+      "sourceGroup": "base",
+      "rewardType": "character",
+      "rewardTargets": ["Leda"],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": ["power"],
+          "baseUtility": 82
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-secret-leda-1",
+          "type": "secret_hint",
+          "subject": "BringMeBackThere",
+          "operator": "eq",
+          "value": "active",
+          "scope": "lifetime",
+          "sourceUnlockId": "secret-leda"
+        },
+        {
+          "id": "pre-secret-leda-2",
+          "type": "unlock",
+          "subject": "base-dairy-plant",
+          "operator": "eq",
+          "value": "complete",
+          "scope": "lifetime",
+          "sourceUnlockId": "secret-leda"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": ["From the secrets menu hint list"],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 7
     }
   ],
   "dependencyLinks": [
     {
       "fromUnlockId": "base-wings",
+      "toUnlockId": "base-inlaid-library",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-inlaid-library",
+      "toUnlockId": "base-dairy-plant",
+      "relation": "requires",
+      "strength": "hard"
+    },
+    {
+      "fromUnlockId": "base-dairy-plant",
       "toUnlockId": "secret-marrabbio",
       "relation": "enables",
+      "strength": "low"
+    },
+    {
+      "fromUnlockId": "base-dairy-plant",
+      "toUnlockId": "secret-leda",
+      "relation": "enables",
+      "strength": "hard"
+    },
+    {
+      "fromUnlockId": "moonspell-miang",
+      "toUnlockId": "foscari-eleanor",
+      "relation": "soft_synergy",
       "strength": "low"
     }
   ]

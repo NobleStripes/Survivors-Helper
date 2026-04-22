@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from "react";
+import React, { useEffect, useMemo, useState } from "react";
 
 type Recommendation = {
   unlockId: string;
@@ -31,18 +31,95 @@ const dlcGroups = [
   "extra"
 ];
 
-export function App(): JSX.Element {
-  const [completedUnlockIds, setCompletedUnlockIds] = useState("");
-  const [ownedGroups, setOwnedGroups] = useState<string[]>([]);
-  const [includeSecrets, setIncludeSecrets] = useState(true);
-  const [limit, setLimit] = useState(25);
+export const STORAGE_KEY = "survivors-helper:filters:v1";
 
-  const [weightEffort, setWeightEffort] = useState(0.22);
-  const [weightDepth, setWeightDepth] = useState(0.16);
-  const [weightUtility, setWeightUtility] = useState(0.24);
-  const [weightChain, setWeightChain] = useState(0.20);
-  const [weightDlcAvailability, setWeightDlcAvailability] = useState(0.10);
-  const [weightSecretComplexity, setWeightSecretComplexity] = useState(0.08);
+type PersistedFilters = {
+  completedUnlockIds: string;
+  ownedGroups: string[];
+  includeSecrets: boolean;
+  limit: number;
+  weights: {
+    effort: number;
+    depth: number;
+    utility: number;
+    chain: number;
+    dlcAvailability: number;
+    secretComplexity: number;
+  };
+};
+
+const defaultFilters: PersistedFilters = {
+  completedUnlockIds: "",
+  ownedGroups: [],
+  includeSecrets: true,
+  limit: 25,
+  weights: {
+    effort: 0.22,
+    depth: 0.16,
+    utility: 0.24,
+    chain: 0.2,
+    dlcAvailability: 0.1,
+    secretComplexity: 0.08
+  }
+};
+
+function readPersistedFilters(): PersistedFilters {
+  if (typeof globalThis.localStorage === "undefined") {
+    return defaultFilters;
+  }
+
+  try {
+    const raw = globalThis.localStorage.getItem(STORAGE_KEY);
+    if (!raw) return defaultFilters;
+
+    const parsed = JSON.parse(raw) as Partial<PersistedFilters>;
+    const parsedWeights: Partial<PersistedFilters["weights"]> = parsed.weights ?? {};
+    const ownedGroups = Array.isArray(parsed.ownedGroups)
+      ? parsed.ownedGroups.filter((group): group is string => dlcGroups.includes(group))
+      : [];
+
+    const limitValue = typeof parsed.limit === "number" ? parsed.limit : defaultFilters.limit;
+
+    return {
+      completedUnlockIds:
+        typeof parsed.completedUnlockIds === "string" ? parsed.completedUnlockIds : defaultFilters.completedUnlockIds,
+      ownedGroups,
+      includeSecrets: typeof parsed.includeSecrets === "boolean" ? parsed.includeSecrets : defaultFilters.includeSecrets,
+      limit: Number.isFinite(limitValue) ? Math.min(Math.max(limitValue, 1), 100) : defaultFilters.limit,
+      weights: {
+        effort: typeof parsedWeights.effort === "number" ? parsedWeights.effort : defaultFilters.weights.effort,
+        depth: typeof parsedWeights.depth === "number" ? parsedWeights.depth : defaultFilters.weights.depth,
+        utility: typeof parsedWeights.utility === "number" ? parsedWeights.utility : defaultFilters.weights.utility,
+        chain: typeof parsedWeights.chain === "number" ? parsedWeights.chain : defaultFilters.weights.chain,
+        dlcAvailability:
+          typeof parsedWeights.dlcAvailability === "number"
+            ? parsedWeights.dlcAvailability
+            : defaultFilters.weights.dlcAvailability,
+        secretComplexity:
+          typeof parsedWeights.secretComplexity === "number"
+            ? parsedWeights.secretComplexity
+            : defaultFilters.weights.secretComplexity
+      }
+    };
+  } catch {
+    return defaultFilters;
+  }
+}
+
+export function App(): JSX.Element {
+  const persisted = useMemo(() => readPersistedFilters(), []);
+
+  const [completedUnlockIds, setCompletedUnlockIds] = useState(persisted.completedUnlockIds);
+  const [ownedGroups, setOwnedGroups] = useState<string[]>(persisted.ownedGroups);
+  const [includeSecrets, setIncludeSecrets] = useState(persisted.includeSecrets);
+  const [limit, setLimit] = useState(persisted.limit);
+
+  const [weightEffort, setWeightEffort] = useState(persisted.weights.effort);
+  const [weightDepth, setWeightDepth] = useState(persisted.weights.depth);
+  const [weightUtility, setWeightUtility] = useState(persisted.weights.utility);
+  const [weightChain, setWeightChain] = useState(persisted.weights.chain);
+  const [weightDlcAvailability, setWeightDlcAvailability] = useState(persisted.weights.dlcAvailability);
+  const [weightSecretComplexity, setWeightSecretComplexity] = useState(persisted.weights.secretComplexity);
 
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -77,6 +154,40 @@ export function App(): JSX.Element {
   function toggleGroup(group: string): void {
     setOwnedGroups((prev) => (prev.includes(group) ? prev.filter((g) => g !== group) : [...prev, group]));
   }
+
+  useEffect(() => {
+    if (typeof globalThis.localStorage === "undefined") {
+      return;
+    }
+
+    const payload: PersistedFilters = {
+      completedUnlockIds,
+      ownedGroups,
+      includeSecrets,
+      limit: Math.min(Math.max(limit, 1), 100),
+      weights: {
+        effort: weightEffort,
+        depth: weightDepth,
+        utility: weightUtility,
+        chain: weightChain,
+        dlcAvailability: weightDlcAvailability,
+        secretComplexity: weightSecretComplexity
+      }
+    };
+
+    globalThis.localStorage.setItem(STORAGE_KEY, JSON.stringify(payload));
+  }, [
+    completedUnlockIds,
+    ownedGroups,
+    includeSecrets,
+    limit,
+    weightEffort,
+    weightDepth,
+    weightUtility,
+    weightChain,
+    weightDlcAvailability,
+    weightSecretComplexity
+  ]);
 
   async function runRecommendations(): Promise<void> {
     setLoading(true);
@@ -127,7 +238,11 @@ export function App(): JSX.Element {
             min={1}
             max={100}
             value={limit}
-            onChange={(event) => setLimit(Number(event.target.value))}
+            onChange={(event) => {
+              const nextLimit = Number(event.target.value);
+              if (!Number.isFinite(nextLimit)) return;
+              setLimit(Math.min(Math.max(nextLimit, 1), 100));
+            }}
           />
         </label>
       </section>
