@@ -1,0 +1,43 @@
+{
+  "source": "vampire.survivors.wiki",
+  "normalizedAt": "2026-04-22T06:05:25.581Z",
+  "counts": {
+    "achievements": 0,
+    "secrets": 4
+  },
+  "achievements": [],
+  "secrets": [
+    {
+      "id": "emerald_diorama-secret-maidofmagic",
+      "codeName": "MaidOfMagic",
+      "description": "Gather the largest cadre of cats, including those that want to fight.",
+      "unlocks": "Lolo, Hiss, Meow, and Purr",
+      "sourceGroup": "emerald_diorama",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "emerald_diorama-secret-bugandafeature",
+      "codeName": "BugAndAFeature",
+      "description": "Defy the call to adventure in Emerald Diorama.",
+      "unlocks": "Kina",
+      "sourceGroup": "emerald_diorama",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "emerald_diorama-secret-awoooooooooo",
+      "codeName": "Awoooooooooo",
+      "description": "End anguish with an otherworldly melody as the greatest mechanical songstress.",
+      "unlocks": "Imakoo",
+      "sourceGroup": "emerald_diorama",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "emerald_diorama-secret-icetomeetyou",
+      "codeName": "IceToMeetYou",
+      "description": "Let the last ruler re-freeze his most monstrous form.",
+      "unlocks": "Malevolent Door Spirit",
+      "sourceGroup": "emerald_diorama",
+      "unlockCategory": "secret"
+    }
+  ]
+}

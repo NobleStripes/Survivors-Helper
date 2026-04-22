@@ -1,279 +1,174 @@
 {
   "meta": {
-    "datasetVersion": "0.1.0",
+    "datasetVersion": "0.2.0",
     "gamePatch": "1.15.100",
     "lastUpdatedAt": "2026-04-22",
     "source": "vampire.survivors.wiki"
   },
   "unlocks": [
     {
-      "id": "base-wings",
-      "name": "Wings",
-      "description": "Reach Level 5.",
-      "unlockCategory": "standard",
-      "sourceGroup": "base",
-      "rewardType": "feature",
-      "rewardTargets": ["Wings"],
+      "id": "emerald_diorama-secret-maidofmagic",
+      "name": "MaidOfMagic",
+      "description": "Gather the largest cadre of cats, including those that want to fight.",
+      "unlockCategory": "secret",
+      "sourceGroup": "emerald_diorama",
+      "rewardType": "character",
+      "rewardTargets": [
+        "Lolo, Hiss, Meow, and Purr"
+      ],
       "rewardValues": [
         {
-          "rewardType": "feature",
-          "utilityTags": ["progression"],
-          "baseUtility": 70
-        }
-      ],
-      "prerequisites": [
-        {
-          "id": "pre-base-wings-1",
-          "type": "level",
-          "subject": "any_character",
-          "operator": "gte",
-          "value": 5,
-          "scope": "run",
-          "sourceUnlockId": "base-wings"
-        }
-      ],
-      "isSpoiler": false,
-      "notes": [],
-      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
-      "sortOrder": 1
-    },
-    {
-      "id": "base-inlaid-library",
-      "name": "Inlaid Library",
-      "description": "Reach Level 20 in Mad Forest.",
-      "unlockCategory": "standard",
-      "sourceGroup": "base",
-      "rewardType": "stage",
-      "rewardTargets": ["Inlaid Library"],
-      "rewardValues": [
-        {
-          "rewardType": "stage",
-          "utilityTags": ["progression", "access"],
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
           "baseUtility": 78
         }
       ],
       "prerequisites": [
         {
-          "id": "pre-base-inlaid-library-1",
-          "type": "level",
-          "subject": "mad_forest",
-          "operator": "gte",
-          "value": 20,
-          "scope": "run",
-          "sourceUnlockId": "base-inlaid-library"
+          "id": "pre-emerald_diorama-secret-maidofmagic-secret",
+          "type": "secret_hint",
+          "subject": "MaidOfMagic",
+          "operator": "eq",
+          "value": "active",
+          "scope": "lifetime",
+          "sourceUnlockId": "emerald_diorama-secret-maidofmagic"
         }
       ],
-      "isSpoiler": false,
+      "isSpoiler": true,
       "notes": [],
-      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 1
+    },
+    {
+      "id": "emerald_diorama-secret-bugandafeature",
+      "name": "BugAndAFeature",
+      "description": "Defy the call to adventure in Emerald Diorama.",
+      "unlockCategory": "secret",
+      "sourceGroup": "emerald_diorama",
+      "rewardType": "character",
+      "rewardTargets": [
+        "Kina"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-emerald_diorama-secret-bugandafeature-secret",
+          "type": "secret_hint",
+          "subject": "BugAndAFeature",
+          "operator": "eq",
+          "value": "active",
+          "scope": "lifetime",
+          "sourceUnlockId": "emerald_diorama-secret-bugandafeature"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
       "sortOrder": 2
     },
     {
-      "id": "base-dairy-plant",
-      "name": "Dairy Plant",
-      "description": "Reach Level 40 in Inlaid Library.",
-      "unlockCategory": "standard",
-      "sourceGroup": "base",
-      "rewardType": "stage",
-      "rewardTargets": ["Dairy Plant"],
+      "id": "emerald_diorama-secret-awoooooooooo",
+      "name": "Awoooooooooo",
+      "description": "End anguish with an otherworldly melody as the greatest mechanical songstress.",
+      "unlockCategory": "secret",
+      "sourceGroup": "emerald_diorama",
+      "rewardType": "character",
+      "rewardTargets": [
+        "Imakoo"
+      ],
       "rewardValues": [
         {
-          "rewardType": "stage",
-          "utilityTags": ["progression", "access"],
-          "baseUtility": 80
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
         }
       ],
       "prerequisites": [
         {
-          "id": "pre-base-dairy-plant-1",
-          "type": "level",
-          "subject": "inlaid_library",
-          "operator": "gte",
-          "value": 40,
-          "scope": "run",
-          "sourceUnlockId": "base-dairy-plant"
-        },
-        {
-          "id": "pre-base-dairy-plant-2",
-          "type": "unlock",
-          "subject": "base-inlaid-library",
+          "id": "pre-emerald_diorama-secret-awoooooooooo-secret",
+          "type": "secret_hint",
+          "subject": "Awoooooooooo",
           "operator": "eq",
-          "value": "complete",
+          "value": "active",
           "scope": "lifetime",
-          "sourceUnlockId": "base-dairy-plant"
+          "sourceUnlockId": "emerald_diorama-secret-awoooooooooo"
         }
       ],
-      "isSpoiler": false,
+      "isSpoiler": true,
       "notes": [],
-      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
       "sortOrder": 3
     },
     {
-      "id": "moonspell-miang",
-      "name": "Miang",
-      "description": "Find and open the coffin in Mt.Moonspell.",
-      "unlockCategory": "standard",
-      "sourceGroup": "moonspell",
+      "id": "emerald_diorama-secret-icetomeetyou",
+      "name": "IceToMeetYou",
+      "description": "Let the last ruler re-freeze his most monstrous form.",
+      "unlockCategory": "secret",
+      "sourceGroup": "emerald_diorama",
       "rewardType": "character",
-      "rewardTargets": ["Miang Moonspell"],
+      "rewardTargets": [
+        "Malevolent Door Spirit"
+      ],
       "rewardValues": [
         {
           "rewardType": "character",
-          "utilityTags": ["power", "progression"],
-          "baseUtility": 74
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
         }
       ],
       "prerequisites": [
         {
-          "id": "pre-moonspell-miang-1",
-          "type": "stage_clear",
-          "subject": "mt_moonspell_coffin",
+          "id": "pre-emerald_diorama-secret-icetomeetyou-secret",
+          "type": "secret_hint",
+          "subject": "IceToMeetYou",
           "operator": "eq",
-          "value": "opened",
+          "value": "active",
           "scope": "lifetime",
-          "sourceUnlockId": "moonspell-miang"
+          "sourceUnlockId": "emerald_diorama-secret-icetomeetyou"
         }
       ],
-      "isSpoiler": false,
-      "notes": ["Requires Legacy of the Moonspell DLC"],
-      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "isSpoiler": true,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
       "sortOrder": 4
-    },
-    {
-      "id": "foscari-eleanor",
-      "name": "Eleanor",
-      "description": "Find and open the coffin in Lake Foscari.",
-      "unlockCategory": "standard",
-      "sourceGroup": "foscari",
-      "rewardType": "character",
-      "rewardTargets": ["Eleanor Uziron"],
-      "rewardValues": [
-        {
-          "rewardType": "character",
-          "utilityTags": ["power", "meta"],
-          "baseUtility": 76
-        }
-      ],
-      "prerequisites": [
-        {
-          "id": "pre-foscari-eleanor-1",
-          "type": "stage_clear",
-          "subject": "lake_foscari_coffin",
-          "operator": "eq",
-          "value": "opened",
-          "scope": "lifetime",
-          "sourceUnlockId": "foscari-eleanor"
-        }
-      ],
-      "isSpoiler": false,
-      "notes": ["Requires Tides of the Foscari DLC"],
-      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
-      "sortOrder": 5
-    },
-    {
-      "id": "secret-marrabbio",
-      "name": "Marrabbio",
-      "description": "Follow the trail after pillaging Pummarola and Skull O'Maniac from the Mad Forest.",
-      "unlockCategory": "secret",
-      "sourceGroup": "base",
-      "rewardType": "character",
-      "rewardTargets": ["Boon Marrabbio"],
-      "rewardValues": [
-        {
-          "rewardType": "character",
-          "utilityTags": ["power", "meta"],
-          "baseUtility": 75
-        }
-      ],
-      "prerequisites": [
-        {
-          "id": "pre-secret-marrabbio-1",
-          "type": "secret_hint",
-          "subject": "KissMe",
-          "operator": "eq",
-          "value": "active",
-          "scope": "lifetime",
-          "sourceUnlockId": "secret-marrabbio"
-        }
-      ],
-      "isSpoiler": true,
-      "notes": [
-        "From the secrets menu hint list"
-      ],
-      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
-      "sortOrder": 6
-    },
-    {
-      "id": "secret-leda",
-      "name": "Leda",
-      "description": "Investigate the bottom of Gallo Tower.",
-      "unlockCategory": "secret",
-      "sourceGroup": "base",
-      "rewardType": "character",
-      "rewardTargets": ["Leda"],
-      "rewardValues": [
-        {
-          "rewardType": "character",
-          "utilityTags": ["power"],
-          "baseUtility": 82
-        }
-      ],
-      "prerequisites": [
-        {
-          "id": "pre-secret-leda-1",
-          "type": "secret_hint",
-          "subject": "BringMeBackThere",
-          "operator": "eq",
-          "value": "active",
-          "scope": "lifetime",
-          "sourceUnlockId": "secret-leda"
-        },
-        {
-          "id": "pre-secret-leda-2",
-          "type": "unlock",
-          "subject": "base-dairy-plant",
-          "operator": "eq",
-          "value": "complete",
-          "scope": "lifetime",
-          "sourceUnlockId": "secret-leda"
-        }
-      ],
-      "isSpoiler": true,
-      "notes": ["From the secrets menu hint list"],
-      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
-      "sortOrder": 7
     }
   ],
   "dependencyLinks": [
     {
-      "fromUnlockId": "base-wings",
-      "toUnlockId": "base-inlaid-library",
+      "fromUnlockId": "emerald_diorama-secret-maidofmagic",
+      "toUnlockId": "emerald_diorama-secret-bugandafeature",
       "relation": "enables",
       "strength": "medium"
     },
     {
-      "fromUnlockId": "base-inlaid-library",
-      "toUnlockId": "base-dairy-plant",
-      "relation": "requires",
-      "strength": "hard"
-    },
-    {
-      "fromUnlockId": "base-dairy-plant",
-      "toUnlockId": "secret-marrabbio",
+      "fromUnlockId": "emerald_diorama-secret-bugandafeature",
+      "toUnlockId": "emerald_diorama-secret-awoooooooooo",
       "relation": "enables",
-      "strength": "low"
+      "strength": "medium"
     },
     {
-      "fromUnlockId": "base-dairy-plant",
-      "toUnlockId": "secret-leda",
+      "fromUnlockId": "emerald_diorama-secret-awoooooooooo",
+      "toUnlockId": "emerald_diorama-secret-icetomeetyou",
       "relation": "enables",
-      "strength": "hard"
-    },
-    {
-      "fromUnlockId": "moonspell-miang",
-      "toUnlockId": "foscari-eleanor",
-      "relation": "soft_synergy",
-      "strength": "low"
+      "strength": "medium"
     }
   ]
 }
