@@ -38,7 +38,7 @@ function sourceGroupFromHeading(heading) {
 
 function splitRows(tableText) {
   return tableText
-    .split("|-\n")
+    .split(/\n\|-\s*\n/g)
     .map((row) => row.trim())
     .filter((row) => row.startsWith("|"));
 }
@@ -83,7 +83,7 @@ function parseCells(rowText) {
 
 function extractAchievements(wikitext) {
   const sections = [];
-  const sectionRegex = /^==([^=]+)==\n([\s\S]*?)(?=^==[^=]+==|\Z)/gm;
+  const sectionRegex = /^==([^=]+)==\n([\s\S]*?)(?=^==[^=]+==|(?![\s\S]))/gm;
   let sectionMatch;
 
   while ((sectionMatch = sectionRegex.exec(wikitext)) !== null) {
@@ -132,7 +132,7 @@ function extractAchievements(wikitext) {
 
 function extractSecrets(wikitext) {
   const results = [];
-  const subsectionRegex = /^===([^=]+)===\n([\s\S]*?)(?=^===|^==|\Z)/gm;
+  const subsectionRegex = /^===([^=]+)===\n([\s\S]*?)(?=^===|^==|(?![\s\S]))/gm;
   let subsectionMatch;
 
   while ((subsectionMatch = subsectionRegex.exec(wikitext)) !== null) {
@@ -184,8 +184,11 @@ async function main() {
     readFile(resolve(rawDir, "secrets.wikitext"), "utf8")
   ]);
 
-  const achievements = extractAchievements(achievementsRaw);
-  const secrets = extractSecrets(secretsRaw);
+  const achievementsText = achievementsRaw.replace(/\r\n/g, "\n");
+  const secretsText = secretsRaw.replace(/\r\n/g, "\n");
+
+  const achievements = extractAchievements(achievementsText);
+  const secrets = extractSecrets(secretsText);
 
   const output = {
     source: "vampire.survivors.wiki",

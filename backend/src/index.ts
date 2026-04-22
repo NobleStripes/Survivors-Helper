@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs";
 import { createServer } from "node:http";
 import { resolve } from "node:path";
 import { existsSync } from "node:fs";
-import { fileURLToPath } from "node:url";
+import { fileURLToPath, pathToFileURL } from "node:url";
 
 import { SourceGroups, UtilityTags, validateUnlockDataset, type UnlockDataset } from "@survivors-helper/shared";
 import { recommendUnlocks } from "./recommendation.js";
@@ -171,7 +171,9 @@ const server = createServer((req, res) => {
   res.end("Not Found");
 });
 
-if (process.env.START_SERVER === "1") {
+const isMainModule = Boolean(process.argv[1]) && import.meta.url === pathToFileURL(process.argv[1]).href;
+
+if (isMainModule) {
   const port = Number(process.env.PORT ?? 4170);
   server.listen(port, () => {
     console.log(`Backend listening on ${port}`);

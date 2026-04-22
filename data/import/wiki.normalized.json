@@ -1,12 +1,2440 @@
 {
   "source": "vampire.survivors.wiki",
-  "normalizedAt": "2026-04-22T06:05:25.581Z",
+  "normalizedAt": "2026-04-22T06:06:25.640Z",
   "counts": {
-    "achievements": 0,
-    "secrets": 4
+    "achievements": 203,
+    "secrets": 79
   },
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "base-wings",
+      "title": "Wings",
+      "description": "Reach Level 5.",
+      "unlocks": "Wings",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-crown",
+      "title": "Crown",
+      "description": "Reach Level 10.",
+      "unlocks": "Crown",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-inlaid-library",
+      "title": "Inlaid Library",
+      "description": "Reach Level 20 in Mad Forest.",
+      "unlocks": "Inlaid Library",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-dairy-plant",
+      "title": "Dairy Plant",
+      "description": "Reach Level 40 in Inlaid Library.",
+      "unlocks": "Dairy Plant",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-gallo-tower",
+      "title": "Gallo Tower",
+      "description": "Reach Level 60 in Dairy Plant.",
+      "unlocks": "Gallo Tower",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-cappella-magna",
+      "title": "Cappella Magna",
+      "description": "Reach Level 80 in Gallo Tower.",
+      "unlocks": "Cappella Magna",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-bat-country",
+      "title": "EXTRA: Bat Country",
+      "description": "Reach Level 80 in Inverse Mad Forest.",
+      "unlocks": "Hyper Bat Country",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-astral-stair",
+      "title": "EXTRA: Astral Stair",
+      "description": "Reach Level 80 in Inverse Inlaid Library.",
+      "unlocks": "Hyper Astral Stair",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-mazerella",
+      "title": "EXTRA: Mazerella",
+      "description": "Reach Level 80 in Inverse Dairy Plant.",
+      "unlocks": "Hyper Mazerella",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-tiny-bridge",
+      "title": "EXTRA: Tiny Bridge",
+      "description": "Reach Level 80 in Inverse Gallo Tower.",
+      "unlocks": "Hyper Tiny Bridge",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-hollow-heart",
+      "title": "Hollow Heart",
+      "description": "Survive 1 minute with any character.",
+      "unlocks": "Hollow Heart",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-runetracer",
+      "title": "Runetracer",
+      "description": "Survive 5 minutes with Pasqualina.",
+      "unlocks": "Runetracer",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-pummarola",
+      "title": "Pummarola",
+      "description": "Survive 5 minutes with Gennaro.",
+      "unlocks": "Pummarola",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-peachone",
+      "title": "Peachone",
+      "description": "Survive 10 minutes with any character.",
+      "unlocks": "Peachone",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-phiera-der-tuphello",
+      "title": "Phiera Der Tuphello",
+      "description": "Survive 10 minutes with Pugnala.",
+      "unlocks": "Phiera Der Tuphello",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-eight-the-sparrow",
+      "title": "Eight The Sparrow",
+      "description": "Survive 15 minutes with Pugnala.",
+      "unlocks": "Eight The Sparrow",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-gatti-amari",
+      "title": "Gatti Amari",
+      "description": "Survive 15 minutes with Giovanna.",
+      "unlocks": "Gatti Amari",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-song-of-mana",
+      "title": "Song Of Mana",
+      "description": "Survive 15 minutes with Poppea.",
+      "unlocks": "Song of Mana",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-shadow-pinion",
+      "title": "Shadow Pinion",
+      "description": "Survive 15 minutes with Concetta.",
+      "unlocks": "Shadow Pinion",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-vento-sacro",
+      "title": "Vento Sacro",
+      "description": "Survive 15 minutes with Zi'Assunta.",
+      "unlocks": "Vento Sacro",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-pentagram",
+      "title": "Pentagram",
+      "description": "Survive 20 minutes with any character.",
+      "unlocks": "Pentagram",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-tiragis",
+      "title": "Tiragisú",
+      "description": "Survive 20 minutes with Krochi.",
+      "unlocks": "Tiragisú",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-lama",
+      "title": "Lama",
+      "description": "Survive 20 minutes with at least +10% Curse.",
+      "unlocks": "Lama",
+      "notes": "The actual unlock condition is to have any amount of Curse higher than the base value at the end of a 20+ minute run.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-she-moon-eeta",
+      "title": "EXTRA: She-Moon Eeta",
+      "description": "Survive 20 minutes in Whiteout.",
+      "unlocks": "She-Moon Eeta",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-santa-ladonna",
+      "title": "EXTRA: Santa Ladonna",
+      "description": "Survive 20 minutes in Laborratory.",
+      "unlocks": "Santa Ladonna",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-gazebo",
+      "title": "EXTRA: Gazebo",
+      "description": "Survive 20 minutes in The Coop.",
+      "unlocks": "Gazebo",
+      "notes": "Used to be unlocked by evolving Gaze of Gaea into Embrace of Gaea.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-chula-reh",
+      "title": "EXTRA: Chula-Reh",
+      "description": "Survive 20 minutes in Westwoods.",
+      "unlocks": "Chula-Reh",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-space-dude",
+      "title": "EXTRA: Space Dude",
+      "description": "Survive 20 minutes in Space 54.",
+      "unlocks": "Space Dude",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-skull-o-maniac",
+      "title": "Skull O'Maniac",
+      "description": "Survive 30 minutes with Lama.",
+      "unlocks": "Skull O'Maniac",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-bracer",
+      "title": "Bracer",
+      "description": "Get King Bible to Level 4.",
+      "unlocks": "Bracer",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-candelabrador",
+      "title": "Candelabrador",
+      "description": "Get Santa Water to Level 4.",
+      "unlocks": "Candelabrador",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-arca",
+      "title": "Arca",
+      "description": "Get Fire Wand to Level 4.",
+      "unlocks": "Arca",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-porta",
+      "title": "Porta",
+      "description": "Get Lightning Ring to Level 4.",
+      "unlocks": "Porta",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-duplicator",
+      "title": "Duplicator",
+      "description": "Get Magic Wand to Level 7.",
+      "unlocks": "Duplicator",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-ebony-wings",
+      "title": "Ebony Wings",
+      "description": "Get Peachone to Level 7.",
+      "unlocks": "Ebony Wings",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-spellbinder",
+      "title": "Spellbinder",
+      "description": "Get Runetracer to Level 7.",
+      "unlocks": "Spellbinder",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-poe-ratcho",
+      "title": "Poe Ratcho",
+      "description": "Get Garlic to level 7.",
+      "unlocks": "Poe",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-christine",
+      "title": "Christine",
+      "description": "Get Pentagram to level 7.",
+      "unlocks": "Christine",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-glass-fandango",
+      "title": "EXTRA: Glass Fandango",
+      "description": "Get Glass Fandango to Level 7.",
+      "unlocks": "Glass Fandango",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-santa-javelin",
+      "title": "EXTRA: Santa Javelin",
+      "description": "Get Santa Javelin to level 7.",
+      "unlocks": "Santa Javelin",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-magi-stone",
+      "title": "EXTRA: Magi-Stone",
+      "description": "Get Magi-Stone to Level 7.",
+      "unlocks": "Magi-Stone",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-phas3r",
+      "title": "EXTRA: Phas3r",
+      "description": "Get Phas3r to level 7.",
+      "unlocks": "Phas3r",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-omni",
+      "title": "Omni",
+      "description": "Get Torrona's Box to Level 9.",
+      "unlocks": "Omni",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-torrona-s-box",
+      "title": "Torrona's Box",
+      "description": "Hold 6 different weapon evolutions at once.",
+      "unlocks": "Torrona's Box",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-empty-tome",
+      "title": "Empty Tome",
+      "description": "Hold 6 different weapons at once.",
+      "unlocks": "Empty Tome",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-suor-clerici",
+      "title": "Suor Clerici",
+      "description": "Recover a lifetime total of 1000 HP.",
+      "unlocks": "Suor Clerici",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-dommario",
+      "title": "Dommario",
+      "description": "Earn 5000 coins in a single run.",
+      "unlocks": "Dommario",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-bracelet",
+      "title": "Bracelet",
+      "description": "Survive 30 minutes with either Gallo or Divano.",
+      "unlocks": "Bracelet",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-fire-wand",
+      "title": "Fire Wand",
+      "description": "Destroy 20 light sources.",
+      "unlocks": "Fire Wand",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-garlic",
+      "title": "Garlic",
+      "description": "Find 5 Floor Chickens.",
+      "unlocks": "Garlic",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-clover",
+      "title": "Clover",
+      "description": "Find a Little Clover.",
+      "unlocks": "Clover",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-magnet",
+      "title": "Magnet",
+      "description": "Find a Vacuum.",
+      "unlocks": "Attractorb",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-lancet",
+      "title": "Lancet",
+      "description": "Find an Orologion.",
+      "unlocks": "Clock Lancet",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-cross",
+      "title": "Cross",
+      "description": "Find a Rosary.",
+      "unlocks": "Cross",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-stone-mask",
+      "title": "Stone Mask",
+      "description": "Find a Stone Mask.",
+      "unlocks": "Stone Mask",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-arma-dio",
+      "title": "EXTRA: Arma Dio",
+      "description": "Find an Arma Dio.",
+      "unlocks": "Arma Dio",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-parm-aegis",
+      "title": "EXTRA: Parm Aegis",
+      "description": "Find a Parm Aegis in The Coop.",
+      "unlocks": "Parm Aegis",
+      "notes": "Parm Aegis can also be unlocked by finding it as a stage item in any other stage besides The Coop.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-karoma-s-mana",
+      "title": "EXTRA: Karoma's Mana",
+      "description": "Find a Karoma's Mana in Westwoods.",
+      "unlocks": "Karoma's Mana",
+      "notes": "Karoma's Mana can also be unlocked by finding it as a stage item in any other stage besides Westwoods.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-whiteout",
+      "title": "EXTRA: Whiteout",
+      "description": "Find 20 Orologions.",
+      "unlocks": "Hyper Whiteout",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-laborratory",
+      "title": "EXTRA: Laborratory",
+      "description": "Find 33 Rosaries.",
+      "unlocks": "Hyper Laborratory",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-the-coop",
+      "title": "EXTRA: The Coop",
+      "description": "Find 500 Floor Chickens.",
+      "unlocks": "Hyper The Coop",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-westwoods",
+      "title": "EXTRA: Westwoods",
+      "description": "Find 23 Little Clovers.",
+      "unlocks": "Hyper Westwoods",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-space-54",
+      "title": "EXTRA: Space 54",
+      "description": "Find 5 Gold Fingers.",
+      "unlocks": "Hyper Space 54",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-carlo-cart",
+      "title": "EXTRA: Carlo Cart",
+      "description": "Deal a total of 25120 damage with the Laborratory Train.",
+      "unlocks": "Hyper Carlo Cart",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-grim-grimoire",
+      "title": "Grim Grimoire",
+      "description": "Find the Grim Grimoire.",
+      "unlocks": "Evolution list",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-magic-banger",
+      "title": "Magic Banger",
+      "description": "Find the Magic Banger.",
+      "unlocks": "Music selection",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-milky-way-map",
+      "title": "Milky Way Map",
+      "description": "Find the Milky Way Map.",
+      "unlocks": "Pause menu map",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-ars-gouda",
+      "title": "Ars Gouda",
+      "description": "Find the Ars Gouda.",
+      "unlocks": "Bestiary",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-sorceress-tears",
+      "title": "Sorceress' Tears",
+      "description": "Find the Sorceress' Tears.",
+      "unlocks": "Hurry mode",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-randomazzo",
+      "title": "Randomazzo",
+      "description": "Find the Randomazzo.",
+      "unlocks": "Arcanas",
+      "notes": "Until Randomazzo has been found, other Arcana-related achievements are not visible.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-glass-vizard",
+      "title": "Glass Vizard",
+      "description": "Find and buy the Glass Vizard.",
+      "unlocks": "Merchant",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-i-can-t-see-anything",
+      "title": "I can't see anything...",
+      "description": "Find the Yellow Sign.",
+      "unlocks": "Hidden stage items",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-forbidden-scrolls",
+      "title": "Forbidden Scrolls",
+      "description": "Find the Forbidden Scrolls of Morbane.",
+      "unlocks": "???",
+      "notes": "Unlocks secrets and spells",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-great-gospel",
+      "title": "Great Gospel",
+      "description": "Find the Great Gospel.",
+      "unlocks": "Limit Break",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-the-eudaimonia-machine",
+      "title": "The Eudaimonia Machine",
+      "description": "Obtain all standard relics from all stages.",
+      "unlocks": "Eudaimonia M.",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-gracia-s-mirror",
+      "title": "Gracia's Mirror",
+      "description": "Find the Gracia's Mirror.",
+      "unlocks": "Inverse mode",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-seventh-trumpet",
+      "title": "Seventh Trumpet",
+      "description": "Find the Seventh Trumpet.",
+      "unlocks": "Endless mode",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-adventures",
+      "title": "EXTRA: Adventures",
+      "description": "Obtain the Atlas Gate in Boss Rash.",
+      "unlocks": "Base game Adventures",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-apoplexy",
+      "title": "EXTRA: Apoplexy",
+      "description": "Find the Apoplexy at minute 9:00 in Bat Country.",
+      "unlocks": "Charm PowerUp",
+      "notes": "(outdated image)",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-antidote",
+      "title": "EXTRA: Antidote",
+      "description": "Find the Antidote in Whiteout.",
+      "unlocks": "Defang PowerUp",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-trisection",
+      "title": "EXTRA: Trisection",
+      "description": "Find the Trisection in Astral Stair.",
+      "unlocks": "Random Events",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-brave-story",
+      "title": "EXTRA: Brave Story",
+      "description": "Find the Brave Story at minute 18 in Space 54.",
+      "unlocks": "Random LevelUp",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-game-speed-modifier",
+      "title": "EXTRA: Game Speed Modifier",
+      "description": "Find the Roast chicken with a clock in the middle at the end of The Coop.",
+      "unlocks": "Game Speed Modifier",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-masquerade",
+      "title": "EXTRA: Masquerade",
+      "description": "Find the Masquerade Relic in Westwoods.",
+      "unlocks": "Party Mode",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-preserve",
+      "title": "EXTRA: Preserve",
+      "description": "Find the Wax Fetish in Mazerella.",
+      "unlocks": "Preserve PowerUp",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-chaos-malachite",
+      "title": "EXTRA: Chaos Malachite",
+      "description": "Find the Chaos Malachite at minute 18:00 in Bat Country.",
+      "unlocks": "Anima of Mortaccio",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-chaos-rosalia",
+      "title": "EXTRA: Chaos Rosalia",
+      "description": "Find the Chaos Rosalia in Astral Stair.",
+      "unlocks": "Yatta Daikarin",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-chaos-lazulia",
+      "title": "EXTRA: Chaos Lazulia",
+      "description": "Find the Chaos Lazulia in Mazerella.",
+      "unlocks": "Carozza!",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-chaos-altemanna",
+      "title": "EXTRA: Chaos Altemanna",
+      "description": "Find the Chaos Altemanna in Tiny Bridge.",
+      "unlocks": "Profusione D'Amore",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-astral-stair-map",
+      "title": "EXTRA: Astral Stair Map",
+      "description": "Find the Astral Stair Map.",
+      "unlocks": "Astral Stair Map",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-coffin-mad-forest",
+      "title": "Coffin: Mad Forest",
+      "description": "Find and open the coffin in the Mad Forest.",
+      "unlocks": "Pugnala",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-coffin-inlaid-library",
+      "title": "Coffin: Inlaid Library",
+      "description": "Find and open the coffin in the Inlaid Library.",
+      "unlocks": "Giovanna",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-coffin-dairy-plant",
+      "title": "Coffin: Dairy Plant",
+      "description": "Find and open the coffin in the Dairy Plant.",
+      "unlocks": "Poppea",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-coffin-gallo-tower",
+      "title": "Coffin: Gallo Tower",
+      "description": "Find and open the coffin in the Gallo Tower.",
+      "unlocks": "Concetta",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-coffin-cappella-magna",
+      "title": "Coffin: Cappella Magna",
+      "description": "Find and open the coffin in the Cappella Magna.",
+      "unlocks": "Zi'Assunta",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-gaze-of-gaea",
+      "title": "EXTRA: Gaze of Gaea",
+      "description": "Defeat 0 enemies in The Coop.",
+      "unlocks": "Gaze of Gaea",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-mortaccio",
+      "title": "Mortaccio",
+      "description": "Defeat a total of 3000 Skeletons.",
+      "unlocks": "Mortaccio",
+      "notes": "Only Skeletons count towards the defeated enemy total.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-yatta-cavallo",
+      "title": "Yatta Cavallo",
+      "description": "Defeat a total of 3000 Lion Heads.",
+      "unlocks": "Yatta Cavallo",
+      "notes": "Only Lionheads, count towards defeated enemy total.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-bianca-ramba",
+      "title": "Bianca Ramba",
+      "description": "Defeat a total of 3000 Milk Elementals.",
+      "unlocks": "Bianca Ramba",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-o-sole-meeo",
+      "title": "O'Sole Meeo",
+      "description": "Defeat a total of 3000 Dragon Shrimps.",
+      "unlocks": "O'Sole",
+      "notes": "Only Dragon Shrimp, Flame Dragon Shrimp, Serpentine Dragon Shrimp, Serpentine Flame Dragon Shrimp count toward the defeated enemy total.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-sir-ambrojoe",
+      "title": "Sir Ambrojoe",
+      "description": "Defeat a total of 6000 Stage Killers.",
+      "unlocks": "Sir Ambrojoe",
+      "notes": "Only Stage Killer and Elite Stage Killer count toward the defeated enemy total.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-lightning-ring",
+      "title": "Lightning Ring",
+      "description": "Defeat a total of 5000 enemies.",
+      "unlocks": "Lightning Ring",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-krochi",
+      "title": "Krochi",
+      "description": "Defeat a total of 100000 enemies.",
+      "unlocks": "Krochi",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-pako-battiliar",
+      "title": "EXTRA: Pako Battiliar",
+      "description": "Defeat a total of 161616 bats.",
+      "unlocks": "Pako Battiliar",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-ammo-appalate",
+      "title": "EXTRA: Ammo Appalate",
+      "description": "Defeat a total of 251096 Shooting Enemies.",
+      "unlocks": "Ammo Appalate",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-victory-sword",
+      "title": "Victory Sword",
+      "description": "Defeat 100000 enemies in a single run with Queen Sigma.",
+      "unlocks": "Victory Sword",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-hyper-mad-forest",
+      "title": "Hyper Mad Forest",
+      "description": "Defeat the giant Blue Venus in the Mad Forest.",
+      "unlocks": "Hyper Mad Forest",
+      "notes": "Killing the Giant Blue Venus in a stage other than Mad Forest does not count.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-hyper-inlaid-library",
+      "title": "Hyper Inlaid Library",
+      "description": "Defeat the Hag in the Inlaid Library.",
+      "unlocks": "Hyper Inlaid Library",
+      "notes": "Killing the Hag in a stage other than Inlaid Library does not count.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-hyper-dairy-plant",
+      "title": "Hyper Dairy Plant",
+      "description": "Defeat the Sword Guardian in the Dairy Plant.",
+      "unlocks": "Hyper Dairy Plant",
+      "notes": "Killing the Sword Guardian in a stage other than Dairy Plant does not count.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-hyper-gallo-tower",
+      "title": "Hyper Gallo Tower",
+      "description": "Defeat the Giant Enemy Crab in the Gallo Tower.",
+      "unlocks": "Hyper Gallo Tower",
+      "notes": "Killing the Giant Enemy Crab in a stage other than Gallo Tower does not count.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-hyper-cappella-magna",
+      "title": "Hyper Cappella Magna",
+      "description": "Defeat the Trinacria in the Cappella Magna.",
+      "unlocks": "Hyper Cappella Magna",
+      "notes": "Killing the Trinacria in a stage other than Cappella Magna does not count.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-il-molise",
+      "title": "Il Molise",
+      "description": "Unlock Hyper mode any normal stages.",
+      "unlocks": "Hyper Il Molise",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-green-acres",
+      "title": "Green Acres",
+      "description": "Unlock Hyper mode for 2 normal stages.",
+      "unlocks": "Hyper Green Acres",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-the-bone-zone",
+      "title": "The Bone Zone",
+      "description": "Unlock Hyper mode for 3 normal stages.",
+      "unlocks": "Hyper The Bone Zone",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-moongolow",
+      "title": "Moongolow",
+      "description": "Unlock Hyper mode for 4 normal stages.",
+      "unlocks": "Hyper Moongolow",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-boss-rash",
+      "title": "Boss Rash",
+      "description": "Unlock Hyper mode for all 5 normal stages.",
+      "unlocks": "Hyper Boss Rash",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-game-killer",
+      "title": "Game Killer",
+      "description": "Defeat the final enemy in the Cappella Magna.",
+      "unlocks": "Game Killer",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-i-gemini",
+      "title": "I - Gemini",
+      "description": "Reach Level 50 with Pugnala.",
+      "unlocks": "I - Gemini",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-ii-twilight-requiem",
+      "title": "II - Twilight Requiem",
+      "description": "Reach Level 50 with Dommario.",
+      "unlocks": "II - Twilight Requiem",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-iii-tragic-princess",
+      "title": "III - Tragic Princess",
+      "description": "Reach Level 50 with Porta.",
+      "unlocks": "III - Tragic Princess",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-iv-awake",
+      "title": "IV - Awake",
+      "description": "Reach Level 50 with Krochi.",
+      "unlocks": "IV - Awake",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-v-chaos-in-the-dark-night",
+      "title": "V - Chaos in the Dark Night",
+      "description": "Reach Level 50 with Giovanna.",
+      "unlocks": "V - Chaos in the Dark Night",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-vi-sarabande-of-healing",
+      "title": "VI - Sarabande of Healing",
+      "description": "Find the Randomazzo.",
+      "unlocks": "VI - Sarabande of Healing",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-vii-iron-blue-will",
+      "title": "VII - Iron Blue Will",
+      "description": "Reach Level 50 with Gennaro.",
+      "unlocks": "VII - Iron Blue Will",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-viii-mad-groove",
+      "title": "VIII - Mad Groove",
+      "description": "Reach minute 31 in the Mad Forest.",
+      "unlocks": "VIII - Mad Groove",
+      "notes": "Can also be achieved by defeating The Reaper.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-ix-divine-bloodline",
+      "title": "IX - Divine Bloodline",
+      "description": "Reach Level 50 with Suor Clerici.",
+      "unlocks": "IX - Divine Bloodline",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-x-beginning",
+      "title": "X - Beginning",
+      "description": "Reach Level 50 with Antonio.",
+      "unlocks": "X - Beginning",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-xi-waltz-of-pearls",
+      "title": "XI - Waltz of Pearls",
+      "description": "Reach Level 50 with Imelda.",
+      "unlocks": "XI - Waltz of Pearls",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-xii-out-of-bounds",
+      "title": "XII - Out of Bounds",
+      "description": "Reach minute 31 in the Gallo Tower.",
+      "unlocks": "XII - Out of Bounds",
+      "notes": "Can also be achieved by defeating The Reaper.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-xiii-wicked-season",
+      "title": "XIII - Wicked Season",
+      "description": "Reach Level 50 with Christine.",
+      "unlocks": "XIII - Wicked Season",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-xiv-jail-of-crystal",
+      "title": "XIV - Jail of Crystal",
+      "description": "Reach Level 50 with Pasqualina.",
+      "unlocks": "XIV - Jail of Crystal",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-xv-disco-of-gold",
+      "title": "XV - Disco of Gold",
+      "description": "Reach minute 31 in the Inlaid Library.",
+      "unlocks": "XV - Disco of Gold",
+      "notes": "Can also be achieved by defeating The Reaper.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-xvi-slash",
+      "title": "XVI - Slash",
+      "description": "Reach Level 50 with Lama.",
+      "unlocks": "XVI - Slash",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-xvii-lost-found-painting",
+      "title": "XVII - Lost & Found Painting",
+      "description": "Reach Level 50 with Poppea.",
+      "unlocks": "XVII - Lost & Found Painting",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-xviii-boogaloo-of-illusions",
+      "title": "XVIII - Boogaloo of Illusions",
+      "description": "Reach Level 50 with Concetta.",
+      "unlocks": "XVIII - Boogaloo of Illusions",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-xix-heart-of-fire",
+      "title": "XIX - Heart of Fire",
+      "description": "Reach Level 50 with Arca.",
+      "unlocks": "XIX - Heart of Fire",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-xx-silent-old-sanctuary",
+      "title": "XX - Silent Old Sanctuary",
+      "description": "Reach minute 31 in the Dairy Plant.",
+      "unlocks": "XX - Silent Old Sanctuary",
+      "notes": "Can also be achieved by defeating The Reaper.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-xxi-blood-astronomia",
+      "title": "XXI - Blood Astronomia",
+      "description": "Reach Level 50 with Poe.",
+      "unlocks": "XXI - Blood Astronomia",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-reroll-1",
+      "title": "Reroll 1",
+      "description": "Reach Level 80 with Mortaccio.",
+      "unlocks": "Reroll",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-reroll-2",
+      "title": "Reroll 2",
+      "description": "Reach Level 80 with Yatta Cavallo.",
+      "unlocks": "Reroll",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-reroll-3",
+      "title": "Reroll 3",
+      "description": "Reach Level 80 with Bianca Ramba.",
+      "unlocks": "Reroll",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-reroll-4",
+      "title": "Reroll 4",
+      "description": "Reach Level 80 with O'Sole Meeo.",
+      "unlocks": "Reroll",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-reroll-5",
+      "title": "Reroll 5",
+      "description": "Reach Level 80 with Sir Ambrojoe.",
+      "unlocks": "Reroll",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-skip-1",
+      "title": "Skip 1",
+      "description": "Survive 15 minutes in Molise.",
+      "unlocks": "Skip",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-skip-4",
+      "title": "Skip 4",
+      "description": "Survive 15 minutes in Moongolow.",
+      "unlocks": "Skip",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-skip-2",
+      "title": "Skip 2",
+      "description": "Survive 30 minutes in Green Acres.",
+      "unlocks": "Skip",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-skip-3",
+      "title": "Skip 3",
+      "description": "Survive 30 minutes in The Bone Zone.",
+      "unlocks": "Skip",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-skip-5",
+      "title": "Skip 5",
+      "description": "Survive 15 minutes in Boss Rash.",
+      "unlocks": "Skip",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-mindbender",
+      "title": "Mindbender",
+      "description": "Fill 50 entries in the Collection.",
+      "unlocks": "Character customization",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-banish-1",
+      "title": "Banish 1",
+      "description": "Fill 60 entries in the Collection.",
+      "unlocks": "Banish",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-banish-2",
+      "title": "Banish 2",
+      "description": "Fill 70 entries in the Collection.",
+      "unlocks": "Banish",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-banish-3",
+      "title": "Banish 3",
+      "description": "Fill 80 entries in the Collection.",
+      "unlocks": "Banish",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-banish-4",
+      "title": "Banish 4",
+      "description": "Fill 90 entries in the Collection.",
+      "unlocks": "Banish",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-banish-5",
+      "title": "Banish 5",
+      "description": "Fill 100 entries in the Collection.",
+      "unlocks": "Banish",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-seal-i",
+      "title": "EXTRA: Seal I",
+      "description": "Banish 10 or more weapons in a single run.",
+      "unlocks": "Seal I",
+      "notes": "You can satisfy this by banishing passive items as well.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-seal-ii",
+      "title": "EXTRA: Seal II",
+      "description": "Banish 20 or more weapons in a single run.",
+      "unlocks": "Seal II",
+      "notes": "You can satisfy this by banishing passive items as well.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-seal-iii",
+      "title": "EXTRA: Seal III",
+      "description": "Banish 40 or more weapons in a single run.",
+      "unlocks": "Seal III",
+      "notes": "You can satisfy this by banishing passive items as well.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-seal-all",
+      "title": "EXTRA: Seal All",
+      "description": "Banish 80 or more weapons in a single run.",
+      "unlocks": "Seal All",
+      "notes": "You can satisfy this by banishing passive items as well.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-queen-sigma",
+      "title": "Queen Sigma",
+      "description": "Complete the Collection 1.0.",
+      "unlocks": "Queen Sigma",
+      "notes": "Does not include the Victory Sword or Sole Solution.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-greatest-jubilee",
+      "title": "Greatest Jubilee",
+      "description": "See the final fireworks.",
+      "unlocks": "Greatest Jubilee",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-seeker-of-the-infinite-corridor",
+      "title": "Seeker of the Infinite Corridor",
+      "description": "Obtain the Infinite Corridor.",
+      "unlocks": "Iguana Gallo",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-seeker-of-the-crimson-shroud",
+      "title": "Seeker of the Crimson Shroud",
+      "description": "Obtain the Crimson Shroud.",
+      "unlocks": "Divano",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-bat-robbert",
+      "title": "EXTRA: Bat Robbert",
+      "description": "Evolve the Pako Battiliar.",
+      "unlocks": "Robbert",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-zi-appunta-belpaese",
+      "title": "EXTRA: Zi'Appunta Belpaese",
+      "description": "Evolve the Ammo Appalate.",
+      "unlocks": "Zi'Appunta",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-bloody-tear",
+      "title": "Bloody Tear",
+      "description": "Evolve the Whip.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-holy-wand",
+      "title": "Holy Wand",
+      "description": "Evolve the Magic Wand.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-thousand-edge",
+      "title": "Thousand Edge",
+      "description": "Evolve the Knife.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-death-spiral",
+      "title": "Death Spiral",
+      "description": "Evolve the Axe.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-la-borra",
+      "title": "La Borra",
+      "description": "Evolve the Santa Water.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-thunder-loop",
+      "title": "Thunder Loop",
+      "description": "Evolve the Lightning Ring.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-unholy-vespers",
+      "title": "Unholy Vespers",
+      "description": "Evolve the King Bible.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-heaven-sword",
+      "title": "Heaven Sword",
+      "description": "Evolve the Cross.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-hellfire",
+      "title": "Hellfire",
+      "description": "Evolve the Fire Wand.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-soul-eater",
+      "title": "Soul Eater",
+      "description": "Evolve the Garlic.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-no-future",
+      "title": "NO FUTURE",
+      "description": "Evolve the Runetracer.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-gorgeous-moon",
+      "title": "Gorgeous Moon",
+      "description": "Evolve the Pentagram.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-vandalier",
+      "title": "Vandalier",
+      "description": "Unite Ebony Wings and Peachone.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-phieraggi",
+      "title": "Phieraggi",
+      "description": "Evolve and unite the Phiera Der Tuphello and Eight The Sparrow.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-vicious-hunger",
+      "title": "Vicious Hunger",
+      "description": "Evolve the Gatti Amari.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-mannajja",
+      "title": "Mannajja",
+      "description": "Evolve the Song of Mana.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-valkyrie-turner",
+      "title": "Valkyrie Turner",
+      "description": "Evolve the Shadow Pinion.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-fuwalafuwaloo",
+      "title": "Fuwalafuwaloo",
+      "description": "Unite Vento Sacro and Bloody Tear.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-tri-bracelet",
+      "title": "Tri-Bracelet",
+      "description": "Evolve the Bracelet and then the Bi-Bracelet.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-celestial-voulge",
+      "title": "EXTRA: Celestial Voulge",
+      "description": "Evolve the Glass Fandango.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-seraphic-cry",
+      "title": "EXTRA: Seraphic Cry",
+      "description": "Evolve the Santa Javelin.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-embrace-of-gaea",
+      "title": "EXTRA: Embrace of Gaea",
+      "description": "Evolve the Gaze of Gaea.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-kyra-stones",
+      "title": "EXTRA: Kyra-Stones",
+      "description": "Evolve the Magi-Stone.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-photonstorm",
+      "title": "EXTRA: Photonstorm",
+      "description": "Evolve the Phas3r.",
+      "unlocks": "500 gold coins",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-candybox",
+      "title": "Candybox",
+      "description": "Discover every standard evolution and union.",
+      "unlocks": "Candybox",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-room-1665",
+      "title": "EXTRA: Room 1665",
+      "description": "Dare to cast the spell \"forbiddenbox\".",
+      "unlocks": "Room 1665",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-darkasso",
+      "title": "EXTRA: Darkasso",
+      "description": "Be embraced by the Darkasso.",
+      "unlocks": "Darkanas",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-i-sapphire-mist",
+      "title": "EXTRA: I - Sapphire Mist",
+      "description": "Reach a Cooldown bonus of -85% with Space Dude.",
+      "unlocks": "I - Sapphire Mist",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-iii-hidden-anathema",
+      "title": "EXTRA: III - Hidden Anathema",
+      "description": "Eat as much as possible with Gazebo.",
+      "unlocks": "III - Hidden Anathema",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-v-pale-diamond-incursion",
+      "title": "EXTRA: V - Pale Diamond Incursion",
+      "description": "Find 10 Golden Treasure Chests in a single run with Zi'Appunta.",
+      "unlocks": "V - Pale Diamond Incursion",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-vi-moonlight-bolero",
+      "title": "EXTRA: VI - Moonlight Bolero",
+      "description": "Be embraced by the Darkasso.",
+      "unlocks": "VI - Moonlight Bolero",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-x-hail-from-the-future",
+      "title": "EXTRA: X - Hail from the Future",
+      "description": "Trigger a Weird Souls Purifier with Santa Ladonna.",
+      "unlocks": "X - Hail from the Future",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-xii-crystal-cries",
+      "title": "EXTRA: XII - Crystal Cries",
+      "description": "Trigger a Starry Heavens with She-Moon Eeta.",
+      "unlocks": "XII - Crystal Cries",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-xiii-call-of-a-mad-moon",
+      "title": "EXTRA: XIII - Call of a Mad Moon",
+      "description": "Reach +999% Luck with Chula-Reh.",
+      "unlocks": "XIII - Call of a Mad Moon",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-xviii-victorian-horror",
+      "title": "EXTRA: XVIII - Victorian Horror",
+      "description": "Survive 30 minutes with no weapons in Inverse Green Acres.",
+      "unlocks": "XVIII - Victorian Horror",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-xxi-wandering-the-jet-black",
+      "title": "EXTRA: XXI - Wandering the Jet Black",
+      "description": "Reach 665 Max Health with Bat Robbert.",
+      "unlocks": "XXI - Wandering the Jet Black",
+      "notes": "",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-world-of-light-and-dark",
+      "title": "EXTRA: World of Light and Dark",
+      "description": "Complete once the adventure World of Light and Dark.",
+      "unlocks": "New starting weapon for Imelda Belpaese",
+      "notes": "Unlocks the skin Unblinded Imelda Belpaese that allows Imelda to have a new starting weapon: Level 5 Empty Tomes.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-a-garlic-paradise",
+      "title": "EXTRA: A Garlic Paradise",
+      "description": "Complete once the adventure A Garlic Paradise.",
+      "unlocks": "New starting weapon for Poe Ratcho",
+      "notes": "Unlocks the skin Retired Poe Ratcho that allows Poe to have a new starting weapon: Level 5 Pummarolas.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    },
+    {
+      "id": "base-extra-to-end-an-ice-age",
+      "title": "EXTRA: To End An Ice Age",
+      "description": "Complete once the adventure To End An Ice Age.",
+      "unlocks": "New starting weapon for She-Moon Eeta",
+      "notes": "Unlocks the skin Reborn She-Moon Eeta that allows She-Moon to have new starting weapons: Level 5 Wings and a hidden Valkyrie Turner.",
+      "sourceGroup": "base",
+      "unlockCategory": "standard"
+    }
+  ],
   "secrets": [
+    {
+      "id": "base-secret-kissme",
+      "codeName": "KissMe",
+      "description": "Follow the trail after pillaging Pummarola and Skull O'Maniac from the Mad Forest.",
+      "unlocks": "Boon Marrabbio",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "base-secret-mafaipianooo",
+      "codeName": "MaFaiPianooo",
+      "description": "It is tangible only in the inverted Inlaid Library. Good friends might then show the way.",
+      "unlocks": "Avatar Infernas",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "base-secret-cheeseaccident",
+      "codeName": "CheeseAccident",
+      "description": "Deal with the consequence of stealing cheese from the Dairy Plant.",
+      "unlocks": "Minnah Mannarah",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "base-secret-bringmebackthere",
+      "codeName": "BringMeBackThere",
+      "description": "Investigate the bottom of Gallo Tower.",
+      "unlocks": "Leda",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "base-secret-pureheart",
+      "codeName": "PureHeart",
+      "description": "With a pure heart and two good friends, visit the fiery balcony in Cappella Magna.",
+      "unlocks": "Cosmo Pavone",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "base-secret-beagoodboy",
+      "codeName": "BeAGoodBoy",
+      "description": "Be a good boy in Il Molise.",
+      "unlocks": "Peppino",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "base-secret-master16",
+      "codeName": "Master16",
+      "description": "Run away from Moongolow with all 16 accessories mastered.",
+      "unlocks": "Big Trouser",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "base-secret-edgeoftheworld",
+      "codeName": "EdgeOfTheWorld",
+      "description": "With the most adverse fate in Green Acres, run off the edge of the world.",
+      "unlocks": "missingN▯",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "base-secret-slumsflowers",
+      "codeName": "SlumsFlowers",
+      "description": "Find the only one place where flowers bloom in The Bone Zone.",
+      "unlocks": "Gains Boros",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "base-secret-bossrashboss",
+      "codeName": "BossRashBoss",
+      "description": "Survive the Boss Rash with just one weapon.",
+      "unlocks": "Gyorunton",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "base-secret-killthareapa",
+      "codeName": "KillThaReapa",
+      "description": "Settle the score with the Reaper.",
+      "unlocks": "Mask of the Red Death",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "base-secret-castthiefspell",
+      "codeName": "CastThiefSpell",
+      "description": "1) Cast the spell x-x1viiq.",
+      "unlocks": "Exdash Exiviiq",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "base-secret-uppercutreaper",
+      "codeName": "UppercutReaper",
+      "description": "2) Uppercut a non-red reaper.",
+      "unlocks": "Toastie",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "base-secret-spamspamspam",
+      "codeName": "SpamSpamSpam",
+      "description": "3) Sometimes you just need to ask for help.",
+      "unlocks": "Smith IV",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "base-secret-underthecoffin",
+      "codeName": "UnderTheCoffin",
+      "description": "Look under previously owned coffins.",
+      "unlocks": "Random",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "base-secret-getringofrings",
+      "codeName": "GetRingOfRings",
+      "description": "It's as simple as ABC: obtain the ring of rings.",
+      "unlocks": "Bats Bats Bats",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "base-secret-princessshadow",
+      "codeName": "PrincessShadow",
+      "description": "Her royal shadow lies behind the 46th door.",
+      "unlocks": "Rose De Infernas",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "base-secret-wanderingcolossus",
+      "codeName": "WanderingColossus",
+      "description": "Witness the 17th Colossus wander to new horizons.",
+      "unlocks": "Torino",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "base-secret-hearthethunder",
+      "codeName": "HearTheThunder",
+      "description": "Discover the source of the roaring thunder on the Tiny Bridge.",
+      "unlocks": "Scorej-Oni",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "base-secret-wincarlocart",
+      "codeName": "WinCarloCart",
+      "description": "Forsake victory in favor of sightseeing in Carlo Cart.",
+      "unlocks": "Gyoruntin",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "base-secret-westwoodspreorder",
+      "codeName": "WestwoodsPreorder",
+      "description": "Spend your afterparty with the foolish high roller.",
+      "unlocks": "Secretino Dagsson",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "base-secret-breakspacebounds",
+      "codeName": "BreakSpaceBounds",
+      "description": "Quickly break the bounds of Space and find Love.",
+      "unlocks": "Space Dette",
+      "sourceGroup": "base",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-greatuseoftime",
+      "codeName": "GreatUseOfTime",
+      "description": "Be the Clock Tower.",
+      "unlocks": "",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-draculasdungeon",
+      "codeName": "DraculasDungeon",
+      "description": "Acquire all the... books?",
+      "unlocks": "",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-yourfaultforbeingsomean",
+      "codeName": "YourFaultForBeingSoMean",
+      "description": "Reconnect the youngest hunter with her original guardian, his friends, and their doubles.",
+      "unlocks": "Young Maria Renard",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-friendlevania",
+      "codeName": "Friendlevania",
+      "description": "Entrust their care to the gentlest soul, twice.",
+      "unlocks": "Familiar",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-forgemasterfriends",
+      "codeName": "ForgemasterFriends",
+      "description": "Entrust their care to the gentlest soul, twice.",
+      "unlocks": "Innocent Devil",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-azurecroissant",
+      "codeName": "AzureCroissant",
+      "description": "Slay the Castle's denizens under the Blue Crescent Moon to make him a beast.",
+      "unlocks": "Blue Crescent Moon Cornell",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-hehhehheh",
+      "codeName": "hehhehheh",
+      "description": "You don't need his services if you can walk on water.",
+      "unlocks": "Ferryman",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-rockingchair",
+      "codeName": "RockingChair",
+      "description": "Pay a coin for every book he keeps.",
+      "unlocks": "Master Librarian",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-whatwouldyouspenditon",
+      "codeName": "WhatWouldYouSpendItOn",
+      "description": "Survive while wearing a fully armed coat.",
+      "unlocks": "Hammer",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-nospoilers",
+      "codeName": "NoSpoilers",
+      "description": "Witness the Burning Alcarde three times.",
+      "unlocks": "Wind",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-twinnado",
+      "codeName": "Twinnado",
+      "description": "Shelter their twin souls with holy magic to restore their humanity.",
+      "unlocks": "",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-everyonesacritic",
+      "codeName": "EveryonesACritic",
+      "description": "Drain the crimson \"paint\" from his most lively works.",
+      "unlocks": "Brauner",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-prodigalson",
+      "codeName": "ProdigalSon",
+      "description": "Save the son with holy magic before the transformation is complete.",
+      "unlocks": "Soleil Belmont",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-aguniinagony",
+      "codeName": "AguniInAgony",
+      "description": "Burn bright until the end while rejecting all but the inferno.",
+      "unlocks": "Dario Bossi",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-menacinghaircut",
+      "codeName": "MenacingHaircut",
+      "description": "Undo the fused demon with she whom seeks perfect balance.",
+      "unlocks": "Dmitrii Blinov",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-withlight",
+      "codeName": "WithLight",
+      "description": "Perfectly balance the darkest and brightest of Glyphs.",
+      "unlocks": "Celia Fortner",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-umbraleclipse",
+      "codeName": "UmbralEclipse",
+      "description": "Bring bad luck to the count's belligerent bosses.",
+      "unlocks": "Graham Jones",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-cantholdthemall",
+      "codeName": "CantHoldThemAll",
+      "description": "Rewrite the fate of the damsel in distress.",
+      "unlocks": "Joachim Armster",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-itsallhisfault",
+      "codeName": "ItsAllHisFault",
+      "description": "Let the alchemist personally avenge his family.",
+      "unlocks": "Walter Bernhard",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-weepingmask",
+      "codeName": "WeepingMask",
+      "description": "May the power of the first Belmont break her mask.",
+      "unlocks": "Carmilla",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-dontdisturbdinner",
+      "codeName": "DontDisturbDinner",
+      "description": "Let the souls of the damned get their revenge on the other Count.",
+      "unlocks": "Count Olrox",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-chupacabra",
+      "codeName": "Chupacabra",
+      "description": "Just go low and defeat 3,000,000 of those jokers.",
+      "unlocks": "Cave Troll",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-finalboss",
+      "codeName": "FinalBoss",
+      "description": "Try 3000. Or 6000. Or more. hopefully their tiny ears will listen at some point.",
+      "unlocks": "Fleaman",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-missaxalotl",
+      "codeName": "MissAxalotl",
+      "description": "Prove to them that there is something that spins better than axes.",
+      "unlocks": "Axe Armor",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-coldshoulder",
+      "codeName": "ColdShoulder",
+      "description": "Turn her from a blue shadow into a real crystal.",
+      "unlocks": "Frozenshade",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-thatsnotlisa",
+      "codeName": "ThatsNotLisa",
+      "description": "Give the deciever a taste of her own medicine.",
+      "unlocks": "Succubus",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-cauldronking",
+      "codeName": "CauldronKing",
+      "description": "It takes exactly two to empty the cauldron.",
+      "unlocks": "Keremet",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-gothangel",
+      "codeName": "GothAngel",
+      "description": "Snipe the sniper down with a stellar hit.",
+      "unlocks": "Alamaric Sniper",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-bizarreshadeadventure",
+      "codeName": "BizarreShadeAdventure",
+      "description": "Let no Shadow fall on the founder of Ecclesia.",
+      "unlocks": "Blackmore",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-karasuman",
+      "codeName": "Karasuman",
+      "description": "Destroy his black wings with the Morris tale is yet untold.",
+      "unlocks": "Malphas",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-sewardzead",
+      "codeName": "SewardZead",
+      "description": "Make it feel at home.",
+      "unlocks": "Death",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-sizematters",
+      "codeName": "SizeMatters",
+      "description": "A secret so big it won't pass through the Castle's doors.",
+      "unlocks": "Galamoth",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-petrifyinglyevil",
+      "codeName": "PetrifyinglyEvil",
+      "description": "Ravage everything and everyone in Dracula's Castle while in her demonic form.",
+      "unlocks": "Megalo Elizabeth Bartley",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-theothercount",
+      "codeName": "TheOtherCount",
+      "description": "Find the greatest treasure of the vampires and prove that the other Count can wreck havoc in the Castle.",
+      "unlocks": "Megalo Olrox",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-embracethereaper",
+      "codeName": "EmbraceTheReaper",
+      "description": "Unleash maximised Death on the Castle while holding the soul-stealing stones.",
+      "unlocks": "Megalo Death",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-mathiascronqvist",
+      "codeName": "MathiasCronqvist",
+      "description": "Hold the stones that birthed your lineage and prove you hold dominance over all your monstrous minions.",
+      "unlocks": "Megalo Dracula",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-iiiiiiivvviviiviiiixxxixiixiiixivxvxvixviixviiixixxxxxi",
+      "codeName": "IIIIIIIVVVIVIIVIIIIXXXIXIIXIIIXIVXVXVIXVIIXVIIIXIXXXXXI",
+      "description": "Exhaust the rest of this miserable pile of secrets.",
+      "unlocks": "Chaos",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-bloodisthicker",
+      "codeName": "bloodisthicker",
+      "description": "Combine Heaven and Cross with the Grave Inheritor of Vampire Killer.",
+      "unlocks": "",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-enviousblade",
+      "codeName": "enviousblade",
+      "description": "Cut butter with six swords forged to slay vampires.",
+      "unlocks": "",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-vaccuumproserpina",
+      "codeName": "vaccuumproserpina",
+      "description": "Send Simon on a windy quest beneath a gorgeous moon.",
+      "unlocks": "",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-nomancandefy",
+      "codeName": "nomancandefy",
+      "description": "Practice non-violence amongst the flowers with the charmed young Morris.",
+      "unlocks": "",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-skelenun",
+      "codeName": "skelenun",
+      "description": "Slay 10,000 Red foes that deny Death.",
+      "unlocks": "",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-aljibarian",
+      "codeName": "aljibarian",
+      "description": "Build one tower inside another.",
+      "unlocks": "Annette",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-odakira",
+      "codeName": "odakira",
+      "description": "Let Hakuba rebuke the lying Reaper to reveal her allies' truth.",
+      "unlocks": "",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-hophophophophophophophophophophophophop",
+      "codeName": "hophophophophophophophophophophophophop",
+      "description": "Eat the souls of 10,000 Forest frogs.",
+      "unlocks": "",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-rulersword",
+      "codeName": "rulersword",
+      "description": "Spell the ruler's word.",
+      "unlocks": "",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-inadvertentresurrector",
+      "codeName": "inadvertentresurrector",
+      "description": "Witness the 7th rebirth of Dracula's niece on holy ground.",
+      "unlocks": "",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-dampmage",
+      "codeName": "dampmage",
+      "description": "Combine holy liquids in a sunken city.",
+      "unlocks": "",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-gemstonelegacy",
+      "codeName": "gemstonelegacy",
+      "description": "Slay an elder crone with a riotous young witch where a stone mask sleeps.",
+      "unlocks": "",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-abouttimeyoushowedup",
+      "codeName": "abouttimeyoushowedup",
+      "description": "Defeat the Chronomancer with Dracula's Reincarnation after the clock strikes 30.",
+      "unlocks": "",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-ismycontrollerbroken",
+      "codeName": "ismycontrollerbroken",
+      "description": "Slay an inverted skeletal sphere with the Vessel of Dominus.",
+      "unlocks": "",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-theysmelldifferent",
+      "codeName": "theysmelldifferent",
+      "description": "Find the final form of the Librarian's offerings.",
+      "unlocks": "",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
+    {
+      "id": "ode_to_castlevania-secret-platonicpartners",
+      "codeName": "platonicpartners",
+      "description": "Defeat Death's demonic knight duo with Dracula's smallest henchman.",
+      "unlocks": "",
+      "sourceGroup": "ode_to_castlevania",
+      "unlockCategory": "secret"
+    },
     {
       "id": "emerald_diorama-secret-maidofmagic",
       "codeName": "MaidOfMagic",

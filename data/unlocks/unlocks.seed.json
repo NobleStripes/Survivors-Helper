@@ -7,122 +7,1418 @@
   },
   "unlocks": [
     {
-      "id": "emerald_diorama-secret-maidofmagic",
-      "name": "MaidOfMagic",
-      "description": "Gather the largest cadre of cats, including those that want to fight.",
-      "unlockCategory": "secret",
-      "sourceGroup": "emerald_diorama",
-      "rewardType": "character",
+      "id": "base-wings",
+      "name": "Wings",
+      "description": "Reach Level 5.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
       "rewardTargets": [
-        "Lolo, Hiss, Meow, and Purr"
+        "Wings"
       ],
       "rewardValues": [
         {
-          "rewardType": "character",
+          "rewardType": "feature",
           "utilityTags": [
-            "power",
             "progression"
           ],
-          "baseUtility": 78
+          "baseUtility": 70
         }
       ],
       "prerequisites": [
         {
-          "id": "pre-emerald_diorama-secret-maidofmagic-secret",
-          "type": "secret_hint",
-          "subject": "MaidOfMagic",
-          "operator": "eq",
-          "value": "active",
-          "scope": "lifetime",
-          "sourceUnlockId": "emerald_diorama-secret-maidofmagic"
+          "id": "pre-base-wings-level",
+          "type": "level",
+          "subject": "any_character",
+          "operator": "gte",
+          "value": 5,
+          "scope": "run",
+          "sourceUnlockId": "base-wings"
         }
       ],
-      "isSpoiler": true,
+      "isSpoiler": false,
       "notes": [],
-      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
       "sortOrder": 1
     },
     {
-      "id": "emerald_diorama-secret-bugandafeature",
-      "name": "BugAndAFeature",
-      "description": "Defy the call to adventure in Emerald Diorama.",
-      "unlockCategory": "secret",
-      "sourceGroup": "emerald_diorama",
-      "rewardType": "character",
+      "id": "base-crown",
+      "name": "Crown",
+      "description": "Reach Level 10.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
       "rewardTargets": [
-        "Kina"
+        "Crown"
       ],
       "rewardValues": [
         {
-          "rewardType": "character",
+          "rewardType": "feature",
           "utilityTags": [
-            "power",
             "progression"
           ],
-          "baseUtility": 78
+          "baseUtility": 70
         }
       ],
       "prerequisites": [
         {
-          "id": "pre-emerald_diorama-secret-bugandafeature-secret",
-          "type": "secret_hint",
-          "subject": "BugAndAFeature",
-          "operator": "eq",
-          "value": "active",
-          "scope": "lifetime",
-          "sourceUnlockId": "emerald_diorama-secret-bugandafeature"
+          "id": "pre-base-crown-level",
+          "type": "level",
+          "subject": "any_character",
+          "operator": "gte",
+          "value": 10,
+          "scope": "run",
+          "sourceUnlockId": "base-crown"
         }
       ],
-      "isSpoiler": true,
+      "isSpoiler": false,
       "notes": [],
-      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
       "sortOrder": 2
     },
     {
-      "id": "emerald_diorama-secret-awoooooooooo",
-      "name": "Awoooooooooo",
-      "description": "End anguish with an otherworldly melody as the greatest mechanical songstress.",
-      "unlockCategory": "secret",
-      "sourceGroup": "emerald_diorama",
-      "rewardType": "character",
+      "id": "base-inlaid-library",
+      "name": "Inlaid Library",
+      "description": "Reach Level 20 in Mad Forest.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "stage",
       "rewardTargets": [
-        "Imakoo"
+        "Inlaid Library"
       ],
       "rewardValues": [
         {
-          "rewardType": "character",
+          "rewardType": "stage",
           "utilityTags": [
-            "power",
             "progression"
           ],
-          "baseUtility": 78
+          "baseUtility": 70
         }
       ],
       "prerequisites": [
         {
-          "id": "pre-emerald_diorama-secret-awoooooooooo-secret",
-          "type": "secret_hint",
-          "subject": "Awoooooooooo",
-          "operator": "eq",
-          "value": "active",
-          "scope": "lifetime",
-          "sourceUnlockId": "emerald_diorama-secret-awoooooooooo"
+          "id": "pre-base-inlaid-library-level",
+          "type": "level",
+          "subject": "any_character",
+          "operator": "gte",
+          "value": 20,
+          "scope": "run",
+          "sourceUnlockId": "base-inlaid-library"
         }
       ],
-      "isSpoiler": true,
+      "isSpoiler": false,
       "notes": [],
-      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
       "sortOrder": 3
     },
     {
-      "id": "emerald_diorama-secret-icetomeetyou",
-      "name": "IceToMeetYou",
-      "description": "Let the last ruler re-freeze his most monstrous form.",
+      "id": "base-dairy-plant",
+      "name": "Dairy Plant",
+      "description": "Reach Level 40 in Inlaid Library.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "stage",
+      "rewardTargets": [
+        "Dairy Plant"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "stage",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-dairy-plant-level",
+          "type": "level",
+          "subject": "any_character",
+          "operator": "gte",
+          "value": 40,
+          "scope": "run",
+          "sourceUnlockId": "base-dairy-plant"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 4
+    },
+    {
+      "id": "base-gallo-tower",
+      "name": "Gallo Tower",
+      "description": "Reach Level 60 in Dairy Plant.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "stage",
+      "rewardTargets": [
+        "Gallo Tower"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "stage",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-gallo-tower-level",
+          "type": "level",
+          "subject": "any_character",
+          "operator": "gte",
+          "value": 60,
+          "scope": "run",
+          "sourceUnlockId": "base-gallo-tower"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 5
+    },
+    {
+      "id": "base-cappella-magna",
+      "name": "Cappella Magna",
+      "description": "Reach Level 80 in Gallo Tower.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Cappella Magna"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-cappella-magna-level",
+          "type": "level",
+          "subject": "any_character",
+          "operator": "gte",
+          "value": 80,
+          "scope": "run",
+          "sourceUnlockId": "base-cappella-magna"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 6
+    },
+    {
+      "id": "base-extra-bat-country",
+      "name": "EXTRA: Bat Country",
+      "description": "Reach Level 80 in Inverse Mad Forest.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Hyper Bat Country"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-extra-bat-country-level",
+          "type": "level",
+          "subject": "any_character",
+          "operator": "gte",
+          "value": 80,
+          "scope": "run",
+          "sourceUnlockId": "base-extra-bat-country"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 7
+    },
+    {
+      "id": "base-extra-astral-stair",
+      "name": "EXTRA: Astral Stair",
+      "description": "Reach Level 80 in Inverse Inlaid Library.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Hyper Astral Stair"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-extra-astral-stair-level",
+          "type": "level",
+          "subject": "any_character",
+          "operator": "gte",
+          "value": 80,
+          "scope": "run",
+          "sourceUnlockId": "base-extra-astral-stair"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 8
+    },
+    {
+      "id": "base-extra-mazerella",
+      "name": "EXTRA: Mazerella",
+      "description": "Reach Level 80 in Inverse Dairy Plant.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Hyper Mazerella"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-extra-mazerella-level",
+          "type": "level",
+          "subject": "any_character",
+          "operator": "gte",
+          "value": 80,
+          "scope": "run",
+          "sourceUnlockId": "base-extra-mazerella"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 9
+    },
+    {
+      "id": "base-extra-tiny-bridge",
+      "name": "EXTRA: Tiny Bridge",
+      "description": "Reach Level 80 in Inverse Gallo Tower.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Hyper Tiny Bridge"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-extra-tiny-bridge-level",
+          "type": "level",
+          "subject": "any_character",
+          "operator": "gte",
+          "value": 80,
+          "scope": "run",
+          "sourceUnlockId": "base-extra-tiny-bridge"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 10
+    },
+    {
+      "id": "base-hollow-heart",
+      "name": "Hollow Heart",
+      "description": "Survive 1 minute with any character.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Hollow Heart"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-hollow-heart-survive",
+          "type": "time_survived",
+          "subject": "any_stage",
+          "operator": "gte",
+          "value": 1,
+          "scope": "run",
+          "sourceUnlockId": "base-hollow-heart"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 11
+    },
+    {
+      "id": "base-runetracer",
+      "name": "Runetracer",
+      "description": "Survive 5 minutes with Pasqualina.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Runetracer"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-runetracer-survive",
+          "type": "time_survived",
+          "subject": "any_stage",
+          "operator": "gte",
+          "value": 5,
+          "scope": "run",
+          "sourceUnlockId": "base-runetracer"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 12
+    },
+    {
+      "id": "base-pummarola",
+      "name": "Pummarola",
+      "description": "Survive 5 minutes with Gennaro.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Pummarola"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-pummarola-survive",
+          "type": "time_survived",
+          "subject": "any_stage",
+          "operator": "gte",
+          "value": 5,
+          "scope": "run",
+          "sourceUnlockId": "base-pummarola"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 13
+    },
+    {
+      "id": "base-peachone",
+      "name": "Peachone",
+      "description": "Survive 10 minutes with any character.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Peachone"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-peachone-survive",
+          "type": "time_survived",
+          "subject": "any_stage",
+          "operator": "gte",
+          "value": 10,
+          "scope": "run",
+          "sourceUnlockId": "base-peachone"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 14
+    },
+    {
+      "id": "base-phiera-der-tuphello",
+      "name": "Phiera Der Tuphello",
+      "description": "Survive 10 minutes with Pugnala.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Phiera Der Tuphello"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-phiera-der-tuphello-survive",
+          "type": "time_survived",
+          "subject": "any_stage",
+          "operator": "gte",
+          "value": 10,
+          "scope": "run",
+          "sourceUnlockId": "base-phiera-der-tuphello"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 15
+    },
+    {
+      "id": "base-eight-the-sparrow",
+      "name": "Eight The Sparrow",
+      "description": "Survive 15 minutes with Pugnala.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Eight The Sparrow"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-eight-the-sparrow-survive",
+          "type": "time_survived",
+          "subject": "any_stage",
+          "operator": "gte",
+          "value": 15,
+          "scope": "run",
+          "sourceUnlockId": "base-eight-the-sparrow"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 16
+    },
+    {
+      "id": "base-gatti-amari",
+      "name": "Gatti Amari",
+      "description": "Survive 15 minutes with Giovanna.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Gatti Amari"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-gatti-amari-survive",
+          "type": "time_survived",
+          "subject": "any_stage",
+          "operator": "gte",
+          "value": 15,
+          "scope": "run",
+          "sourceUnlockId": "base-gatti-amari"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 17
+    },
+    {
+      "id": "base-song-of-mana",
+      "name": "Song Of Mana",
+      "description": "Survive 15 minutes with Poppea.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Song of Mana"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-song-of-mana-survive",
+          "type": "time_survived",
+          "subject": "any_stage",
+          "operator": "gte",
+          "value": 15,
+          "scope": "run",
+          "sourceUnlockId": "base-song-of-mana"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 18
+    },
+    {
+      "id": "base-shadow-pinion",
+      "name": "Shadow Pinion",
+      "description": "Survive 15 minutes with Concetta.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Shadow Pinion"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-shadow-pinion-survive",
+          "type": "time_survived",
+          "subject": "any_stage",
+          "operator": "gte",
+          "value": 15,
+          "scope": "run",
+          "sourceUnlockId": "base-shadow-pinion"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 19
+    },
+    {
+      "id": "base-vento-sacro",
+      "name": "Vento Sacro",
+      "description": "Survive 15 minutes with Zi'Assunta.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Vento Sacro"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-vento-sacro-survive",
+          "type": "time_survived",
+          "subject": "any_stage",
+          "operator": "gte",
+          "value": 15,
+          "scope": "run",
+          "sourceUnlockId": "base-vento-sacro"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 20
+    },
+    {
+      "id": "base-pentagram",
+      "name": "Pentagram",
+      "description": "Survive 20 minutes with any character.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Pentagram"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-pentagram-survive",
+          "type": "time_survived",
+          "subject": "any_stage",
+          "operator": "gte",
+          "value": 20,
+          "scope": "run",
+          "sourceUnlockId": "base-pentagram"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 21
+    },
+    {
+      "id": "base-tiragis",
+      "name": "Tiragisú",
+      "description": "Survive 20 minutes with Krochi.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Tiragisú"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-tiragis-survive",
+          "type": "time_survived",
+          "subject": "any_stage",
+          "operator": "gte",
+          "value": 20,
+          "scope": "run",
+          "sourceUnlockId": "base-tiragis"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 22
+    },
+    {
+      "id": "base-lama",
+      "name": "Lama",
+      "description": "Survive 20 minutes with at least +10% Curse.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Lama"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-lama-survive",
+          "type": "time_survived",
+          "subject": "any_stage",
+          "operator": "gte",
+          "value": 20,
+          "scope": "run",
+          "sourceUnlockId": "base-lama"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [
+        "The actual unlock condition is to have any amount of Curse higher than the base value at the end of a 20+ minute run."
+      ],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 23
+    },
+    {
+      "id": "base-extra-she-moon-eeta",
+      "name": "EXTRA: She-Moon Eeta",
+      "description": "Survive 20 minutes in Whiteout.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "She-Moon Eeta"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-extra-she-moon-eeta-survive",
+          "type": "time_survived",
+          "subject": "any_stage",
+          "operator": "gte",
+          "value": 20,
+          "scope": "run",
+          "sourceUnlockId": "base-extra-she-moon-eeta"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 24
+    },
+    {
+      "id": "base-extra-santa-ladonna",
+      "name": "EXTRA: Santa Ladonna",
+      "description": "Survive 20 minutes in Laborratory.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Santa Ladonna"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-extra-santa-ladonna-survive",
+          "type": "time_survived",
+          "subject": "any_stage",
+          "operator": "gte",
+          "value": 20,
+          "scope": "run",
+          "sourceUnlockId": "base-extra-santa-ladonna"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 25
+    },
+    {
+      "id": "base-extra-gazebo",
+      "name": "EXTRA: Gazebo",
+      "description": "Survive 20 minutes in The Coop.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Gazebo"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-extra-gazebo-survive",
+          "type": "time_survived",
+          "subject": "any_stage",
+          "operator": "gte",
+          "value": 20,
+          "scope": "run",
+          "sourceUnlockId": "base-extra-gazebo"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [
+        "Used to be unlocked by evolving Gaze of Gaea into Embrace of Gaea."
+      ],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 26
+    },
+    {
+      "id": "base-extra-chula-reh",
+      "name": "EXTRA: Chula-Reh",
+      "description": "Survive 20 minutes in Westwoods.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Chula-Reh"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-extra-chula-reh-survive",
+          "type": "time_survived",
+          "subject": "any_stage",
+          "operator": "gte",
+          "value": 20,
+          "scope": "run",
+          "sourceUnlockId": "base-extra-chula-reh"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 27
+    },
+    {
+      "id": "base-extra-space-dude",
+      "name": "EXTRA: Space Dude",
+      "description": "Survive 20 minutes in Space 54.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Space Dude"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-extra-space-dude-survive",
+          "type": "time_survived",
+          "subject": "any_stage",
+          "operator": "gte",
+          "value": 20,
+          "scope": "run",
+          "sourceUnlockId": "base-extra-space-dude"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 28
+    },
+    {
+      "id": "base-skull-o-maniac",
+      "name": "Skull O'Maniac",
+      "description": "Survive 30 minutes with Lama.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Skull O'Maniac"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-skull-o-maniac-survive",
+          "type": "time_survived",
+          "subject": "any_stage",
+          "operator": "gte",
+          "value": 30,
+          "scope": "run",
+          "sourceUnlockId": "base-skull-o-maniac"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 29
+    },
+    {
+      "id": "base-bracer",
+      "name": "Bracer",
+      "description": "Get King Bible to Level 4.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Bracer"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-bracer-unlock",
+          "type": "unlock",
+          "subject": "progression",
+          "operator": "eq",
+          "value": "complete",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-bracer"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 30
+    },
+    {
+      "id": "base-candelabrador",
+      "name": "Candelabrador",
+      "description": "Get Santa Water to Level 4.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Candelabrador"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-candelabrador-unlock",
+          "type": "unlock",
+          "subject": "progression",
+          "operator": "eq",
+          "value": "complete",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-candelabrador"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 31
+    },
+    {
+      "id": "base-arca",
+      "name": "Arca",
+      "description": "Get Fire Wand to Level 4.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Arca"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-arca-unlock",
+          "type": "unlock",
+          "subject": "progression",
+          "operator": "eq",
+          "value": "complete",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-arca"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 32
+    },
+    {
+      "id": "base-porta",
+      "name": "Porta",
+      "description": "Get Lightning Ring to Level 4.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Porta"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-porta-unlock",
+          "type": "unlock",
+          "subject": "progression",
+          "operator": "eq",
+          "value": "complete",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-porta"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 33
+    },
+    {
+      "id": "base-duplicator",
+      "name": "Duplicator",
+      "description": "Get Magic Wand to Level 7.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Duplicator"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-duplicator-unlock",
+          "type": "unlock",
+          "subject": "progression",
+          "operator": "eq",
+          "value": "complete",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-duplicator"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 34
+    },
+    {
+      "id": "base-ebony-wings",
+      "name": "Ebony Wings",
+      "description": "Get Peachone to Level 7.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Ebony Wings"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-ebony-wings-unlock",
+          "type": "unlock",
+          "subject": "progression",
+          "operator": "eq",
+          "value": "complete",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-ebony-wings"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 35
+    },
+    {
+      "id": "base-spellbinder",
+      "name": "Spellbinder",
+      "description": "Get Runetracer to Level 7.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Spellbinder"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-spellbinder-unlock",
+          "type": "unlock",
+          "subject": "progression",
+          "operator": "eq",
+          "value": "complete",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-spellbinder"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 36
+    },
+    {
+      "id": "base-poe-ratcho",
+      "name": "Poe Ratcho",
+      "description": "Get Garlic to level 7.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Poe"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-poe-ratcho-unlock",
+          "type": "unlock",
+          "subject": "progression",
+          "operator": "eq",
+          "value": "complete",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-poe-ratcho"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 37
+    },
+    {
+      "id": "base-christine",
+      "name": "Christine",
+      "description": "Get Pentagram to level 7.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Christine"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-christine-unlock",
+          "type": "unlock",
+          "subject": "progression",
+          "operator": "eq",
+          "value": "complete",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-christine"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 38
+    },
+    {
+      "id": "base-extra-glass-fandango",
+      "name": "EXTRA: Glass Fandango",
+      "description": "Get Glass Fandango to Level 7.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Glass Fandango"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-extra-glass-fandango-unlock",
+          "type": "unlock",
+          "subject": "progression",
+          "operator": "eq",
+          "value": "complete",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-extra-glass-fandango"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 39
+    },
+    {
+      "id": "base-extra-santa-javelin",
+      "name": "EXTRA: Santa Javelin",
+      "description": "Get Santa Javelin to level 7.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": [
+        "Santa Javelin"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": [
+            "progression"
+          ],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-extra-santa-javelin-unlock",
+          "type": "unlock",
+          "subject": "progression",
+          "operator": "eq",
+          "value": "complete",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-extra-santa-javelin"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 40
+    },
+    {
+      "id": "base-secret-kissme",
+      "name": "KissMe",
+      "description": "Follow the trail after pillaging Pummarola and Skull O'Maniac from the Mad Forest.",
       "unlockCategory": "secret",
-      "sourceGroup": "emerald_diorama",
+      "sourceGroup": "base",
       "rewardType": "character",
       "rewardTargets": [
-        "Malevolent Door Spirit"
+        "Boon Marrabbio"
       ],
       "rewardValues": [
         {
@@ -136,37 +1432,1057 @@
       ],
       "prerequisites": [
         {
-          "id": "pre-emerald_diorama-secret-icetomeetyou-secret",
+          "id": "pre-base-secret-kissme-secret",
           "type": "secret_hint",
-          "subject": "IceToMeetYou",
+          "subject": "KissMe",
           "operator": "eq",
           "value": "active",
           "scope": "lifetime",
-          "sourceUnlockId": "emerald_diorama-secret-icetomeetyou"
+          "sourceUnlockId": "base-secret-kissme"
         }
       ],
       "isSpoiler": true,
       "notes": [],
       "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
-      "sortOrder": 4
+      "sortOrder": 41
+    },
+    {
+      "id": "base-secret-mafaipianooo",
+      "name": "MaFaiPianooo",
+      "description": "It is tangible only in the inverted Inlaid Library. Good friends might then show the way.",
+      "unlockCategory": "secret",
+      "sourceGroup": "base",
+      "rewardType": "character",
+      "rewardTargets": [
+        "Avatar Infernas"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-secret-mafaipianooo-secret",
+          "type": "secret_hint",
+          "subject": "MaFaiPianooo",
+          "operator": "eq",
+          "value": "active",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-secret-mafaipianooo"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 42
+    },
+    {
+      "id": "base-secret-cheeseaccident",
+      "name": "CheeseAccident",
+      "description": "Deal with the consequence of stealing cheese from the Dairy Plant.",
+      "unlockCategory": "secret",
+      "sourceGroup": "base",
+      "rewardType": "character",
+      "rewardTargets": [
+        "Minnah Mannarah"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-secret-cheeseaccident-secret",
+          "type": "secret_hint",
+          "subject": "CheeseAccident",
+          "operator": "eq",
+          "value": "active",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-secret-cheeseaccident"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 43
+    },
+    {
+      "id": "base-secret-bringmebackthere",
+      "name": "BringMeBackThere",
+      "description": "Investigate the bottom of Gallo Tower.",
+      "unlockCategory": "secret",
+      "sourceGroup": "base",
+      "rewardType": "character",
+      "rewardTargets": [
+        "Leda"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-secret-bringmebackthere-secret",
+          "type": "secret_hint",
+          "subject": "BringMeBackThere",
+          "operator": "eq",
+          "value": "active",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-secret-bringmebackthere"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 44
+    },
+    {
+      "id": "base-secret-pureheart",
+      "name": "PureHeart",
+      "description": "With a pure heart and two good friends, visit the fiery balcony in Cappella Magna.",
+      "unlockCategory": "secret",
+      "sourceGroup": "base",
+      "rewardType": "character",
+      "rewardTargets": [
+        "Cosmo Pavone"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-secret-pureheart-secret",
+          "type": "secret_hint",
+          "subject": "PureHeart",
+          "operator": "eq",
+          "value": "active",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-secret-pureheart"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 45
+    },
+    {
+      "id": "base-secret-beagoodboy",
+      "name": "BeAGoodBoy",
+      "description": "Be a good boy in Il Molise.",
+      "unlockCategory": "secret",
+      "sourceGroup": "base",
+      "rewardType": "character",
+      "rewardTargets": [
+        "Peppino"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-secret-beagoodboy-secret",
+          "type": "secret_hint",
+          "subject": "BeAGoodBoy",
+          "operator": "eq",
+          "value": "active",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-secret-beagoodboy"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 46
+    },
+    {
+      "id": "base-secret-master16",
+      "name": "Master16",
+      "description": "Run away from Moongolow with all 16 accessories mastered.",
+      "unlockCategory": "secret",
+      "sourceGroup": "base",
+      "rewardType": "character",
+      "rewardTargets": [
+        "Big Trouser"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-secret-master16-secret",
+          "type": "secret_hint",
+          "subject": "Master16",
+          "operator": "eq",
+          "value": "active",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-secret-master16"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 47
+    },
+    {
+      "id": "base-secret-edgeoftheworld",
+      "name": "EdgeOfTheWorld",
+      "description": "With the most adverse fate in Green Acres, run off the edge of the world.",
+      "unlockCategory": "secret",
+      "sourceGroup": "base",
+      "rewardType": "character",
+      "rewardTargets": [
+        "missingN▯"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-secret-edgeoftheworld-secret",
+          "type": "secret_hint",
+          "subject": "EdgeOfTheWorld",
+          "operator": "eq",
+          "value": "active",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-secret-edgeoftheworld"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 48
+    },
+    {
+      "id": "base-secret-slumsflowers",
+      "name": "SlumsFlowers",
+      "description": "Find the only one place where flowers bloom in The Bone Zone.",
+      "unlockCategory": "secret",
+      "sourceGroup": "base",
+      "rewardType": "character",
+      "rewardTargets": [
+        "Gains Boros"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-secret-slumsflowers-find",
+          "type": "item_find",
+          "subject": "target_item",
+          "operator": "eq",
+          "value": "found",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-secret-slumsflowers"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 49
+    },
+    {
+      "id": "base-secret-bossrashboss",
+      "name": "BossRashBoss",
+      "description": "Survive the Boss Rash with just one weapon.",
+      "unlockCategory": "secret",
+      "sourceGroup": "base",
+      "rewardType": "character",
+      "rewardTargets": [
+        "Gyorunton"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-secret-bossrashboss-survive",
+          "type": "time_survived",
+          "subject": "any_stage",
+          "operator": "gte",
+          "value": 1,
+          "scope": "run",
+          "sourceUnlockId": "base-secret-bossrashboss"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 50
+    },
+    {
+      "id": "base-secret-killthareapa",
+      "name": "KillThaReapa",
+      "description": "Settle the score with the Reaper.",
+      "unlockCategory": "secret",
+      "sourceGroup": "base",
+      "rewardType": "character",
+      "rewardTargets": [
+        "Mask of the Red Death"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-secret-killthareapa-secret",
+          "type": "secret_hint",
+          "subject": "KillThaReapa",
+          "operator": "eq",
+          "value": "active",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-secret-killthareapa"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 51
+    },
+    {
+      "id": "base-secret-castthiefspell",
+      "name": "CastThiefSpell",
+      "description": "1) Cast the spell x-x1viiq.",
+      "unlockCategory": "secret",
+      "sourceGroup": "base",
+      "rewardType": "character",
+      "rewardTargets": [
+        "Exdash Exiviiq"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-secret-castthiefspell-secret",
+          "type": "secret_hint",
+          "subject": "CastThiefSpell",
+          "operator": "eq",
+          "value": "active",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-secret-castthiefspell"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 52
+    },
+    {
+      "id": "base-secret-uppercutreaper",
+      "name": "UppercutReaper",
+      "description": "2) Uppercut a non-red reaper.",
+      "unlockCategory": "secret",
+      "sourceGroup": "base",
+      "rewardType": "character",
+      "rewardTargets": [
+        "Toastie"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-secret-uppercutreaper-secret",
+          "type": "secret_hint",
+          "subject": "UppercutReaper",
+          "operator": "eq",
+          "value": "active",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-secret-uppercutreaper"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 53
+    },
+    {
+      "id": "base-secret-spamspamspam",
+      "name": "SpamSpamSpam",
+      "description": "3) Sometimes you just need to ask for help.",
+      "unlockCategory": "secret",
+      "sourceGroup": "base",
+      "rewardType": "character",
+      "rewardTargets": [
+        "Smith IV"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-secret-spamspamspam-secret",
+          "type": "secret_hint",
+          "subject": "SpamSpamSpam",
+          "operator": "eq",
+          "value": "active",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-secret-spamspamspam"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 54
+    },
+    {
+      "id": "base-secret-underthecoffin",
+      "name": "UnderTheCoffin",
+      "description": "Look under previously owned coffins.",
+      "unlockCategory": "secret",
+      "sourceGroup": "base",
+      "rewardType": "character",
+      "rewardTargets": [
+        "Random"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-secret-underthecoffin-secret",
+          "type": "secret_hint",
+          "subject": "UnderTheCoffin",
+          "operator": "eq",
+          "value": "active",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-secret-underthecoffin"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 55
+    },
+    {
+      "id": "base-secret-getringofrings",
+      "name": "GetRingOfRings",
+      "description": "It's as simple as ABC: obtain the ring of rings.",
+      "unlockCategory": "secret",
+      "sourceGroup": "base",
+      "rewardType": "character",
+      "rewardTargets": [
+        "Bats Bats Bats"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-secret-getringofrings-secret",
+          "type": "secret_hint",
+          "subject": "GetRingOfRings",
+          "operator": "eq",
+          "value": "active",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-secret-getringofrings"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 56
+    },
+    {
+      "id": "base-secret-princessshadow",
+      "name": "PrincessShadow",
+      "description": "Her royal shadow lies behind the 46th door.",
+      "unlockCategory": "secret",
+      "sourceGroup": "base",
+      "rewardType": "character",
+      "rewardTargets": [
+        "Rose De Infernas"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-secret-princessshadow-secret",
+          "type": "secret_hint",
+          "subject": "PrincessShadow",
+          "operator": "eq",
+          "value": "active",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-secret-princessshadow"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 57
+    },
+    {
+      "id": "base-secret-wanderingcolossus",
+      "name": "WanderingColossus",
+      "description": "Witness the 17th Colossus wander to new horizons.",
+      "unlockCategory": "secret",
+      "sourceGroup": "base",
+      "rewardType": "character",
+      "rewardTargets": [
+        "Torino"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-secret-wanderingcolossus-secret",
+          "type": "secret_hint",
+          "subject": "WanderingColossus",
+          "operator": "eq",
+          "value": "active",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-secret-wanderingcolossus"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 58
+    },
+    {
+      "id": "base-secret-hearthethunder",
+      "name": "HearTheThunder",
+      "description": "Discover the source of the roaring thunder on the Tiny Bridge.",
+      "unlockCategory": "secret",
+      "sourceGroup": "base",
+      "rewardType": "character",
+      "rewardTargets": [
+        "Scorej-Oni"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-secret-hearthethunder-secret",
+          "type": "secret_hint",
+          "subject": "HearTheThunder",
+          "operator": "eq",
+          "value": "active",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-secret-hearthethunder"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 59
+    },
+    {
+      "id": "base-secret-wincarlocart",
+      "name": "WinCarloCart",
+      "description": "Forsake victory in favor of sightseeing in Carlo Cart.",
+      "unlockCategory": "secret",
+      "sourceGroup": "base",
+      "rewardType": "character",
+      "rewardTargets": [
+        "Gyoruntin"
+      ],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": [
+            "power",
+            "progression"
+          ],
+          "baseUtility": 78
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-secret-wincarlocart-secret",
+          "type": "secret_hint",
+          "subject": "WinCarloCart",
+          "operator": "eq",
+          "value": "active",
+          "scope": "lifetime",
+          "sourceUnlockId": "base-secret-wincarlocart"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 60
     }
   ],
   "dependencyLinks": [
     {
-      "fromUnlockId": "emerald_diorama-secret-maidofmagic",
-      "toUnlockId": "emerald_diorama-secret-bugandafeature",
+      "fromUnlockId": "base-wings",
+      "toUnlockId": "base-crown",
       "relation": "enables",
       "strength": "medium"
     },
     {
-      "fromUnlockId": "emerald_diorama-secret-bugandafeature",
-      "toUnlockId": "emerald_diorama-secret-awoooooooooo",
+      "fromUnlockId": "base-crown",
+      "toUnlockId": "base-inlaid-library",
       "relation": "enables",
       "strength": "medium"
     },
     {
-      "fromUnlockId": "emerald_diorama-secret-awoooooooooo",
-      "toUnlockId": "emerald_diorama-secret-icetomeetyou",
+      "fromUnlockId": "base-inlaid-library",
+      "toUnlockId": "base-dairy-plant",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-dairy-plant",
+      "toUnlockId": "base-gallo-tower",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-gallo-tower",
+      "toUnlockId": "base-cappella-magna",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-cappella-magna",
+      "toUnlockId": "base-extra-bat-country",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-extra-bat-country",
+      "toUnlockId": "base-extra-astral-stair",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-extra-astral-stair",
+      "toUnlockId": "base-extra-mazerella",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-extra-mazerella",
+      "toUnlockId": "base-extra-tiny-bridge",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-extra-tiny-bridge",
+      "toUnlockId": "base-hollow-heart",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-hollow-heart",
+      "toUnlockId": "base-runetracer",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-runetracer",
+      "toUnlockId": "base-pummarola",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-pummarola",
+      "toUnlockId": "base-peachone",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-peachone",
+      "toUnlockId": "base-phiera-der-tuphello",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-phiera-der-tuphello",
+      "toUnlockId": "base-eight-the-sparrow",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-eight-the-sparrow",
+      "toUnlockId": "base-gatti-amari",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-gatti-amari",
+      "toUnlockId": "base-song-of-mana",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-song-of-mana",
+      "toUnlockId": "base-shadow-pinion",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-shadow-pinion",
+      "toUnlockId": "base-vento-sacro",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-vento-sacro",
+      "toUnlockId": "base-pentagram",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-pentagram",
+      "toUnlockId": "base-tiragis",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-tiragis",
+      "toUnlockId": "base-lama",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-lama",
+      "toUnlockId": "base-extra-she-moon-eeta",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-extra-she-moon-eeta",
+      "toUnlockId": "base-extra-santa-ladonna",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-extra-santa-ladonna",
+      "toUnlockId": "base-extra-gazebo",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-extra-gazebo",
+      "toUnlockId": "base-extra-chula-reh",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-extra-chula-reh",
+      "toUnlockId": "base-extra-space-dude",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-extra-space-dude",
+      "toUnlockId": "base-skull-o-maniac",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-skull-o-maniac",
+      "toUnlockId": "base-bracer",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-bracer",
+      "toUnlockId": "base-candelabrador",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-candelabrador",
+      "toUnlockId": "base-arca",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-arca",
+      "toUnlockId": "base-porta",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-porta",
+      "toUnlockId": "base-duplicator",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-duplicator",
+      "toUnlockId": "base-ebony-wings",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-ebony-wings",
+      "toUnlockId": "base-spellbinder",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-spellbinder",
+      "toUnlockId": "base-poe-ratcho",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-poe-ratcho",
+      "toUnlockId": "base-christine",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-christine",
+      "toUnlockId": "base-extra-glass-fandango",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-extra-glass-fandango",
+      "toUnlockId": "base-extra-santa-javelin",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-extra-santa-javelin",
+      "toUnlockId": "base-secret-kissme",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-secret-kissme",
+      "toUnlockId": "base-secret-mafaipianooo",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-secret-mafaipianooo",
+      "toUnlockId": "base-secret-cheeseaccident",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-secret-cheeseaccident",
+      "toUnlockId": "base-secret-bringmebackthere",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-secret-bringmebackthere",
+      "toUnlockId": "base-secret-pureheart",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-secret-pureheart",
+      "toUnlockId": "base-secret-beagoodboy",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-secret-beagoodboy",
+      "toUnlockId": "base-secret-master16",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-secret-master16",
+      "toUnlockId": "base-secret-edgeoftheworld",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-secret-edgeoftheworld",
+      "toUnlockId": "base-secret-slumsflowers",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-secret-slumsflowers",
+      "toUnlockId": "base-secret-bossrashboss",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-secret-bossrashboss",
+      "toUnlockId": "base-secret-killthareapa",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-secret-killthareapa",
+      "toUnlockId": "base-secret-castthiefspell",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-secret-castthiefspell",
+      "toUnlockId": "base-secret-uppercutreaper",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-secret-uppercutreaper",
+      "toUnlockId": "base-secret-spamspamspam",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-secret-spamspamspam",
+      "toUnlockId": "base-secret-underthecoffin",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-secret-underthecoffin",
+      "toUnlockId": "base-secret-getringofrings",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-secret-getringofrings",
+      "toUnlockId": "base-secret-princessshadow",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-secret-princessshadow",
+      "toUnlockId": "base-secret-wanderingcolossus",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-secret-wanderingcolossus",
+      "toUnlockId": "base-secret-hearthethunder",
+      "relation": "enables",
+      "strength": "medium"
+    },
+    {
+      "fromUnlockId": "base-secret-hearthethunder",
+      "toUnlockId": "base-secret-wincarlocart",
       "relation": "enables",
       "strength": "medium"
     }

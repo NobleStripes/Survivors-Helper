@@ -22,6 +22,21 @@ Packages:
 3. Run tests:
    npm run test
 
+## Run As Web App
+
+For easiest local browser access, run frontend and backend together:
+
+1. Install dependencies:
+   npm install
+2. Start both servers:
+   npm run web:dev
+3. Open the app:
+   http://localhost:5173
+
+Notes:
+- Frontend runs on Vite dev server.
+- `/api/*` calls are proxied to backend on port `4170`.
+
 ## Data Fetch
 
 To begin and refresh source ingestion from the wiki:
