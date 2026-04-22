@@ -1,0 +1,15 @@
+{
+  "name": "@survivors-helper/backend",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "npm run build && node --test dist/**/*.test.js",
+    "lint": "echo 'No lint configured for backend'"
+  },
+  "dependencies": {
+    "@survivors-helper/shared": "0.1.0"
+  }
+}

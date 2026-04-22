@@ -1,0 +1,19 @@
+{
+  "name": "survivors-helper",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "shared",
+    "backend",
+    "frontend"
+  ],
+  "scripts": {
+    "build": "npm run --workspace @survivors-helper/shared build && npm run --workspace @survivors-helper/backend build && npm run --workspace @survivors-helper/frontend build",
+    "test": "npm run --workspaces test",
+    "lint": "npm run --workspaces lint"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "typescript": "^5.6.3"
+  }
+}

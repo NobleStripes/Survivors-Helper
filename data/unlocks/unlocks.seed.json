@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "datasetVersion": "0.1.0",
+    "gamePatch": "1.15.100",
+    "lastUpdatedAt": "2026-04-22",
+    "source": "vampire.survivors.wiki"
+  },
+  "unlocks": [
+    {
+      "id": "base-wings",
+      "name": "Wings",
+      "description": "Reach Level 5.",
+      "unlockCategory": "standard",
+      "sourceGroup": "base",
+      "rewardType": "feature",
+      "rewardTargets": ["Wings"],
+      "rewardValues": [
+        {
+          "rewardType": "feature",
+          "utilityTags": ["progression"],
+          "baseUtility": 70
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-base-wings-1",
+          "type": "level",
+          "subject": "any_character",
+          "operator": "gte",
+          "value": 5,
+          "scope": "run",
+          "sourceUnlockId": "base-wings"
+        }
+      ],
+      "isSpoiler": false,
+      "notes": [],
+      "wikiRef": "https://vampire.survivors.wiki/w/Achievements",
+      "sortOrder": 1
+    },
+    {
+      "id": "secret-marrabbio",
+      "name": "Marrabbio",
+      "description": "Follow the trail after pillaging Pummarola and Skull O'Maniac from the Mad Forest.",
+      "unlockCategory": "secret",
+      "sourceGroup": "base",
+      "rewardType": "character",
+      "rewardTargets": ["Boon Marrabbio"],
+      "rewardValues": [
+        {
+          "rewardType": "character",
+          "utilityTags": ["power", "meta"],
+          "baseUtility": 75
+        }
+      ],
+      "prerequisites": [
+        {
+          "id": "pre-secret-marrabbio-1",
+          "type": "secret_hint",
+          "subject": "KissMe",
+          "operator": "eq",
+          "value": "active",
+          "scope": "lifetime",
+          "sourceUnlockId": "secret-marrabbio"
+        }
+      ],
+      "isSpoiler": true,
+      "notes": [
+        "From the secrets menu hint list"
+      ],
+      "wikiRef": "https://vampire.survivors.wiki/w/Secrets",
+      "sortOrder": 2
+    }
+  ],
+  "dependencyLinks": [
+    {
+      "fromUnlockId": "base-wings",
+      "toUnlockId": "secret-marrabbio",
+      "relation": "enables",
+      "strength": "low"
+    }
+  ]
+}

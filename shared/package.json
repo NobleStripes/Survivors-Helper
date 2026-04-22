@@ -1,0 +1,12 @@
+{
+  "name": "@survivors-helper/shared",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "echo \"Shared tests pending runner setup\"",
+    "lint": "echo 'No lint configured for shared'"
+  }
+}
